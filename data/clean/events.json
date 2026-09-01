@@ -1,0 +1,529 @@
+[
+  {
+    "id": "5b7acbf8966afcf52fe3d639f873e097f64829a2",
+    "kategorija": "glasba",
+    "naslov": "Komorni orkester Mahler, Teddy Abrams, dirigent; Yuja Wang, klavir (74. Ljubljanski festival)",
+    "datum": "2026-09-01",
+    "ura": "20:00",
+    "prizorisce": "Gallusova dvorana, Cankarjev dom",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.ljubljanafestival.si/en/events-calendar/15228-komorni-orkester-mahler-teddy-abrams-and-yuja-wang",
+      "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana/ljubljana-festival",
+      "https://www.ljubljanafestival.si/en/events-calendar/15228-mahler-chamber-orchestra-teddy-abrams-yuja-wang-74-lf"
+    ]
+  },
+  {
+    "id": "9f208f27849049e7e83d306717e3fe489b4ceaf9",
+    "kategorija": "kultura",
+    "naslov": "75 let povezovanja (fotografska razstava)",
+    "datum": "2026-09-01",
+    "ura": null,
+    "prizorisce": "Jakopičevo sprehajališče, Park Tivoli",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/75-let-povezovanja"
+    ]
+  },
+  {
+    "id": "976eae184247c3aa5bd0fa96987bbf63158192d5",
+    "kategorija": "kultura",
+    "naslov": "Drago Hrvacki, pregledna razstava",
+    "datum": "2026-09-01",
+    "ura": "10:00",
+    "prizorisce": "Mednarodni grafični likovni center (MGLC), Grad Tivoli, Pod turnom 3",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/drago-hrvacki-pregledna-razstava"
+    ]
+  },
+  {
+    "id": "d35bfdb65e1e0ff95a71bca0f94fc63b683af450",
+    "kategorija": "kultura",
+    "naslov": "Država, vrednostni sistemi in šolstvo (razstava)",
+    "datum": "2026-09-01",
+    "ura": null,
+    "prizorisce": "Krakovski nasip, Trnovo",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/drzava-vrednostni-sistemi-in-solstvo"
+    ]
+  },
+  {
+    "id": "412c8a8695e13196b8c17326d22bd0ff9e200ebc",
+    "kategorija": "kultura",
+    "naslov": "Hommage à France Rotar – 25 let kasneje (razstava, Ljubljana Festival)",
+    "datum": "2026-09-01",
+    "ura": "18:00",
+    "prizorisce": "Križevniška cerkev",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/hommage-a-france-rotar-25-let-kasneje",
+      "https://www.ljubljanafestival.si/en/events-calendar/"
+    ]
+  },
+  {
+    "id": "a32fad95095036f317323cc2e46390ca40899f4a",
+    "kategorija": "kultura",
+    "naslov": "Knjižnica pod krošnjami",
+    "datum": "2026-09-01",
+    "ura": null,
+    "prizorisce": "Različne lokacije v Ljubljani",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/knjiznica-pod-krosnjami"
+    ]
+  },
+  {
+    "id": "2f04e95cf1fbdde960bf3822b51b59c6cc9c008b",
+    "kategorija": "kultura",
+    "naslov": "Ko ilustracije oživijo (razstava knjižnih ilustracij)",
+    "datum": "2026-09-01",
+    "ura": "09:00",
+    "prizorisce": "Ljubljanski grad, Grajska planota 1",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/ko-ilustracije-ozivijo"
+    ]
+  },
+  {
+    "id": "cae03de209e6fb5e4490f944cc59978bc2c0c3b2",
+    "kategorija": "kultura",
+    "naslov": "Likovna razstava ob 80-letnici Lovske družine Šmarna gora (odprtje)",
+    "datum": "2026-09-01",
+    "ura": "17:00",
+    "prizorisce": "Kulturno umetniško društvo Pirniče",
+    "kraj": "Medvode",
+    "viri": [
+      "https://www.mojaobcina.si/medvode/dogodki/"
+    ]
+  },
+  {
+    "id": "20315278b5d118a3c66be8d720f2ebbd8933f179",
+    "kategorija": "kultura",
+    "naslov": "Občasna razstava Darila državi",
+    "datum": "2026-09-01",
+    "ura": "10:00",
+    "prizorisce": "Muzej novejše zgodovine Slovenije, Celovška cesta 23",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/obcasna-razstava-darila-drzavi"
+    ]
+  },
+  {
+    "id": "006626938db177827db880a4de1e9fc8e056ae81",
+    "kategorija": "kultura",
+    "naslov": "Plečnik in a-cappella 2026 (koncertni cikel)",
+    "datum": "2026-09-01",
+    "ura": null,
+    "prizorisce": "Različne Plečnikove lokacije po Ljubljani",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/plecnik-in-a-cappella"
+    ]
+  },
+  {
+    "id": "7e0a0e6d95411775ff50299de355dc92d3e22213",
+    "kategorija": "kultura",
+    "naslov": "Pod površjem – geoznanosti za mesta prihodnosti (razstava)",
+    "datum": "2026-09-01",
+    "ura": null,
+    "prizorisce": "Gallusovo nabrežje",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/pod-povrsjem-geoznanosti-za-mesta-prihodnosti"
+    ]
+  },
+  {
+    "id": "48ff55f0d4493574da96cd208db403193b32edb8",
+    "kategorija": "kultura",
+    "naslov": "Razstava fotografij: Portreti pajkov (Tone Marinko)",
+    "datum": "2026-09-01",
+    "ura": null,
+    "prizorisce": "Knjižnica Medvode",
+    "kraj": "Medvode",
+    "viri": [
+      "https://www.mojaobcina.si/medvode/dogodki/"
+    ]
+  },
+  {
+    "id": "a467ea5f4d09d9198ed9cc806062cda7d36b530b",
+    "kategorija": "kultura",
+    "naslov": "UNICUM 2026 – 6. mednarodni trienale keramike",
+    "datum": "2026-09-01",
+    "ura": "10:00",
+    "prizorisce": "Narodni muzej Slovenije, NMS Metelkova in Center Rog",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/unicum-2026"
+    ]
+  },
+  {
+    "id": "6ff1cf8e90ec00a42ded41566ec56ff415e6faf5",
+    "kategorija": "glasba",
+    "naslov": "London Symphony Orchestra, Antonio Pappano, dirigent; Bruce Liu, klavir (74. Ljubljanski festival)",
+    "datum": "2026-09-02",
+    "ura": "20:00",
+    "prizorisce": "Gallusova dvorana, Cankarjev dom",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.ljubljanafestival.si/en/events-calendar/14365-london-symphony-orchestra-bruce-liu-74-lf",
+      "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana/ljubljana-festival",
+      "https://www.ljubljanafestival.si/en/events-calendar/"
+    ]
+  },
+  {
+    "id": "9f5efe0bbc992d0bbf4406ef43e13667797ba052",
+    "kategorija": "glasba",
+    "naslov": "Poletje v Siski 2026: Pebble Seven",
+    "datum": "2026-09-02",
+    "ura": "20:00",
+    "prizorisce": "Kavarna Kina Siska (letna terasa), Trg prekomorskih brigad 3",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.kinosiska.si/en/dogodek/summer-in-siska-2026-pebble-seven/",
+      "https://www.kinosiska.si/dogodek/poletje-v-siski-2026/"
+    ]
+  },
+  {
+    "id": "34dd4bfa1df626dc6ebe3ac715597b744437b211",
+    "kategorija": "glasba",
+    "naslov": "London Symphony Orchestra in Kaunaski drzavni zbor, Antonio Pappano, dirigent (Mahler: Simfonija st. 2) (74. Ljubljanski festival)",
+    "datum": "2026-09-03",
+    "ura": "20:00",
+    "prizorisce": "Gallusova dvorana, Cankarjev dom",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.ljubljanafestival.si/en/events-calendar/14368-london-symphony-orchestra-antonio-pappano-74-lf",
+      "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana/ljubljana-festival",
+      "https://www.ljubljanafestival.si/en/events-calendar/"
+    ]
+  },
+  {
+    "id": "fe91b5235c19ff9f773c20404fdcaa9b270a1ec9",
+    "kategorija": "kultura",
+    "naslov": "Evropski dnevi judovske kulture v Ljubljani",
+    "datum": "2026-09-03",
+    "ura": null,
+    "prizorisce": "Križevniška ulica in druge lokacije v Ljubljani",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/evropski-dnevi-judovske-kulture-v-ljubljani"
+    ]
+  },
+  {
+    "id": "2492a592f8af9e3a92bd79ec88b851ef162c88f3",
+    "kategorija": "sport",
+    "naslov": "12. Športne igre zaposlenih",
+    "datum": "2026-09-03",
+    "ura": null,
+    "prizorisce": "Različna športna prizorišča (Športna zveza Ljubljane)",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://szlj.si/4-ljubljanski-festival-sporta-ljubljana-bo-znova-v-znamenju-sporta/"
+    ]
+  },
+  {
+    "id": "892c3a890c80b159ac3306665aa2256ba7e38376",
+    "kategorija": "glasba",
+    "naslov": "Mamma Mia! (muzikal, 74. Ljubljanski festival)",
+    "datum": "2026-09-04",
+    "ura": "20:00",
+    "prizorisce": "Krizanke",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.ljubljanafestival.si/en/events-calendar/15347-mamma-mia-74-lf-5-6-2026",
+      "https://ljubljanafestival.si/en/event/mamma-mia-22/",
+      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/mamma-mia",
+      "https://www.ljubljanafestival.si/en/events-calendar/"
+    ]
+  },
+  {
+    "id": "7f245747adb0215fecd468ae939c65e89fcffeb6",
+    "kategorija": "glasba",
+    "naslov": "MRFY in Delta Riff (Poletje med vodami 2026)",
+    "datum": "2026-09-04",
+    "ura": "21:00",
+    "prizorisce": "Mladinski center Klub Jedro",
+    "kraj": "Medvode",
+    "viri": [
+      "https://www.songkick.com/concerts/43373861-mrfy-at-klub-jedro",
+      "https://www.medvode.si/objava/1325095"
+    ]
+  },
+  {
+    "id": "57d92706686672df0dda0ba2aeab95cecd4f0357",
+    "kategorija": "glasba",
+    "naslov": "Shaun Banks - No Rest For The Wicked Tour",
+    "datum": "2026-09-04",
+    "ura": "20:00",
+    "prizorisce": "Bizzarnica pri Marici",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/september-2026",
+      "https://www.songkick.com/artists/10129154-shaun-banks/calendar"
+    ]
+  },
+  {
+    "id": "a855c31b4868daeadbc19efe7c65a1dee4861994",
+    "kategorija": "sport",
+    "naslov": "ND Ilirija 1911 - NK Primorje (2. SNL)",
+    "datum": "2026-09-04",
+    "ura": "17:00",
+    "prizorisce": "Stadion Ilirija",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://ilirija1911.com/",
+      "https://www.flashscore.si/nogomet/slovenija/2-snl/razpored/"
+    ]
+  },
+  {
+    "id": "b386de55f599140e57f709c6e8668db541a3d74c",
+    "kategorija": "glasba",
+    "naslov": "Tradicionalna veselica na Govejku",
+    "datum": "2026-09-05",
+    "ura": "14:00",
+    "prizorisce": "Mihelcicev dom na Govejku",
+    "kraj": "Medvode",
+    "viri": [
+      "https://www.mojaobcina.si/medvode/dogodki/glasba/"
+    ]
+  },
+  {
+    "id": "7f4a39f8f55d6186d7e8decb75d773af8af4a4c1",
+    "kategorija": "kultura",
+    "naslov": "10. Festival kave Vrhnika 2026",
+    "datum": "2026-09-05",
+    "ura": "10:00",
+    "prizorisce": "Park pred Cankarjevim domom Vrhnika, Tržaška cesta 25",
+    "kraj": "Vrhnika",
+    "viri": [
+      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/festival-kave-na-vrhniki"
+    ]
+  },
+  {
+    "id": "a47f046a12c5c5460ceb1e4a2db94bf3d31ec2a0",
+    "kategorija": "kultura",
+    "naslov": "ARTish – ulični umetniški sejem",
+    "datum": "2026-09-05",
+    "ura": "10:00",
+    "prizorisce": "Gallusovo nabrežje",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/artish-fest"
+    ]
+  },
+  {
+    "id": "bb88e97f5edcc860c1b5b2fc4ca4d1c7f9904167",
+    "kategorija": "kultura",
+    "naslov": "Grajski piskači – sobotni nastop na Razglednem stolpu",
+    "datum": "2026-09-05",
+    "ura": "11:30",
+    "prizorisce": "Ljubljanski grad, Grajska planota 1",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/grajski-piskaci"
+    ]
+  },
+  {
+    "id": "8542dd6905101d4304a55252a7109df94fc97d82",
+    "kategorija": "kultura",
+    "naslov": "Moste Open 2026 – dan kulture, glasbe in ustvarjalnosti",
+    "datum": "2026-09-05",
+    "ura": "15:00",
+    "prizorisce": "Center kulture Španski borci, Zaloška cesta 61",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/moste-open"
+    ]
+  },
+  {
+    "id": "0786cab4680b90cbfa58843df9b74b62483253a0",
+    "kategorija": "sport",
+    "naslov": "4. Ljubljanski festival športa",
+    "datum": "2026-09-05",
+    "ura": null,
+    "prizorisce": "Park Tivoli",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.ljubljana.si/sl/ljubljana/sportna/ljubljanski-festival-sporta",
+      "https://szlj.si/4-ljubljanski-festival-sporta-ljubljana-bo-znova-v-znamenju-sporta/",
+      "https://www.visitljubljana.com/en/visitors/events"
+    ]
+  },
+  {
+    "id": "87c356ad5571fccfd7968cdd7833a11f745b3fc3",
+    "kategorija": "sport",
+    "naslov": "Koloigre v koloparku Podutik",
+    "datum": "2026-09-05",
+    "ura": "09:30",
+    "prizorisce": "Kolopark Podutik, Dolniška cesta",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.ljubljana.si/sl/aktualno/dogodki/"
+    ]
+  },
+  {
+    "id": "8fbdf049865589ea824cfe89a71013fdade38340",
+    "kategorija": "sport",
+    "naslov": "Memorialni turnir TD Slovan (tenis)",
+    "datum": "2026-09-05",
+    "ura": "09:00",
+    "prizorisce": "Teniška igrišča TD Slovan, Kodeljevo",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.tenis-slovenija.si/vabilo-memorialni-turnir-td-slovan-5-9-2026/"
+    ]
+  },
+  {
+    "id": "edc59a8396e9cee7cd95d76a5529a3c26f67bcb6",
+    "kategorija": "sport",
+    "naslov": "NK Olimpija Ljubljana - NK Brinje Grosuplje (Prva liga Telemach, 8. krog)",
+    "datum": "2026-09-05",
+    "ura": "20:15",
+    "prizorisce": "Stadion Stožice",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://nkolimpija.si/en/matches/first-league-telemach/",
+      "https://nkolimpija.si/en/",
+      "https://www.flashscore.si/nogomet/slovenija/prva-liga/razpored/"
+    ]
+  },
+  {
+    "id": "dbaeae017945f1f11039f9fb4ce5eb918c6996f4",
+    "kategorija": "sport",
+    "naslov": "Nogometni turnir Brcnimo rasizem 2026",
+    "datum": "2026-09-05",
+    "ura": "10:00",
+    "prizorisce": "Igrišče ŠD Tabor, Tabor 13",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://koledar.kompot.si/event/nogometni-turnir-brcnimo-rasizem-2026"
+    ]
+  },
+  {
+    "id": "7813a5f98583a3d4d5d69160df14815af4806bdf",
+    "kategorija": "sport",
+    "naslov": "RD Slovan - RK Riko Ribnica (1. NLB liga, rokomet)",
+    "datum": "2026-09-05",
+    "ura": null,
+    "prizorisce": "Športna dvorana Kodeljevo",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.flashscore.si/rokomet/slovenija/nlb-leasing-1/razpored/"
+    ]
+  },
+  {
+    "id": "b8bc5b4e7df66df960d5d426c3bebfc61b744bb1",
+    "kategorija": "sport",
+    "naslov": "RK Krim Mercator - CSM Bucuresti (EHF Liga prvakinj 2026/27, 1. krog)",
+    "datum": "2026-09-05",
+    "ura": "16:00",
+    "prizorisce": "Arena Stožice",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://rkkrim.com/en/ehf-champions-league-2026-27-our-group-stage-opponents-confirmed/",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Women%27s_EHF_Champions_League_group_stage"
+    ]
+  },
+  {
+    "id": "8dc23576acc82d22317cc1a2159e4c758b2ca964",
+    "kategorija": "sport",
+    "naslov": "Ulična košarka 3 na 3 - finalni turnir (v okviru Ljubljanskega festivala športa)",
+    "datum": "2026-09-05",
+    "ura": null,
+    "prizorisce": "Zunanja igrišča ŠRC Ilirija",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://szlj.si/4-ljubljanski-festival-sporta-ljubljana-bo-znova-v-znamenju-sporta/"
+    ]
+  },
+  {
+    "id": "972a414c3d5a2dc72b9d03638a193c38b4a11ab1",
+    "kategorija": "glasba",
+    "naslov": "Berliner Symphoniker, Gudni Emilsson, dirigent; Khatia Buniatishvili, klavir (74. Ljubljanski festival)",
+    "datum": "2026-09-06",
+    "ura": "20:00",
+    "prizorisce": "Gallusova dvorana, Cankarjev dom",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.slovenia.info/en/things-to-do/events/25381-berliner-symphoniker-gudni-emilsson-conductor-khatia-buniatishvili-piano",
+      "https://www.ljubljanafestival.si/en/events-calendar/"
+    ]
+  },
+  {
+    "id": "153254f7425a9a92d191b2a3091f1fb3d79a9ed5",
+    "kategorija": "glasba",
+    "naslov": "Nedeljski promenadni koncerti ljubljanskih pihalnih orkestrov: Godba ljubljanskih veteranov",
+    "datum": "2026-09-06",
+    "ura": "11:00",
+    "prizorisce": "Novi trg, pri Zlati ladjici",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/promenadni-koncerti-ljubljanskih-godb"
+    ]
+  },
+  {
+    "id": "437128191822570d37e86629a60ea3f0f764f517",
+    "kategorija": "kultura",
+    "naslov": "Borbe čolnarjev na Ljubljanici 2026 – tradicionalna prireditev",
+    "datum": "2026-09-06",
+    "ura": "14:00",
+    "prizorisce": "Trnovski pristan, Trnovo",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/borbe-colnarjev"
+    ]
+  },
+  {
+    "id": "983923f5e9904a76b57ce8b753ec22a8eadb3b58",
+    "kategorija": "sport",
+    "naslov": "NK Vrhnika - NK Rudar Velenje (2. SNL)",
+    "datum": "2026-09-06",
+    "ura": "17:00",
+    "prizorisce": "Stadion Vrhnika",
+    "kraj": "Vrhnika",
+    "viri": [
+      "https://www.sofascore.com/football/match/nk-vrhnika-rudar-velenje/mYsdcvg",
+      "https://www.flashscore.si/nogomet/slovenija/2-snl/razpored/"
+    ]
+  },
+  {
+    "id": "296cb8227ba1ecf5fc4d40a911e579543fcd1efd",
+    "kategorija": "glasba",
+    "naslov": "Staatskapelle Dresden, Daniele Gatti, dirigent (Mahler: Simfonija st. 6) (74. Ljubljanski festival)",
+    "datum": "2026-09-07",
+    "ura": "20:00",
+    "prizorisce": "Gallusova dvorana, Cankarjev dom",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.eventim.si/city/ljubljana-5738/",
+      "https://www.ljubljanafestival.si/en/events-calendar/"
+    ]
+  },
+  {
+    "id": "e9e1116878e749b557dbb482eaef9afc1e09c805",
+    "kategorija": "kultura",
+    "naslov": "Povorke po nabrežjih Ljubljanice z ljubljanskimi pihalnimi orkestri",
+    "datum": "2026-09-07",
+    "ura": "18:30",
+    "prizorisce": "Čevljarski most, Center",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/povorke-po-nabrezjih-ljubljanice"
+    ]
+  },
+  {
+    "id": "8b6ef4940a51965d384ffd3ca3563e5353c904ef",
+    "kategorija": "glasba",
+    "naslov": "Filharmonicni orkester Baltskega morja, Robert Trevino, dirigent; Lana Trotovsek, violina (zakljucni koncert 74. Ljubljanskega festivala)",
+    "datum": "2026-09-08",
+    "ura": "20:00",
+    "prizorisce": "Gallusova dvorana, Cankarjev dom",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana/baltic-sea-philharmonic-robert-trevino-conductor-lana-trotovsek-violin",
+      "https://www.ljubljanafestival.si/en/events-calendar/"
+    ]
+  }
+]

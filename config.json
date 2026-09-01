@@ -1,0 +1,8 @@
+{
+  "kraj": "Ljubljana",
+  "vkljuci_naselja": ["Domžale", "Kamnik", "Vrhnika", "Medvode", "Grosuplje"],
+  "radij_km": 25,
+  "okno": { "od": "today", "dni": 7 },
+  "kategorije": ["glasba", "kultura", "sport"],
+  "razvrsti_po": "odmevnost"
+}

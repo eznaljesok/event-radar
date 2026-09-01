@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch",
+      "Read",
+      "Write",
+      "Edit",
+      "Task",
+      "Bash(node pipeline/curator.js)",
+      "Bash(node pipeline/compiler.js)"
+    ]
+  }
+}
