@@ -1,87 +1,39 @@
 [
   {
     "kategorija": "glasba",
-    "naslov": "Komorni orkester Mahler, Teddy Abrams, dirigent; Yuja Wang, klavir (74. Ljubljanski festival)",
-    "datum": "2026-09-01",
-    "ura": "20:00",
-    "prizorisce": "Gallusova dvorana, Cankarjev dom",
+    "naslov": "Slavnostni koncert ob 50-letnici Jesenskih serenad",
+    "datum": "2026-09-03",
+    "ura": "18:00",
+    "prizorisce": "Slovenska filharmonija, Dvorana Marjana Kozine",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://www.ljubljanafestival.si/en/events-calendar/15228-komorni-orkester-mahler-teddy-abrams-and-yuja-wang",
-      "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana/ljubljana-festival"
-    ]
+    "viri": ["https://napovednik.com/glasba", "https://www.lokalne-ajdovscina.si/novice/2026083112541809/nova-sezona-jesenskih-serenad-je-pred-vrati/"]
   },
   {
     "kategorija": "glasba",
-    "naslov": "London Symphony Orchestra, Antonio Pappano, dirigent; Bruce Liu, klavir (74. Ljubljanski festival)",
-    "datum": "2026-09-02",
-    "ura": "20:00",
-    "prizorisce": "Gallusova dvorana, Cankarjev dom",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://www.ljubljanafestival.si/en/events-calendar/14365-london-symphony-orchestra-bruce-liu-74-lf",
-      "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana/ljubljana-festival"
-    ]
-  },
-  {
-    "kategorija": "glasba",
-    "naslov": "Poletje v Siski 2026: Pebble Seven",
-    "datum": "2026-09-02",
-    "ura": "20:00",
-    "prizorisce": "Kavarna Kina Siska (letna terasa), Trg prekomorskih brigad 3",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://www.kinosiska.si/en/dogodek/summer-in-siska-2026-pebble-seven/",
-      "https://www.kinosiska.si/dogodek/poletje-v-siski-2026/"
-    ]
-  },
-  {
-    "kategorija": "glasba",
-    "naslov": "London Symphony Orchestra in Kaunaski drzavni zbor, Antonio Pappano, dirigent (Mahler: Simfonija st. 2) (74. Ljubljanski festival)",
+    "naslov": "London Symphony Orchestra in Drzavni zbor iz Kaunasa (Mahler: Simfonija st. 2)",
     "datum": "2026-09-03",
     "ura": "20:00",
-    "prizorisce": "Gallusova dvorana, Cankarjev dom",
+    "prizorisce": "Cankarjev dom, Gallusova dvorana",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://www.ljubljanafestival.si/en/events-calendar/14368-london-symphony-orchestra-antonio-pappano-74-lf",
-      "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana/ljubljana-festival"
-    ]
+    "viri": ["https://www.ljubljanafestival.si/en/events-calendar/", "https://www.eventim.si/city/ljubljana-5738/"]
   },
   {
     "kategorija": "glasba",
-    "naslov": "Shaun Banks - No Rest For The Wicked Tour",
+    "naslov": "Mamma Mia!",
     "datum": "2026-09-04",
     "ura": "20:00",
-    "prizorisce": "Bizzarnica pri Marici",
+    "prizorisce": "Krizanke",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/september-2026",
-      "https://www.songkick.com/artists/10129154-shaun-banks/calendar"
-    ]
+    "viri": ["https://www.ljubljanafestival.si/en/events-calendar/"]
   },
   {
     "kategorija": "glasba",
-    "naslov": "MRFY in Delta Riff (Poletje med vodami 2026)",
+    "naslov": "Koncert: MRFY & Delta Riff",
     "datum": "2026-09-04",
     "ura": "21:00",
     "prizorisce": "Mladinski center Klub Jedro",
     "kraj": "Medvode",
-    "viri": [
-      "https://www.songkick.com/concerts/43373861-mrfy-at-klub-jedro",
-      "https://www.medvode.si/objava/1325095"
-    ]
-  },
-  {
-    "kategorija": "glasba",
-    "naslov": "Mamma Mia! (muzikal, 74. Ljubljanski festival)",
-    "datum": "2026-09-04",
-    "ura": null,
-    "prizorisce": "Krizanke",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://www.ljubljanafestival.si/en/events-calendar/15347-mamma-mia-74-lf-5-6-2026",
-      "https://ljubljanafestival.si/en/event/mamma-mia-22/"
-    ]
+    "viri": ["https://www.mojaobcina.si/medvode/dogodki/"]
   },
   {
     "kategorija": "glasba",
@@ -90,55 +42,96 @@
     "ura": "14:00",
     "prizorisce": "Mihelcicev dom na Govejku",
     "kraj": "Medvode",
-    "viri": [
-      "https://www.mojaobcina.si/medvode/dogodki/glasba/"
-    ]
+    "viri": ["https://www.mojaobcina.si/medvode/dogodki/"]
   },
   {
     "kategorija": "glasba",
-    "naslov": "Berliner Symphoniker, Gudni Emilsson, dirigent; Khatia Buniatishvili, klavir (74. Ljubljanski festival)",
+    "naslov": "Berliner Symphoniker, Gudni Emilsson in Khatia Buniatishvili",
     "datum": "2026-09-06",
     "ura": "20:00",
-    "prizorisce": "Gallusova dvorana, Cankarjev dom",
+    "prizorisce": "Cankarjev dom",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://www.slovenia.info/en/things-to-do/events/25381-berliner-symphoniker-gudni-emilsson-conductor-khatia-buniatishvili-piano",
-      "https://www.ljubljanafestival.si/en/events-calendar/"
-    ]
+    "viri": ["https://www.ljubljanafestival.si/en/events-calendar/"]
   },
   {
     "kategorija": "glasba",
-    "naslov": "Nedeljski promenadni koncerti ljubljanskih pihalnih orkestrov: Godba ljubljanskih veteranov",
-    "datum": "2026-09-06",
-    "ura": "11:00",
-    "prizorisce": "Novi trg, pri Zlati ladjici",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/promenadni-koncerti-ljubljanskih-godb"
-    ]
-  },
-  {
-    "kategorija": "glasba",
-    "naslov": "Staatskapelle Dresden, Daniele Gatti, dirigent (Mahler: Simfonija st. 6) (74. Ljubljanski festival)",
+    "naslov": "Staatskapelle Dresden in Daniele Gatti (Mahler: Simfonija st. 6)",
     "datum": "2026-09-07",
     "ura": "20:00",
-    "prizorisce": "Gallusova dvorana, Cankarjev dom",
+    "prizorisce": "Cankarjev dom",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://www.eventim.si/city/ljubljana-5738/",
-      "https://www.ljubljanafestival.si/en/events-calendar/"
-    ]
+    "viri": ["https://www.ljubljanafestival.si/en/events-calendar/", "https://www.eventim.si/city/ljubljana-5738/"]
   },
   {
     "kategorija": "glasba",
-    "naslov": "Filharmonicni orkester Baltskega morja, Robert Trevino, dirigent; Lana Trotovsek, violina (zakljucni koncert 74. Ljubljanskega festivala)",
+    "naslov": "Filharmonicni orkester Baltskega morja, Robert Trevino, Lana Trotovsek (zakljucni koncert 74. Ljubljana Festivala)",
     "datum": "2026-09-08",
     "ura": "20:00",
-    "prizorisce": "Gallusova dvorana, Cankarjev dom",
+    "prizorisce": "Cankarjev dom",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana/baltic-sea-philharmonic-robert-trevino-conductor-lana-trotovsek-violin",
-      "https://www.ljubljanafestival.si/en/events-calendar/"
-    ]
+    "viri": ["https://www.ljubljanafestival.si/en/events-calendar/", "https://www.eventim.si/city/ljubljana-5738/"]
+  },
+  {
+    "kategorija": "glasba",
+    "naslov": "Jesenske serenade - Vodne niti",
+    "datum": "2026-09-08",
+    "ura": "19:30",
+    "prizorisce": "",
+    "kraj": "Ljubljana",
+    "viri": ["https://napovednik.com/glasba"]
+  },
+  {
+    "kategorija": "glasba",
+    "naslov": "Avdicije za srednjesolski pevski zbor Veter",
+    "datum": "2026-09-08",
+    "ura": "19:00",
+    "prizorisce": "",
+    "kraj": "Ljubljana",
+    "viri": ["https://napovednik.com/glasba"]
+  },
+  {
+    "kategorija": "glasba",
+    "naslov": "Jesenske serenade - Zivljenje je kabaret",
+    "datum": "2026-09-09",
+    "ura": "19:30",
+    "prizorisce": "",
+    "kraj": "Ljubljana",
+    "viri": ["https://napovednik.com/glasba"]
+  },
+  {
+    "kategorija": "glasba",
+    "naslov": "Jesenske serenade - Pot",
+    "datum": "2026-09-09",
+    "ura": "19:30",
+    "prizorisce": "",
+    "kraj": "Medvode",
+    "viri": ["https://napovednik.com/glasba"]
+  },
+  {
+    "kategorija": "glasba",
+    "naslov": "Summer in Siska 2026: OASIS BLOOM",
+    "datum": "2026-09-09",
+    "ura": "20:00",
+    "prizorisce": "Cafe Kino Siska",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.kinosiska.si/en/dogodek/summer-in-siska-2026-oasis-bloom/", "https://www.kinosiska.si/en/dogodek/?category=concert-en"]
+  },
+  {
+    "kategorija": "glasba",
+    "naslov": "Ivo Pogorelic, klavirski recital",
+    "datum": "2026-09-10",
+    "ura": "19:00",
+    "prizorisce": "Cankarjev dom, Gallusova dvorana",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.cd-cc.si/en/calendar", "https://dogodki.kulturnik.si/?where=Cankarjev+dom"]
+  },
+  {
+    "kategorija": "glasba",
+    "naslov": "3 Sestre Remix (rez. Ivica Buljan)",
+    "datum": "2026-09-10",
+    "ura": "",
+    "prizorisce": "Krizanke",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.ljubljanafestival.si/en/for-visitors/venues/venue-krizanke/", "https://www.eventim.si/city/ljubljana-5738/"]
   }
 ]

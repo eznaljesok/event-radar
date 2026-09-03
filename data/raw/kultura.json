@@ -1,260 +1,236 @@
 [
   {
-    "kategorija": "kultura",
-    "naslov": "Ko ilustracije oživijo (razstava knjižnih ilustracij)",
-    "datum": "2026-09-01",
-    "ura": "09:00",
-    "prizorisce": "Ljubljanski grad, Grajska planota 1",
-    "kraj": "Ljubljana",
-    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/ko-ilustracije-ozivijo"]
-  },
-  {
-    "kategorija": "kultura",
-    "naslov": "Drago Hrvacki, pregledna razstava",
-    "datum": "2026-09-01",
-    "ura": "10:00",
-    "prizorisce": "Mednarodni grafični likovni center (MGLC), Grad Tivoli, Pod turnom 3",
-    "kraj": "Ljubljana",
-    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/drago-hrvacki-pregledna-razstava"]
-  },
-  {
-    "kategorija": "kultura",
-    "naslov": "UNICUM 2026 – 6. mednarodni trienale keramike",
-    "datum": "2026-09-01",
-    "ura": "10:00",
-    "prizorisce": "Narodni muzej Slovenije, NMS Metelkova in Center Rog",
-    "kraj": "Ljubljana",
-    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/unicum-2026"]
-  },
-  {
-    "kategorija": "kultura",
-    "naslov": "Občasna razstava Darila državi",
-    "datum": "2026-09-01",
-    "ura": "10:00",
-    "prizorisce": "Muzej novejše zgodovine Slovenije, Celovška cesta 23",
-    "kraj": "Ljubljana",
-    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/obcasna-razstava-darila-drzavi"]
-  },
-  {
-    "kategorija": "kultura",
-    "naslov": "Pod površjem – geoznanosti za mesta prihodnosti (razstava)",
-    "datum": "2026-09-01",
-    "ura": null,
-    "prizorisce": "Gallusovo nabrežje",
-    "kraj": "Ljubljana",
-    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/pod-povrsjem-geoznanosti-za-mesta-prihodnosti"]
-  },
-  {
-    "kategorija": "kultura",
-    "naslov": "Država, vrednostni sistemi in šolstvo (razstava)",
-    "datum": "2026-09-01",
-    "ura": null,
-    "prizorisce": "Krakovski nasip, Trnovo",
-    "kraj": "Ljubljana",
-    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/drzava-vrednostni-sistemi-in-solstvo"]
-  },
-  {
-    "kategorija": "kultura",
-    "naslov": "75 let povezovanja (fotografska razstava)",
-    "datum": "2026-09-01",
-    "ura": null,
-    "prizorisce": "Jakopičevo sprehajališče, Park Tivoli",
-    "kraj": "Ljubljana",
-    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/75-let-povezovanja"]
-  },
-  {
-    "kategorija": "kultura",
-    "naslov": "Plečnik in a-cappella 2026 (koncertni cikel)",
-    "datum": "2026-09-01",
-    "ura": null,
-    "prizorisce": "Različne Plečnikove lokacije po Ljubljani",
-    "kraj": "Ljubljana",
-    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/plecnik-in-a-cappella"]
-  },
-  {
-    "kategorija": "kultura",
-    "naslov": "Knjižnica pod krošnjami",
-    "datum": "2026-09-01",
-    "ura": null,
-    "prizorisce": "Različne lokacije v Ljubljani",
-    "kraj": "Ljubljana",
-    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/knjiznica-pod-krosnjami"]
-  },
-  {
-    "kategorija": "kultura",
-    "naslov": "Hommage à France Rotar – 25 let kasneje (razstava, Ljubljana Festival)",
-    "datum": "2026-09-01",
-    "ura": "18:00",
-    "prizorisce": "Križevniška cerkev",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/hommage-a-france-rotar-25-let-kasneje",
-      "https://www.ljubljanafestival.si/en/events-calendar/"
-    ]
-  },
-  {
-    "kategorija": "kultura",
-    "naslov": "Mahler Chamber Orchestra, Teddy Abrams in Yuja Wang (Ljubljana Festival)",
-    "datum": "2026-09-01",
+    "naslov": "Londonski simfonicni orkester in Drzavni zbor iz Kaunasa (Mahler: Simfonija st. 2)",
+    "datum": "2026-09-03",
     "ura": "20:00",
-    "prizorisce": "Cankarjev dom",
+    "prizorisce": "Cankarjev dom, Gallusova dvorana",
     "kraj": "Ljubljana",
-    "viri": ["https://www.ljubljanafestival.si/en/events-calendar/15228-mahler-chamber-orchestra-teddy-abrams-yuja-wang-74-lf"]
+    "viri": ["https://www.ljubljanafestival.si/", "https://www.visitljubljana.com/sl/obiskovalci/prireditve"],
+    "kategorija": "kultura"
   },
   {
-    "kategorija": "kultura",
-    "naslov": "Likovna razstava ob 80-letnici Lovske družine Šmarna gora (odprtje)",
-    "datum": "2026-09-01",
-    "ura": "17:00",
-    "prizorisce": "Kulturno umetniško društvo Pirniče",
-    "kraj": "Medvode",
-    "viri": ["https://www.mojaobcina.si/medvode/dogodki/"]
-  },
-  {
-    "kategorija": "kultura",
-    "naslov": "Razstava fotografij: Portreti pajkov (Tone Marinko)",
-    "datum": "2026-09-01",
-    "ura": null,
-    "prizorisce": "Knjižnica Medvode",
-    "kraj": "Medvode",
-    "viri": ["https://www.mojaobcina.si/medvode/dogodki/"]
-  },
-  {
-    "kategorija": "kultura",
-    "naslov": "Londonski simfonični orkester, Antonio Pappano, Bruce Liu (Ljubljana Festival)",
-    "datum": "2026-09-02",
-    "ura": null,
-    "prizorisce": "Cankarjev dom",
-    "kraj": "Ljubljana",
-    "viri": ["https://www.ljubljanafestival.si/en/events-calendar/"]
-  },
-  {
-    "kategorija": "kultura",
-    "naslov": "Mahlerjevo Vstajenje – Londonski simfonični orkester in Kaunaški državni zbor (Ljubljana Festival)",
+    "naslov": "Snov (Matter)",
     "datum": "2026-09-03",
-    "ura": null,
-    "prizorisce": "Cankarjev dom",
+    "ura": "18:00",
+    "prizorisce": "Cankarjev dom, Stihova dvorana",
     "kraj": "Ljubljana",
-    "viri": ["https://www.ljubljanafestival.si/en/events-calendar/"]
+    "viri": ["https://www.cd-cc.si/en/monthly-events-calendar"],
+    "kategorija": "kultura"
   },
   {
-    "kategorija": "kultura",
-    "naslov": "Evropski dnevi judovske kulture v Ljubljani",
+    "naslov": "Predstavitev antologije sodobne poljske knjizevnosti in okrogla miza Fluidnost identitet",
     "datum": "2026-09-03",
-    "ura": null,
-    "prizorisce": "Križevniška ulica in druge lokacije v Ljubljani",
+    "ura": "20:00",
+    "prizorisce": "Cankarjev dom, Dvorana Alme Karlin",
     "kraj": "Ljubljana",
-    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/evropski-dnevi-judovske-kulture-v-ljubljani"]
+    "viri": ["https://www.cd-cc.si/en/monthly-events-calendar"],
+    "kategorija": "kultura"
   },
   {
-    "kategorija": "kultura",
-    "naslov": "Mamma Mia! (muzikal, Ljubljana Festival)",
+    "naslov": "Pravne moznosti za kulturo (javni forum)",
+    "datum": "2026-09-03",
+    "ura": "10:00",
+    "prizorisce": "Kino Siska",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.kinosiska.si/dogodek/"],
+    "kategorija": "kultura"
+  },
+  {
+    "naslov": "Vladimir Vremec: Med krajino in umetnostjo (razstava)",
+    "datum": "2026-09-03",
+    "ura": "",
+    "prizorisce": "Arboretum Volcji Potok",
+    "kraj": "Radomlje",
+    "viri": ["https://www.domkulture.org/sl/koledar-prireditev/"],
+    "kategorija": "kultura"
+  },
+  {
+    "naslov": "Gremo na morje (razstava)",
+    "datum": "2026-09-03",
+    "ura": "",
+    "prizorisce": "Mestni muzej Ljubljana",
+    "kraj": "Ljubljana",
+    "viri": ["https://mgml.si/sl/mestni-muzej/razstave/"],
+    "kategorija": "kultura"
+  },
+  {
+    "naslov": "Med obrambo in trgovino (razstava)",
+    "datum": "2026-09-03",
+    "ura": "",
+    "prizorisce": "Zakladnica Mestnega muzeja Ljubljana",
+    "kraj": "Ljubljana",
+    "viri": ["https://mgml.si/sl/mestni-muzej/razstave/"],
+    "kategorija": "kultura"
+  },
+  {
+    "naslov": "Snov (Matter)",
     "datum": "2026-09-04",
     "ura": "20:00",
-    "prizorisce": "Križanke, Trg francoske revolucije 1",
+    "prizorisce": "Cankarjev dom, Stihova dvorana",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/mamma-mia",
-      "https://www.ljubljanafestival.si/en/events-calendar/"
-    ]
+    "viri": ["https://www.cd-cc.si/en/monthly-events-calendar"],
+    "kategorija": "kultura"
   },
   {
-    "kategorija": "kultura",
-    "naslov": "ARTish – ulični umetniški sejem",
-    "datum": "2026-09-05",
-    "ura": "10:00",
-    "prizorisce": "Gallusovo nabrežje",
+    "naslov": "Mamma Mia! (muzikal)",
+    "datum": "2026-09-04",
+    "ura": "",
+    "prizorisce": "Krizanke",
     "kraj": "Ljubljana",
-    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/artish-fest"]
+    "viri": ["https://www.ljubljanafestival.si/"],
+    "kategorija": "kultura"
   },
   {
-    "kategorija": "kultura",
-    "naslov": "Grajski piskači – sobotni nastop na Razglednem stolpu",
-    "datum": "2026-09-05",
-    "ura": "11:30",
-    "prizorisce": "Ljubljanski grad, Grajska planota 1",
-    "kraj": "Ljubljana",
-    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/grajski-piskaci"]
+    "naslov": "Ujeti trenutki narave (fotografska razstava)",
+    "datum": "2026-09-04",
+    "ura": "19:00",
+    "prizorisce": "Foto klub Kamnik, Mengeska pot 5",
+    "kraj": "Kamnik",
+    "viri": ["https://www.domkulture.org/sl/koledar-prireditev/"],
+    "kategorija": "kultura"
   },
   {
-    "kategorija": "kultura",
-    "naslov": "Moste Open 2026 – dan kulture, glasbe in ustvarjalnosti",
-    "datum": "2026-09-05",
-    "ura": "15:00",
-    "prizorisce": "Center kulture Španski borci, Zaloška cesta 61",
-    "kraj": "Ljubljana",
-    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/moste-open"]
-  },
-  {
-    "kategorija": "kultura",
-    "naslov": "10. Festival kave Vrhnika 2026",
-    "datum": "2026-09-05",
-    "ura": "10:00",
-    "prizorisce": "Park pred Cankarjevim domom Vrhnika, Tržaška cesta 25",
-    "kraj": "Vrhnika",
-    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/festival-kave-na-vrhniki"]
-  },
-  {
-    "kategorija": "kultura",
-    "naslov": "Eva Černe Avbelj – jubilejni koncert",
-    "datum": "2026-09-05",
+    "naslov": "Vlado Kreslin (koncert)",
+    "datum": "2026-09-04",
     "ura": "20:00",
-    "prizorisce": "Poletno gledališče Studenec",
-    "kraj": "Domžale",
-    "viri": ["https://dogodki.kulturnik.si/?where=Dom%C5%BEale"]
+    "prizorisce": "Golf Resort Arboretum, Volcji Potok 43E",
+    "kraj": "Radomlje",
+    "viri": ["https://www.domkulture.org/sl/koledar-prireditev/"],
+    "kategorija": "kultura"
   },
   {
-    "kategorija": "kultura",
-    "naslov": "Berlinski simfoniki, Gudni Emilsson in Khatia Buniatishvili (Ljubljana Festival)",
-    "datum": "2026-09-06",
-    "ura": null,
-    "prizorisce": "Cankarjev dom",
+    "naslov": "ARTish umetniska trznica",
+    "datum": "2026-09-05",
+    "ura": "10:00",
+    "prizorisce": "Gallusovo nabrezje",
     "kraj": "Ljubljana",
-    "viri": ["https://www.ljubljanafestival.si/en/events-calendar/"]
+    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve"],
+    "kategorija": "kultura"
   },
   {
-    "kategorija": "kultura",
-    "naslov": "Nedeljski promenadni koncerti ljubljanskih pihalnih orkestrov",
+    "naslov": "Poklon umetniski zapuscini Dusana Lipovca",
+    "datum": "2026-09-05",
+    "ura": "10:00",
+    "prizorisce": "Samostan Mekinje",
+    "kraj": "Kamnik",
+    "viri": ["https://www.domkulture.org/sl/koledar-prireditev/"],
+    "kategorija": "kultura"
+  },
+  {
+    "naslov": "Festival kave Vrhnika 2026 (Cankarjevo leto 2026)",
+    "datum": "2026-09-05",
+    "ura": "10:00",
+    "prizorisce": "Cankarjev dom Vrhnika / staro mestno jedro",
+    "kraj": "Vrhnika",
+    "viri": ["https://visitvrhnika.si/dogodki/"],
+    "kategorija": "kultura"
+  },
+  {
+    "naslov": "Berlinski simfoniki, Gudni Emilsson in Katja Buniatisvili",
+    "datum": "2026-09-06",
+    "ura": "20:00",
+    "prizorisce": "Cankarjev dom, Gallusova dvorana",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.ljubljanafestival.si/"],
+    "kategorija": "kultura"
+  },
+  {
+    "naslov": "Promenadni koncerti pihalnih orkestrov",
     "datum": "2026-09-06",
     "ura": "11:00",
     "prizorisce": "Novi trg / Breg",
     "kraj": "Ljubljana",
-    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/promenadni-koncerti-ljubljanskih-godb"]
+    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve"],
+    "kategorija": "kultura"
   },
   {
-    "kategorija": "kultura",
-    "naslov": "Borbe čolnarjev na Ljubljanici 2026 – tradicionalna prireditev",
+    "naslov": "Kolektiv Arhiv: APPN (razstava)",
     "datum": "2026-09-06",
-    "ura": "14:00",
-    "prizorisce": "Trnovski pristan, Trnovo",
+    "ura": "",
+    "prizorisce": "Galerija Kresija",
     "kraj": "Ljubljana",
-    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/borbe-colnarjev"]
+    "viri": ["https://www.ljubljana.si/sl/aktualno/dogodki"],
+    "kategorija": "kultura"
   },
   {
-    "kategorija": "kultura",
-    "naslov": "Staatskapelle Dresden in Daniele Gatti – Mahlerjeva Šesta (Ljubljana Festival)",
+    "naslov": "Car nocnega gozda",
+    "datum": "2026-09-06",
+    "ura": "20:30",
+    "prizorisce": "Grad Zaprice",
+    "kraj": "Kamnik",
+    "viri": ["https://www.domkulture.org/sl/koledar-prireditev/"],
+    "kategorija": "kultura"
+  },
+  {
+    "naslov": "Mahlerjeva Sesta - Drzavna kapela iz Dresdna in Daniele Gatti",
     "datum": "2026-09-07",
-    "ura": null,
-    "prizorisce": "Cankarjev dom",
+    "ura": "20:00",
+    "prizorisce": "Cankarjev dom, Gallusova dvorana",
     "kraj": "Ljubljana",
-    "viri": ["https://www.ljubljanafestival.si/en/events-calendar/"]
+    "viri": ["https://www.ljubljanafestival.si/", "https://www.cd-cc.si/en/monthly-events-calendar"],
+    "kategorija": "kultura"
   },
   {
-    "kategorija": "kultura",
-    "naslov": "Povorke po nabrežjih Ljubljanice z ljubljanskimi pihalnimi orkestri",
+    "naslov": "G. Kunsek: Sonce in zelezo (plesna predstava)",
     "datum": "2026-09-07",
-    "ura": "18:30",
-    "prizorisce": "Čevljarski most, Center",
+    "ura": "20:00",
+    "prizorisce": "Kino Siska",
     "kraj": "Ljubljana",
-    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve/prireditve-v-ljubljani/povorke-po-nabrezjih-ljubljanice"]
+    "viri": ["https://www.kinosiska.si/dogodek/"],
+    "kategorija": "kultura"
   },
   {
-    "kategorija": "kultura",
-    "naslov": "Baltic Sea Philharmonic, Robert Treviño, Lana Trotovšek – zaključni koncert Ljubljana Festivala",
+    "naslov": "Veliki simfonicni zakljucek - Filharmonicni orkester Baltskega morja",
     "datum": "2026-09-08",
-    "ura": null,
-    "prizorisce": "Cankarjev dom",
+    "ura": "20:00",
+    "prizorisce": "Cankarjev dom / Krizanke",
     "kraj": "Ljubljana",
-    "viri": ["https://www.ljubljanafestival.si/en/events-calendar/"]
+    "viri": ["https://www.ljubljanafestival.si/"],
+    "kategorija": "kultura"
+  },
+  {
+    "naslov": "Umetnik na mesec - Uno.Tisto: Field Notes From the End of Nature (odprtje razstave)",
+    "datum": "2026-09-08",
+    "ura": "19:00",
+    "prizorisce": "Kino Siska",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.kinosiska.si/dogodek/"],
+    "kategorija": "kultura"
+  },
+  {
+    "naslov": "Zine Vitrine - Maxime Custodio: Mudd Ball (odprtje razstave)",
+    "datum": "2026-09-08",
+    "ura": "19:00",
+    "prizorisce": "Kino Siska",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.kinosiska.si/dogodek/"],
+    "kategorija": "kultura"
+  },
+  {
+    "naslov": "Poletje v Siski 2026: OASIS BOOM (koncert)",
+    "datum": "2026-09-09",
+    "ura": "20:00",
+    "prizorisce": "Kino Siska, zunanji oder",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.kinosiska.si/dogodek/"],
+    "kategorija": "kultura"
+  },
+  {
+    "naslov": "Ivo Pogorelic (klavirski recital)",
+    "datum": "2026-09-10",
+    "ura": "19:00",
+    "prizorisce": "Cankarjev dom, Gallusova dvorana",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.cd-cc.si/en/monthly-events-calendar"],
+    "kategorija": "kultura"
+  },
+  {
+    "naslov": "Klik za ljubezen (komicna opera, Iztok Kocen)",
+    "datum": "2026-09-10",
+    "ura": "19:30",
+    "prizorisce": "Cankarjev dom, Stihova dvorana",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.cd-cc.si/en/monthly-events-calendar"],
+    "kategorija": "kultura"
   }
 ]

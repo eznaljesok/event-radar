@@ -1,4 +1,6 @@
-$ErrorActionPreference = 'Stop'
+# 'Continue', ne 'Stop': native stderr (npr. claude progress) pod 2>&1 sicer
+# prekine skripto v Windows PowerShell 5.1. Varnost je v try/catch + preverbah spodaj.
+$ErrorActionPreference = 'Continue'
 $root = Split-Path -Parent $PSScriptRoot
 Set-Location $root
 $stamp  = Get-Date -Format 'yyyyMMdd-HHmmss'
@@ -20,8 +22,14 @@ foreach ($f in 'data\clean\events.json','data\scored\events.json','out\digest.md
 $prompt = Get-Content -Raw (Join-Path $PSScriptRoot 'radar-auto.md')
 $start  = Get-Date
 Log 'claude -p radar-auto ...'
-& $claude -p $prompt --permission-mode acceptEdits 2>&1 | Tee-Object -FilePath $log -Append
-Log "claude exit=$LASTEXITCODE"
+try {
+  & $claude -p $prompt --permission-mode bypassPermissions 2>&1 | Tee-Object -FilePath $log -Append
+  $claudeExit = $LASTEXITCODE
+} catch {
+  $claudeExit = 1
+  Log ("claude EXC: " + $_.Exception.Message)
+}
+Log "claude exit=$claudeExit"
 
 $ok = $true
 try {

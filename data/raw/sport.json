@@ -1,130 +1,73 @@
 [
   {
-    "kategorija": "sport",
-    "naslov": "4. Ljubljanski festival športa",
-    "datum": "2026-09-05",
-    "ura": null,
-    "prizorisce": "Park Tivoli",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://www.ljubljana.si/sl/ljubljana/sportna/ljubljanski-festival-sporta",
-      "https://szlj.si/4-ljubljanski-festival-sporta-ljubljana-bo-znova-v-znamenju-sporta/",
-      "https://www.visitljubljana.com/en/visitors/events"
-    ]
-  },
-  {
-    "kategorija": "sport",
     "naslov": "NK Olimpija Ljubljana - NK Brinje Grosuplje (Prva liga Telemach, 8. krog)",
     "datum": "2026-09-05",
     "ura": "20:15",
     "prizorisce": "Stadion Stožice",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://nkolimpija.si/en/matches/first-league-telemach/",
-      "https://nkolimpija.si/en/",
+    "vir": [
+      "https://nkolimpija.si/septembrski-razpored-zmajev/",
+      "https://nkolimpija.si/prost-vstop-za-osnovnosolce/",
       "https://www.flashscore.si/nogomet/slovenija/prva-liga/razpored/"
-    ]
+    ],
+    "kategorija": "sport"
   },
   {
-    "kategorija": "sport",
-    "naslov": "RK Krim Mercator - CSM Bucuresti (EHF Liga prvakinj 2026/27, 1. krog)",
+    "naslov": "4. Ljubljanski festival športa",
     "datum": "2026-09-05",
-    "ura": "16:00",
-    "prizorisce": "Arena Stožice",
+    "ura": "",
+    "prizorisce": "Park Tivoli",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://rkkrim.com/en/ehf-champions-league-2026-27-our-group-stage-opponents-confirmed/",
-      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Women%27s_EHF_Champions_League_group_stage"
-    ]
+    "vir": [
+      "https://www.ljubljana.si/sl/ljubljana/sportna/ljubljanski-festival-sporta",
+      "https://szlj.si/4-ljubljanski-festival-sporta-ljubljana-bo-znova-v-znamenju-sporta/",
+      "https://www.pd-ljmatica.si/4-ljubljanski-festival-sporta/"
+    ],
+    "kategorija": "sport"
   },
   {
-    "kategorija": "sport",
-    "naslov": "RD Slovan - RK Riko Ribnica (1. NLB liga, rokomet)",
+    "naslov": "11. Festival zdravja (v sklopu Ljubljanskega festivala športa)",
     "datum": "2026-09-05",
-    "ura": null,
-    "prizorisce": "Športna dvorana Kodeljevo",
+    "ura": "",
+    "prizorisce": "Park Tivoli",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://www.flashscore.si/rokomet/slovenija/nlb-leasing-1/razpored/"
-    ]
+    "vir": [
+      "https://www.ljubljana.si/sl/ljubljana/sportna/ljubljanski-festival-sporta"
+    ],
+    "kategorija": "sport"
   },
   {
-    "kategorija": "sport",
-    "naslov": "ND Ilirija 1911 - NK Primorje (2. SNL)",
-    "datum": "2026-09-04",
-    "ura": "17:00",
-    "prizorisce": "Stadion Ilirija",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://ilirija1911.com/",
-      "https://www.flashscore.si/nogomet/slovenija/2-snl/razpored/"
-    ]
-  },
-  {
-    "kategorija": "sport",
-    "naslov": "NK Vrhnika - NK Rudar Velenje (2. SNL)",
-    "datum": "2026-09-06",
-    "ura": "17:00",
-    "prizorisce": "Stadion Vrhnika",
-    "kraj": "Vrhnika",
-    "viri": [
-      "https://www.sofascore.com/football/match/nk-vrhnika-rudar-velenje/mYsdcvg",
-      "https://www.flashscore.si/nogomet/slovenija/2-snl/razpored/"
-    ]
-  },
-  {
-    "kategorija": "sport",
-    "naslov": "Memorialni turnir TD Slovan (tenis)",
+    "naslov": "12. Športne igre zaposlenih",
     "datum": "2026-09-05",
-    "ura": "09:00",
-    "prizorisce": "Teniška igrišča TD Slovan, Kodeljevo",
+    "ura": "",
+    "prizorisce": "Park Tivoli in druga ljubljanska prizorišča",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://www.tenis-slovenija.si/vabilo-memorialni-turnir-td-slovan-5-9-2026/"
-    ]
-  },
-  {
-    "kategorija": "sport",
-    "naslov": "Ulična košarka 3 na 3 - finalni turnir (v okviru Ljubljanskega festivala športa)",
-    "datum": "2026-09-05",
-    "ura": null,
-    "prizorisce": "Zunanja igrišča ŠRC Ilirija",
-    "kraj": "Ljubljana",
-    "viri": [
+    "vir": [
       "https://szlj.si/4-ljubljanski-festival-sporta-ljubljana-bo-znova-v-znamenju-sporta/"
-    ]
+    ],
+    "kategorija": "sport"
   },
   {
-    "kategorija": "sport",
-    "naslov": "Nogometni turnir Brcnimo rasizem 2026",
+    "naslov": "Zaključni turnir ulične košarke 3x3",
+    "datum": "2026-09-05",
+    "ura": "",
+    "prizorisce": "Zunanja igrišča Športnega centra Ilirija",
+    "kraj": "Ljubljana",
+    "vir": [
+      "https://szlj.si/4-ljubljanski-festival-sporta-ljubljana-bo-znova-v-znamenju-sporta/"
+    ],
+    "kategorija": "sport"
+  },
+  {
+    "naslov": "13. Nogometni turnir Brcnimo rasizem",
     "datum": "2026-09-05",
     "ura": "10:00",
-    "prizorisce": "Igrišče ŠD Tabor, Tabor 13",
+    "prizorisce": "Igrišče Športnega društva Tabor, Tabor 13",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://koledar.kompot.si/event/nogometni-turnir-brcnimo-rasizem-2026"
-    ]
-  },
-  {
-    "kategorija": "sport",
-    "naslov": "Koloigre v koloparku Podutik",
-    "datum": "2026-09-05",
-    "ura": "09:30",
-    "prizorisce": "Kolopark Podutik, Dolniška cesta",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://www.ljubljana.si/sl/aktualno/dogodki/"
-    ]
-  },
-  {
-    "kategorija": "sport",
-    "naslov": "12. Športne igre zaposlenih",
-    "datum": "2026-09-03",
-    "ura": null,
-    "prizorisce": "Različna športna prizorišča (Športna zveza Ljubljane)",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://szlj.si/4-ljubljanski-festival-sporta-ljubljana-bo-znova-v-znamenju-sporta/"
-    ]
+    "vir": [
+      "https://koledar.kompot.si/event/nogometni-turnir-brcnimo-rasizem-2026",
+      "https://radiostudent.si/ostalo/mestni-napovednik/fuzi-guzi"
+    ],
+    "kategorija": "sport"
   }
 ]
