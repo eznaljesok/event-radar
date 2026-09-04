@@ -1,228 +1,275 @@
 [
   {
-    "id": "06586736dcc3093f5352c6b4cb54460c7618596c",
+    "id": "1021e8d9437ff53f075c5ebab7e08ac3eb8834ca",
     "kategorija": "glasba",
-    "naslov": "London Symphony Orchestra in Drzavni zbor iz Kaunasa (Mahler: Simfonija st. 2)",
-    "datum": "2026-09-03",
+    "naslov": "Mamma Mia! (muzikal)",
+    "datum": "2026-09-04",
+    "ura": null,
+    "prizorisce": "Križanke",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.ljubljanafestival.si/en/events-calendar/"
+    ]
+  },
+  {
+    "id": "7c375ee5b10af87f252e28588c1c9759383a36b8",
+    "kategorija": "glasba",
+    "naslov": "Matter v Cankarjevem domu",
+    "datum": "2026-09-04",
     "ura": "20:00",
-    "prizorisce": "Cankarjev dom, Gallusova dvorana",
+    "prizorisce": "Cankarjev dom (Štihova dvorana)",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.ljubljanafestival.si/en/events-calendar/",
-      "https://www.eventim.si/city/ljubljana-5738/",
-      "https://www.ljubljanafestival.si/",
-      "https://www.visitljubljana.com/sl/obiskovalci/prireditve"
+      "https://www.cd-cc.si/kultura/glasba/matter-v-cankarjevem-domu",
+      "https://www.entrio.si/en/e/matter-v-cankarjevem-domu-icd3CP"
     ]
   },
   {
-    "id": "1613dcc0fb1ff77f6be44215ae7016e8507f72d5",
+    "id": "1f59b6465aa5e69b980e5fb2708c77a752b75f96",
     "kategorija": "glasba",
-    "naslov": "Slavnostni koncert ob 50-letnici Jesenskih serenad",
-    "datum": "2026-09-03",
-    "ura": "18:00",
-    "prizorisce": "Slovenska filharmonija, Dvorana Marjana Kozine",
-    "kraj": "Ljubljana",
+    "naslov": "MRFY in Delta Riff",
+    "datum": "2026-09-04",
+    "ura": "21:00",
+    "prizorisce": "Klub Jedro",
+    "kraj": "Medvode",
     "viri": [
-      "https://napovednik.com/glasba",
-      "https://www.lokalne-ajdovscina.si/novice/2026083112541809/nova-sezona-jesenskih-serenad-je-pred-vrati/"
+      "https://www.songkick.com/concerts/43373861-mrfy-at-klub-jedro",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana"
     ]
   },
   {
-    "id": "a9094f0f2d11c6cef4196dbcec5e5380c7f0f8e4",
+    "id": "ed9d7a080b7391f0ca894895924dc69038b09781",
+    "kategorija": "glasba",
+    "naslov": "Shaun Banks (No Rest For The Wicked Tour)",
+    "datum": "2026-09-04",
+    "ura": "21:00",
+    "prizorisce": "Bizzarnica pri Mariči",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.songkick.com/artists/10129154-shaun-banks/calendar",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/september-2026"
+    ]
+  },
+  {
+    "id": "1a335733c5f16370fbe666c008c1f774a7afa72a",
     "kategorija": "kultura",
-    "naslov": "Gremo na morje (razstava)",
-    "datum": "2026-09-03",
-    "ura": "",
+    "naslov": "Arheopark Emona",
+    "datum": "2026-09-04",
+    "ura": null,
     "prizorisce": "Mestni muzej Ljubljana",
     "kraj": "Ljubljana",
     "viri": [
-      "https://mgml.si/sl/mestni-muzej/razstave/"
+      "https://www.mgml.si/sl/"
     ]
   },
   {
-    "id": "2516af17e33f2df86c3363a54e85a66814fa8b9b",
+    "id": "588a85537aec32931a87bd8de7592313ac883adc",
     "kategorija": "kultura",
-    "naslov": "Med obrambo in trgovino (razstava)",
-    "datum": "2026-09-03",
-    "ura": "",
-    "prizorisce": "Zakladnica Mestnega muzeja Ljubljana",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://mgml.si/sl/mestni-muzej/razstave/"
-    ]
-  },
-  {
-    "id": "35aab9cfc64ec1fe85d46c2c0ac62795d6c01799",
-    "kategorija": "kultura",
-    "naslov": "Pravne moznosti za kulturo (javni forum)",
-    "datum": "2026-09-03",
-    "ura": "10:00",
-    "prizorisce": "Kino Siska",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://www.kinosiska.si/dogodek/"
-    ]
-  },
-  {
-    "id": "f6df8b33aad69b4d1a0b6d145d0944d88f8ac5ea",
-    "kategorija": "kultura",
-    "naslov": "Predstavitev antologije sodobne poljske knjizevnosti in okrogla miza Fluidnost identitet",
-    "datum": "2026-09-03",
-    "ura": "20:00",
-    "prizorisce": "Cankarjev dom, Dvorana Alme Karlin",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://www.cd-cc.si/en/monthly-events-calendar"
-    ]
-  },
-  {
-    "id": "32a3eca284d91e8c64e4ddbf3de7d7e48e662ec1",
-    "kategorija": "kultura",
-    "naslov": "Snov (Matter)",
-    "datum": "2026-09-03",
-    "ura": "18:00",
-    "prizorisce": "Cankarjev dom, Stihova dvorana",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://www.cd-cc.si/en/monthly-events-calendar"
-    ]
-  },
-  {
-    "id": "cfd4445f92da7853f9e49d8e783f0793b2594f1b",
-    "kategorija": "glasba",
-    "naslov": "Koncert: MRFY & Delta Riff",
+    "naslov": "Film: Zasebno zivljenje (A Private Life, r. Rebecca Zlotowski)",
     "datum": "2026-09-04",
-    "ura": "21:00",
-    "prizorisce": "Mladinski center Klub Jedro",
-    "kraj": "Medvode",
+    "ura": "15:45",
+    "prizorisce": "Kinodvor",
+    "kraj": "Ljubljana",
     "viri": [
-      "https://www.mojaobcina.si/medvode/dogodki/"
+      "https://www.kinodvor.org/en/"
     ]
   },
   {
-    "id": "ea28f67d1bfef270ce316c2fdf2762921cfa4444",
-    "kategorija": "glasba",
-    "naslov": "Mamma Mia!",
+    "id": "7a7d30e362ddd07c50ab4a7e9b1312f47b9ad13f",
+    "kategorija": "kultura",
+    "naslov": "Ivo Pogorelic, klavirski recital",
     "datum": "2026-09-04",
     "ura": "20:00",
-    "prizorisce": "Krizanke",
+    "prizorisce": "Gallusova dvorana, Cankarjev dom",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.ljubljanafestival.si/en/events-calendar/",
-      "https://www.ljubljanafestival.si/"
+      "https://www.eventim.si/city/ljubljana-5738/venue/cankarjev-dom-92473/",
+      "https://www.cd-cc.si/en/calendar"
     ]
   },
   {
-    "id": "f665a3f2bfa5121a8ab7f7d02e1c238bb2ba0c99",
+    "id": "8f6f1c16380540df7abc4a9d602310af54192497",
     "kategorija": "kultura",
-    "naslov": "Snov (Matter)",
+    "naslov": "Razstava: Gremo na morje",
     "datum": "2026-09-04",
-    "ura": "20:00",
-    "prizorisce": "Cankarjev dom, Stihova dvorana",
+    "ura": null,
+    "prizorisce": "Mestni muzej Ljubljana",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.cd-cc.si/en/monthly-events-calendar"
+      "https://www.mgml.si/sl/"
     ]
   },
   {
-    "id": "8e1f36d91ee8b05ea94400716fc9cd839378d22c",
+    "id": "f75bc240ac15e14d6b9d08db7378cd20bf7f76ef",
     "kategorija": "kultura",
-    "naslov": "Ujeti trenutki narave (fotografska razstava)",
+    "naslov": "Razstava: IRWIN - Fotografska dela",
     "datum": "2026-09-04",
-    "ura": "19:00",
-    "prizorisce": "Foto klub Kamnik, Mengeska pot 5",
-    "kraj": "Kamnik",
+    "ura": null,
+    "prizorisce": "Mestni muzej Ljubljana",
+    "kraj": "Ljubljana",
     "viri": [
-      "https://www.domkulture.org/sl/koledar-prireditev/"
+      "https://www.mgml.si/sl/"
     ]
   },
   {
-    "id": "b386de55f599140e57f709c6e8668db541a3d74c",
-    "kategorija": "glasba",
-    "naslov": "Tradicionalna veselica na Govejku",
-    "datum": "2026-09-05",
-    "ura": "14:00",
-    "prizorisce": "Mihelcicev dom na Govejku",
-    "kraj": "Medvode",
-    "viri": [
-      "https://www.mojaobcina.si/medvode/dogodki/"
-    ]
-  },
-  {
-    "id": "abd5b4d3b337df724c14653330e414d84d083fd0",
+    "id": "fd2c40d57fdebb6117ff5a4889dbaaebcc0740c2",
     "kategorija": "kultura",
-    "naslov": "ARTish umetniska trznica",
+    "naslov": "Razstava: Med obrambo in trgovino",
+    "datum": "2026-09-04",
+    "ura": null,
+    "prizorisce": "Mestni muzej Ljubljana",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.mgml.si/sl/"
+    ]
+  },
+  {
+    "id": "ecb581ac86308f6135fb921446eb79c3de3324aa",
+    "kategorija": "kultura",
+    "naslov": "Razstava: Od skice do lutke",
+    "datum": "2026-09-04",
+    "ura": null,
+    "prizorisce": "Bezigrajska galerija 1",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.mgml.si/sl/"
+    ]
+  },
+  {
+    "id": "6641c67bfe231b7df2ed93ff81048791457a3c7d",
+    "kategorija": "kultura",
+    "naslov": "Razstava: Plecnikove nagrade 2026 - Artefakti",
+    "datum": "2026-09-04",
+    "ura": null,
+    "prizorisce": "Plecnikova hisa",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.mgml.si/sl/"
+    ]
+  },
+  {
+    "id": "aa2f3ebf0bafd2cb929196eb2875d72bf87f37d4",
+    "kategorija": "kultura",
+    "naslov": "Razstava: Rob Hornstra - Obicajni ljudje",
+    "datum": "2026-09-04",
+    "ura": null,
+    "prizorisce": "Galerija Jakopic",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.mgml.si/sl/"
+    ]
+  },
+  {
+    "id": "c206ba13648a9ee815e01fe2443837e33a94bbaf",
+    "kategorija": "kultura",
+    "naslov": "Razstava: untranquil now",
+    "datum": "2026-09-04",
+    "ura": null,
+    "prizorisce": "Cukrarna",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.mgml.si/sl/"
+    ]
+  },
+  {
+    "id": "edb7b5dd2b8f02dd43371ece986c404339c5de86",
+    "kategorija": "kultura",
+    "naslov": "Spominska slovesnost za Mileno Zupancic",
+    "datum": "2026-09-04",
+    "ura": null,
+    "prizorisce": "Ni podatka",
+    "kraj": "Ljubljana",
+    "viri": [
+      "http://napovednik.com/"
+    ]
+  },
+  {
+    "id": "da2b9b3527cfc4beec463bdc98dc92685d8adf4b",
+    "kategorija": "kultura",
+    "naslov": "UNICUM 2026 - 6. mednarodni trienale keramike",
+    "datum": "2026-09-04",
+    "ura": null,
+    "prizorisce": "Narodni muzej Slovenije / NMS Metelkova / Center Rog",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana",
+      "https://www.slovenia.info/en/stories/important-events-in-slovenia-in-2026"
+    ]
+  },
+  {
+    "id": "2fdaeaa1542bd72534d301c24b91db4fdfaeeefd",
+    "kategorija": "sport",
+    "naslov": "ND Ilirija 1911 - NK Primorje (2. SNL, 5. krog)",
+    "datum": "2026-09-04",
+    "ura": "17:00",
+    "prizorisce": "Stadion Ilirija",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.nzs.si/klubi/moski/2-slovenska-nogometna-liga/tekme"
+    ]
+  },
+  {
+    "id": "0d4c5b089c80378a664e1303b7ba67cbf9382081",
+    "kategorija": "sport",
+    "naslov": "ND Vrhnika - NK Rudar Velenje (2. SNL, 5. krog)",
+    "datum": "2026-09-04",
+    "ura": "17:00",
+    "prizorisce": "Športni park Vrhnika",
+    "kraj": "Vrhnika",
+    "viri": [
+      "https://www.nzs.si/klubi/moski/2-slovenska-nogometna-liga/tekme"
+    ]
+  },
+  {
+    "id": "7fa7a29acd858d149ce88edd0531feca96c1c19f",
+    "kategorija": "kultura",
+    "naslov": "ARTish - ulicna prodajna razstava umetnin",
     "datum": "2026-09-05",
     "ura": "10:00",
     "prizorisce": "Gallusovo nabrezje",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.visitljubljana.com/sl/obiskovalci/prireditve"
+      "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana"
     ]
   },
   {
-    "id": "4398e8b31ef4f18bec7aee05c8449e3757f07861",
+    "id": "7119296427b1f942fd866e111a242b3360f40827",
     "kategorija": "kultura",
-    "naslov": "Festival kave Vrhnika 2026 (Cankarjevo leto 2026)",
+    "naslov": "Festival kave Vrhnika 2026 (10. obletnica)",
     "datum": "2026-09-05",
-    "ura": "10:00",
-    "prizorisce": "Cankarjev dom Vrhnika / staro mestno jedro",
+    "ura": null,
+    "prizorisce": "Mestno sredisce Vrhnike",
     "kraj": "Vrhnika",
     "viri": [
-      "https://visitvrhnika.si/dogodki/"
+      "https://visitvrhnika.si/dogodki/festival-kave-vrhnika-2026/"
     ]
   },
   {
-    "id": "f897d6aef954bea61880b25f8b013f95da21f16c",
+    "id": "d7ad8fb74752a260ae79df70ca8e5cb9c57f51ec",
     "kategorija": "kultura",
-    "naslov": "Poklon umetniski zapuscini Dusana Lipovca",
+    "naslov": "Film: Gajin svet 3 (r. Peter Bratusa) - Kinobalon",
     "datum": "2026-09-05",
-    "ura": "10:00",
-    "prizorisce": "Samostan Mekinje",
-    "kraj": "Kamnik",
+    "ura": "11:30",
+    "prizorisce": "Kinodvor",
+    "kraj": "Ljubljana",
     "viri": [
-      "https://www.domkulture.org/sl/koledar-prireditev/"
+      "https://www.kinodvor.org/en/"
     ]
-  },
-  {
-    "id": "a0f7580405f42ea9c9ef0c24a85c5fc0d4bf5a07",
-    "kategorija": "sport",
-    "naslov": "11. Festival zdravja (v sklopu Ljubljanskega festivala športa)",
-    "datum": "2026-09-05",
-    "ura": "",
-    "prizorisce": "Park Tivoli",
-    "kraj": "Ljubljana",
-    "viri": []
-  },
-  {
-    "id": "eb6a83abc63aea6a515fe05fc8bcf930e4860f3b",
-    "kategorija": "sport",
-    "naslov": "12. Športne igre zaposlenih",
-    "datum": "2026-09-05",
-    "ura": "",
-    "prizorisce": "Park Tivoli in druga ljubljanska prizorišča",
-    "kraj": "Ljubljana",
-    "viri": []
-  },
-  {
-    "id": "e4f34a3ef5de07fb5e40e49e837f95a7771bc516",
-    "kategorija": "sport",
-    "naslov": "13. Nogometni turnir Brcnimo rasizem",
-    "datum": "2026-09-05",
-    "ura": "10:00",
-    "prizorisce": "Igrišče Športnega društva Tabor, Tabor 13",
-    "kraj": "Ljubljana",
-    "viri": []
   },
   {
     "id": "0786cab4680b90cbfa58843df9b74b62483253a0",
     "kategorija": "sport",
     "naslov": "4. Ljubljanski festival športa",
     "datum": "2026-09-05",
-    "ura": "",
+    "ura": "16:00",
     "prizorisce": "Park Tivoli",
     "kraj": "Ljubljana",
-    "viri": []
+    "viri": [
+      "https://www.sport-ljubljana.si/4-ljubljanski-festival-sporta/",
+      "https://www.ljubljana.si/sl/ljubljana/sportna/ljubljanski-festival-sporta",
+      "https://www.24ur.com/novice/slovenija/vsi-sporti-brezplacno-na-enem-mestu-to-je-4-ljubljanski-festival-sporta.html",
+      "https://www.rekreacija.si/koledar/"
+    ]
   },
   {
     "id": "edc59a8396e9cee7cd95d76a5529a3c26f67bcb6",
@@ -232,53 +279,49 @@
     "ura": "20:15",
     "prizorisce": "Stadion Stožice",
     "kraj": "Ljubljana",
-    "viri": []
+    "viri": [
+      "https://nkolimpija.si/septembrski-razpored-zmajev/",
+      "https://nkolimpija.si/prost-vstop-za-osnovnosolce/",
+      "https://www.flashscore.si/nogomet/slovenija/prva-liga/razpored/"
+    ]
   },
   {
-    "id": "fb146879ca6dc18b49fc532f12289dcbde40292c",
+    "id": "8dca230075ae4b29a914f7e85128306f1e25309a",
     "kategorija": "sport",
-    "naslov": "Zaključni turnir ulične košarke 3x3",
+    "naslov": "RD Slovan - RK Riko Ribnica (Liga NLB, rokomet)",
     "datum": "2026-09-05",
-    "ura": "",
-    "prizorisce": "Zunanja igrišča Športnega centra Ilirija",
+    "ura": null,
+    "prizorisce": "Dvorana Kodeljevo",
     "kraj": "Ljubljana",
-    "viri": []
+    "viri": [
+      "https://www.flashscore.si/rokomet/slovenija/nlb-leasing-1/razpored/",
+      "https://rdslovan.si/tekme/"
+    ]
   },
   {
-    "id": "4ceba23ac3ff09eb247b43c5849bf145a17df5d0",
+    "id": "83c7e3366d367e408750c2fc8b94bc9afe5aa3b6",
     "kategorija": "glasba",
-    "naslov": "Berliner Symphoniker, Gudni Emilsson in Khatia Buniatishvili",
+    "naslov": "Berlinski simfoniki, Gudni Emilsson, dirigent, Khatia Buniatishvili, klavir",
     "datum": "2026-09-06",
-    "ura": "20:00",
-    "prizorisce": "Cankarjev dom",
+    "ura": null,
+    "prizorisce": "Cankarjev dom (Gallusova dvorana)",
     "kraj": "Ljubljana",
     "viri": [
       "https://www.ljubljanafestival.si/en/events-calendar/",
-      "https://www.ljubljanafestival.si/"
+      "https://www.slovenia.info/en/things-to-do/events/25381-berliner-symphoniker-gudni-emilsson-conductor-khatia-buniatishvili-piano",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana"
     ]
   },
   {
-    "id": "b152b1b15dac18d0dcfca8355cdc2cc8c5ddc3ed",
+    "id": "2ca7f2f7f17b492340320f0d2d18da8832a1ead6",
     "kategorija": "kultura",
-    "naslov": "Car nocnega gozda",
+    "naslov": "Film: Oce mati sestra brat (Father Mother Sister Brother, r. Jim Jarmusch)",
     "datum": "2026-09-06",
-    "ura": "20:30",
-    "prizorisce": "Grad Zaprice",
-    "kraj": "Kamnik",
-    "viri": [
-      "https://www.domkulture.org/sl/koledar-prireditev/"
-    ]
-  },
-  {
-    "id": "345aa1c910a97e59402ac9b2676e6ca445bbfc60",
-    "kategorija": "kultura",
-    "naslov": "Kolektiv Arhiv: APPN (razstava)",
-    "datum": "2026-09-06",
-    "ura": "",
-    "prizorisce": "Galerija Kresija",
+    "ura": "19:00",
+    "prizorisce": "Kinodvor",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.ljubljana.si/sl/aktualno/dogodki"
+      "https://www.kinodvor.org/en/"
     ]
   },
   {
@@ -290,149 +333,176 @@
     "prizorisce": "Novi trg / Breg",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.visitljubljana.com/sl/obiskovalci/prireditve"
+      "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana"
     ]
   },
   {
-    "id": "485cc182fa444144f8a4da0b81e4391c0f04dcae",
+    "id": "f5ce53c90ea2e05a8500f999cbd8b170e4bd7809",
+    "kategorija": "kultura",
+    "naslov": "Ustvarjalna delavnica Velika planina: vaja v lesu",
+    "datum": "2026-09-06",
+    "ura": null,
+    "prizorisce": "Muzej za arhitekturo in oblikovanje (MAO)",
+    "kraj": "Ljubljana",
+    "viri": [
+      "http://napovednik.com/"
+    ]
+  },
+  {
+    "id": "524a0f18141c3fce04656e70a475cb2a72f08b64",
     "kategorija": "glasba",
-    "naslov": "Staatskapelle Dresden in Daniele Gatti (Mahler: Simfonija st. 6)",
+    "naslov": "Staatskapelle Dresden, Daniele Gatti, dirigent",
     "datum": "2026-09-07",
     "ura": "20:00",
-    "prizorisce": "Cankarjev dom",
+    "prizorisce": "Cankarjev dom (Gallusova dvorana)",
     "kraj": "Ljubljana",
     "viri": [
       "https://www.ljubljanafestival.si/en/events-calendar/",
-      "https://www.eventim.si/city/ljubljana-5738/",
-      "https://www.ljubljanafestival.si/",
-      "https://www.cd-cc.si/en/monthly-events-calendar"
+      "https://www.rtvslo.si/kultura/glasba/cankarjev-dom-v-2026-2027-prodorni-glasovi-svetovne-glasbe-in-velicastni-z-mednarodnim-pecatom/784220",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana",
+      "https://www.cd-cc.si/en/calendar"
     ]
   },
   {
-    "id": "dc6d120d6577d5dd04942025da22d9b379bba55c",
+    "id": "cdc20b63022fcadca9f653c066f24cdfe808c934",
     "kategorija": "kultura",
-    "naslov": "G. Kunsek: Sonce in zelezo (plesna predstava)",
+    "naslov": "Film: Sanje o svetlobi (El sol del membrillo, r. Victor Erice)",
     "datum": "2026-09-07",
-    "ura": "20:00",
-    "prizorisce": "Kino Siska",
+    "ura": "18:00",
+    "prizorisce": "Kinodvor",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.kinosiska.si/dogodek/"
+      "https://www.kinodvor.org/en/"
     ]
   },
   {
-    "id": "f741bbf34862efec350e0e9ffa1e4293000cf8ab",
+    "id": "ef3bcb7d7849a3358a0b7156918133a037ca212b",
     "kategorija": "glasba",
-    "naslov": "Avdicije za srednjesolski pevski zbor Veter",
+    "naslov": "Filharmonični orkester Baltskega morja, Robert Treviño, Lana Trotovšek",
     "datum": "2026-09-08",
-    "ura": "19:00",
-    "prizorisce": "",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://napovednik.com/glasba"
-    ]
-  },
-  {
-    "id": "df818f04ed72916417f806962f2c0b99e69f7db3",
-    "kategorija": "glasba",
-    "naslov": "Filharmonicni orkester Baltskega morja, Robert Trevino, Lana Trotovsek (zakljucni koncert 74. Ljubljana Festivala)",
-    "datum": "2026-09-08",
-    "ura": "20:00",
-    "prizorisce": "Cankarjev dom",
+    "ura": null,
+    "prizorisce": "Cankarjev dom (Gallusova dvorana)",
     "kraj": "Ljubljana",
     "viri": [
       "https://www.ljubljanafestival.si/en/events-calendar/",
-      "https://www.eventim.si/city/ljubljana-5738/",
-      "https://www.ljubljanafestival.si/"
+      "https://www.delo.si/kultura/glasba/trije-veliki-orkestri-tri-glasbene-tradicije-en-festival",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana"
     ]
   },
   {
-    "id": "82ae039bc8f1e2781f4ee0e4f46da3ccf4980e20",
-    "kategorija": "glasba",
-    "naslov": "Jesenske serenade - Vodne niti",
-    "datum": "2026-09-08",
-    "ura": "19:30",
-    "prizorisce": "",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://napovednik.com/glasba"
-    ]
-  },
-  {
-    "id": "f9ae4a6f9d3e2d41dc152c9b324e2960bb40e5b8",
+    "id": "de482c9fbf2181de6e8079950b65e3cb2434cfa3",
     "kategorija": "kultura",
-    "naslov": "Umetnik na mesec - Uno.Tisto: Field Notes From the End of Nature (odprtje razstave)",
+    "naslov": "Film: Tony (r. Matt Johnson)",
     "datum": "2026-09-08",
-    "ura": "19:00",
-    "prizorisce": "Kino Siska",
+    "ura": "18:10",
+    "prizorisce": "Kinodvor",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.kinosiska.si/dogodek/"
+      "https://www.kinodvor.org/en/"
     ]
   },
   {
-    "id": "fb8b43e7ba09a6c32e3b8a2a24765b784ad1763b",
+    "id": "ce9c6c25dcd10ff64dfbc82c3a776759c48b4b28",
     "kategorija": "glasba",
-    "naslov": "Jesenske serenade - Zivljenje je kabaret",
-    "datum": "2026-09-09",
-    "ura": "19:30",
-    "prizorisce": "",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://napovednik.com/glasba"
-    ]
-  },
-  {
-    "id": "e8270f71356fa0086f514445320b9872a1bd2596",
-    "kategorija": "glasba",
-    "naslov": "Summer in Siska 2026: OASIS BLOOM",
+    "naslov": "Poletje v Šiški 2026: OASIS BOOM",
     "datum": "2026-09-09",
     "ura": "20:00",
-    "prizorisce": "Cafe Kino Siska",
+    "prizorisce": "Café Kino Šiška",
     "kraj": "Ljubljana",
     "viri": [
       "https://www.kinosiska.si/en/dogodek/summer-in-siska-2026-oasis-bloom/",
-      "https://www.kinosiska.si/en/dogodek/?category=concert-en",
-      "https://www.kinosiska.si/dogodek/"
+      "https://www.kinosiska.si/dogodek/poletje-v-siski-2026/"
     ]
   },
   {
-    "id": "79bf2b6c49a2e1ab08a492c6a048087af165a302",
+    "id": "d469ebd03fba5bc377ef2d2db51f3d2bb60affa7",
     "kategorija": "glasba",
-    "naslov": "3 Sestre Remix (rez. Ivica Buljan)",
-    "datum": "2026-09-10",
-    "ura": "",
-    "prizorisce": "Krizanke",
+    "naslov": "Uroš in Tjaša - 10 let (veliki koncert z gosti)",
+    "datum": "2026-09-09",
+    "ura": "19:30",
+    "prizorisce": "Dvorana Tivoli",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.ljubljanafestival.si/en/for-visitors/venues/venue-krizanke/",
-      "https://www.eventim.si/city/ljubljana-5738/"
+      "https://www.eventim.si/en/event/uros-in-tjasa-10-let-veliki-koncert-z-gosti-dvorana-tivoli-21491678/",
+      "https://www.sport-ljubljana.si/en/uros-tjasa-10-years/",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/september-2026"
     ]
   },
   {
-    "id": "c0a2b8def270a3a37f9b08de096cb8d46fddd05c",
+    "id": "27a2bddcda09d568e853e8a80aaa86d30acd37be",
+    "kategorija": "kultura",
+    "naslov": "Film: A Sad and Beautiful World (r. Cyril Aris) - premiera",
+    "datum": "2026-09-09",
+    "ura": "20:30",
+    "prizorisce": "Kinodvor",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.kinodvor.org/en/"
+    ]
+  },
+  {
+    "id": "ed843e819c17c27d05e6106b00d29d46d24bb6c5",
     "kategorija": "glasba",
-    "naslov": "Ivo Pogorelic, klavirski recital",
+    "naslov": "Gnoomes (Losey release show)",
+    "datum": "2026-09-10",
+    "ura": "20:00",
+    "prizorisce": "Channel Zero",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.ch0.org/category/program/koncerti/",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/september-2026"
+    ]
+  },
+  {
+    "id": "d67d33f2d636a0b6bb2873d916298090587fd4db",
+    "kategorija": "glasba",
+    "naslov": "Ivo Pogorelić, klavirski recital",
     "datum": "2026-09-10",
     "ura": "19:00",
-    "prizorisce": "Cankarjev dom, Gallusova dvorana",
+    "prizorisce": "Cankarjev dom (Gallusova dvorana)",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.cd-cc.si/en/calendar",
-      "https://dogodki.kulturnik.si/?where=Cankarjev+dom",
-      "https://www.cd-cc.si/en/monthly-events-calendar"
+      "https://vstopnice.cd-cc.si/en/all.html",
+      "https://happeningnext.com/event/ivo-pogoreli%C4%87-eid3a0cxd6pid",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana"
     ]
   },
   {
-    "id": "011b0c523e076ba3f1957c2773bb1616947ce43b",
+    "id": "25b38800a22a3ef1d57b8c02ac1aa29ce89c2e10",
     "kategorija": "kultura",
-    "naslov": "Klik za ljubezen (komicna opera, Iztok Kocen)",
+    "naslov": "Iztok Kocen: Klik za ljubezen, operna komedija",
     "datum": "2026-09-10",
-    "ura": "19:30",
-    "prizorisce": "Cankarjev dom, Stihova dvorana",
+    "ura": "19:00",
+    "prizorisce": "Stihova dvorana, Cankarjev dom",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.cd-cc.si/en/monthly-events-calendar"
+      "https://www.cd-cc.si/en/calendar"
+    ]
+  },
+  {
+    "id": "204af2e907008205d1a4fb55dc80a3ae6080889f",
+    "kategorija": "kultura",
+    "naslov": "Jazz Club Ljubljanski grad: Slavko Ivancic",
+    "datum": "2026-09-11",
+    "ura": null,
+    "prizorisce": "Ljubljanski grad",
+    "kraj": "Ljubljana",
+    "viri": [
+      "http://napovednik.com/",
+      "https://ljubljanskigrad.si/si/"
+    ]
+  },
+  {
+    "id": "dab354cee62a1e3dfcabceb7c66c7755d033cd1b",
+    "kategorija": "sport",
+    "naslov": "Trail Ljubljana 2026 (Športni vikend Ljubljanica)",
+    "datum": "2026-09-11",
+    "ura": "16:00",
+    "prizorisce": "Stritarjeva ulica / Robbov vodnjak (Mestni trg)",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://ljubljanica.net/program/",
+      "https://www.24ur.com/novice/slovenija/sportni-vikend-ljubljanica-2026-bo-med-11-in-13-septembrom-v-sredisce-ljubljane-pripeljal-nocni-tek-trail-pohodnistvo-kolesarjenje-in-pestro-druzinsko-sportno-dogajanje.html"
     ]
   }
 ]

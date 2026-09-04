@@ -1,248 +1,291 @@
 [
   {
-    "id": "06586736dcc3093f5352c6b4cb54460c7618596c",
+    "id": "1021e8d9437ff53f075c5ebab7e08ac3eb8834ca",
     "kategorija": "glasba",
-    "naslov": "London Symphony Orchestra in Drzavni zbor iz Kaunasa (Mahler: Simfonija st. 2)",
-    "datum": "2026-09-03",
-    "ura": "20:00",
-    "prizorisce": "Cankarjev dom, Gallusova dvorana",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://www.ljubljanafestival.si/en/events-calendar/",
-      "https://www.eventim.si/city/ljubljana-5738/",
-      "https://www.ljubljanafestival.si/",
-      "https://www.visitljubljana.com/sl/obiskovalci/prireditve"
-    ],
-    "opis": "London Symphony Orchestra in Kaunaski drzavni zbor izvedejo Mahlerjevo Simfonijo st. 2. Koncert je 3. septembra 2026 ob 20.00 v Gallusovi dvorani Cankarjevega doma v Ljubljani v okviru Ljubljanskega festivala.",
-    "odmevnost": {
-      "skupaj": 88,
-      "doseg": 5,
-      "prepoznavnost": 5,
-      "obisk": 4,
-      "redkost": 3,
-      "medijski_signal": 4
-    },
-    "znacke": [
-      "Ljubljanski festival",
-      "mednarodni orkester",
-      "Mahler"
-    ]
-  },
-  {
-    "id": "1613dcc0fb1ff77f6be44215ae7016e8507f72d5",
-    "kategorija": "glasba",
-    "naslov": "Slavnostni koncert ob 50-letnici Jesenskih serenad",
-    "datum": "2026-09-03",
-    "ura": "18:00",
-    "prizorisce": "Slovenska filharmonija, Dvorana Marjana Kozine",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://napovednik.com/glasba",
-      "https://www.lokalne-ajdovscina.si/novice/2026083112541809/nova-sezona-jesenskih-serenad-je-pred-vrati/"
-    ],
-    "opis": "Slavnostni koncert ob 50-letnici cikla Jesenske serenade je 3. septembra 2026 ob 18.00 v Dvorani Marjana Kozine Slovenske filharmonije v Ljubljani.",
-    "odmevnost": {
-      "skupaj": 41,
-      "doseg": 2,
-      "prepoznavnost": 2,
-      "obisk": 2,
-      "redkost": 3,
-      "medijski_signal": 1
-    },
-    "znacke": [
-      "obletnica",
-      "resna glasba",
-      "Jesenske serenade"
-    ]
-  },
-  {
-    "id": "a9094f0f2d11c6cef4196dbcec5e5380c7f0f8e4",
-    "kategorija": "kultura",
-    "naslov": "Gremo na morje (razstava)",
-    "datum": "2026-09-03",
-    "ura": "",
-    "prizorisce": "Mestni muzej Ljubljana",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://mgml.si/sl/mestni-muzej/razstave/"
-    ],
-    "opis": "Razstava Gremo na morje je na ogled v Mestnem muzeju Ljubljana. Odprta je 3. septembra 2026.",
-    "odmevnost": {
-      "skupaj": 41,
-      "doseg": 2,
-      "prepoznavnost": 2,
-      "obisk": 2,
-      "redkost": 3,
-      "medijski_signal": 1
-    },
-    "znacke": [
-      "muzejska razstava"
-    ]
-  },
-  {
-    "id": "2516af17e33f2df86c3363a54e85a66814fa8b9b",
-    "kategorija": "kultura",
-    "naslov": "Med obrambo in trgovino (razstava)",
-    "datum": "2026-09-03",
-    "ura": "",
-    "prizorisce": "Zakladnica Mestnega muzeja Ljubljana",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://mgml.si/sl/mestni-muzej/razstave/"
-    ],
-    "opis": "Razstava Med obrambo in trgovino je na ogled v Zakladnici Mestnega muzeja Ljubljana. Odprta je 3. septembra 2026.",
-    "odmevnost": {
-      "skupaj": 26,
-      "doseg": 1,
-      "prepoznavnost": 1,
-      "obisk": 1,
-      "redkost": 3,
-      "medijski_signal": 1
-    },
-    "znacke": [
-      "muzejska razstava"
-    ]
-  },
-  {
-    "id": "35aab9cfc64ec1fe85d46c2c0ac62795d6c01799",
-    "kategorija": "kultura",
-    "naslov": "Pravne moznosti za kulturo (javni forum)",
-    "datum": "2026-09-03",
-    "ura": "10:00",
-    "prizorisce": "Kino Siska",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://www.kinosiska.si/dogodek/"
-    ],
-    "opis": "Javni forum Pravne moznosti za kulturo je 3. septembra 2026 ob 10.00 v Kinu Siska v Ljubljani.",
-    "odmevnost": {
-      "skupaj": 31,
-      "doseg": 2,
-      "prepoznavnost": 1,
-      "obisk": 1,
-      "redkost": 2,
-      "medijski_signal": 2
-    },
-    "znacke": [
-      "javni forum",
-      "kulturna politika"
-    ]
-  },
-  {
-    "id": "f6df8b33aad69b4d1a0b6d145d0944d88f8ac5ea",
-    "kategorija": "kultura",
-    "naslov": "Predstavitev antologije sodobne poljske knjizevnosti in okrogla miza Fluidnost identitet",
-    "datum": "2026-09-03",
-    "ura": "20:00",
-    "prizorisce": "Cankarjev dom, Dvorana Alme Karlin",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://www.cd-cc.si/en/monthly-events-calendar"
-    ],
-    "opis": "V Dvorani Alme Karlin v Cankarjevem domu bosta predstavitev antologije sodobne poljske knjizevnosti in okrogla miza Fluidnost identitet. Dogodek je 3. septembra 2026 ob 20.00.",
-    "odmevnost": {
-      "skupaj": 32,
-      "doseg": 2,
-      "prepoznavnost": 1,
-      "obisk": 1,
-      "redkost": 3,
-      "medijski_signal": 1
-    },
-    "znacke": [
-      "literarni dogodek",
-      "okrogla miza"
-    ]
-  },
-  {
-    "id": "32a3eca284d91e8c64e4ddbf3de7d7e48e662ec1",
-    "kategorija": "kultura",
-    "naslov": "Snov (Matter)",
-    "datum": "2026-09-03",
-    "ura": "18:00",
-    "prizorisce": "Cankarjev dom, Stihova dvorana",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://www.cd-cc.si/en/monthly-events-calendar"
-    ],
-    "opis": "Dogodek Snov (Matter) je na sporedu 3. septembra 2026 ob 18.00 v Stihovi dvorani Cankarjevega doma v Ljubljani.",
-    "odmevnost": {
-      "skupaj": 43,
-      "doseg": 2,
-      "prepoznavnost": 2,
-      "obisk": 2,
-      "redkost": 3,
-      "medijski_signal": 2
-    },
-    "znacke": [
-      "Cankarjev dom",
-      "neznano"
-    ]
-  },
-  {
-    "id": "cfd4445f92da7853f9e49d8e783f0793b2594f1b",
-    "kategorija": "glasba",
-    "naslov": "Koncert: MRFY & Delta Riff",
+    "naslov": "Mamma Mia! (muzikal)",
     "datum": "2026-09-04",
-    "ura": "21:00",
-    "prizorisce": "Mladinski center Klub Jedro",
-    "kraj": "Medvode",
-    "viri": [
-      "https://www.mojaobcina.si/medvode/dogodki/"
-    ],
-    "opis": "Skupini MRFY in Delta Riff nastopita 4. septembra 2026 ob 21.00 v Mladinskem centru Klub Jedro v Medvodah.",
-    "odmevnost": {
-      "skupaj": 48,
-      "doseg": 2,
-      "prepoznavnost": 3,
-      "obisk": 2,
-      "redkost": 3,
-      "medijski_signal": 2
-    },
-    "znacke": [
-      "slovenski izvajalec",
-      "MRFY",
-      "Medvode"
-    ]
-  },
-  {
-    "id": "ea28f67d1bfef270ce316c2fdf2762921cfa4444",
-    "kategorija": "glasba",
-    "naslov": "Mamma Mia!",
-    "datum": "2026-09-04",
-    "ura": "20:00",
-    "prizorisce": "Krizanke",
+    "ura": null,
+    "prizorisce": "Križanke",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.ljubljanafestival.si/en/events-calendar/",
-      "https://www.ljubljanafestival.si/"
+      "https://www.ljubljanafestival.si/en/events-calendar/"
     ],
-    "opis": "Muzikal Mamma Mia! je na sporedu 4. septembra 2026 ob 20.00 v Krizankah v Ljubljani v okviru Ljubljanskega festivala.",
+    "opis": "Uprizoritev muzikala Mamma Mia! je 4. septembra 2026 v Križankah v Ljubljani. Dogodek je uvrščen v program Ljubljanskega festivala.",
     "odmevnost": {
-      "skupaj": 73,
+      "skupaj": 75,
       "doseg": 4,
       "prepoznavnost": 4,
-      "obisk": 3,
+      "obisk": 4,
       "redkost": 3,
-      "medijski_signal": 4
+      "medijski_signal": 3
     },
     "znacke": [
       "Ljubljanski festival",
       "muzikal",
-      "Krizanke"
+      "mednarodna uspešnica"
     ]
   },
   {
-    "id": "f665a3f2bfa5121a8ab7f7d02e1c238bb2ba0c99",
-    "kategorija": "kultura",
-    "naslov": "Snov (Matter)",
+    "id": "7c375ee5b10af87f252e28588c1c9759383a36b8",
+    "kategorija": "glasba",
+    "naslov": "Matter v Cankarjevem domu",
     "datum": "2026-09-04",
     "ura": "20:00",
-    "prizorisce": "Cankarjev dom, Stihova dvorana",
+    "prizorisce": "Cankarjev dom (Štihova dvorana)",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.cd-cc.si/en/monthly-events-calendar"
+      "https://www.cd-cc.si/kultura/glasba/matter-v-cankarjevem-domu",
+      "https://www.entrio.si/en/e/matter-v-cankarjevem-domu-icd3CP"
     ],
-    "opis": "Dogodek Snov (Matter) je na sporedu 4. septembra 2026 ob 20.00 v Stihovi dvorani Cankarjevega doma v Ljubljani.",
+    "opis": "Koncert projekta Matter je 4. septembra 2026 ob 20.00 v Štihovi dvorani Cankarjevega doma v Ljubljani.",
+    "odmevnost": {
+      "skupaj": 40,
+      "doseg": 2,
+      "prepoznavnost": 2,
+      "obisk": 2,
+      "redkost": 2,
+      "medijski_signal": 2
+    },
+    "znacke": [
+      "Cankarjev dom"
+    ]
+  },
+  {
+    "id": "1f59b6465aa5e69b980e5fb2708c77a752b75f96",
+    "kategorija": "glasba",
+    "naslov": "MRFY in Delta Riff",
+    "datum": "2026-09-04",
+    "ura": "21:00",
+    "prizorisce": "Klub Jedro",
+    "kraj": "Medvode",
+    "viri": [
+      "https://www.songkick.com/concerts/43373861-mrfy-at-klub-jedro",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana"
+    ],
+    "opis": "Skupini MRFY in Delta Riff nastopita 4. septembra 2026 ob 21.00 v Klubu Jedro v Medvodah.",
+    "odmevnost": {
+      "skupaj": 43,
+      "doseg": 2,
+      "prepoznavnost": 3,
+      "obisk": 2,
+      "redkost": 2,
+      "medijski_signal": 1
+    },
+    "znacke": [
+      "domači izvajalec",
+      "klubski koncert"
+    ]
+  },
+  {
+    "id": "ed9d7a080b7391f0ca894895924dc69038b09781",
+    "kategorija": "glasba",
+    "naslov": "Shaun Banks (No Rest For The Wicked Tour)",
+    "datum": "2026-09-04",
+    "ura": "21:00",
+    "prizorisce": "Bizzarnica pri Mariči",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.songkick.com/artists/10129154-shaun-banks/calendar",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/september-2026"
+    ],
+    "opis": "Koncert izvajalca Shaun Banks v okviru turneje No Rest For The Wicked je 4. septembra 2026 ob 21.00 v lokalu Bizzarnica pri Mariči v Ljubljani.",
+    "odmevnost": {
+      "skupaj": 23,
+      "doseg": 1,
+      "prepoznavnost": 1,
+      "obisk": 1,
+      "redkost": 2,
+      "medijski_signal": 1
+    },
+    "znacke": [
+      "klubski koncert",
+      "neznano"
+    ]
+  },
+  {
+    "id": "1a335733c5f16370fbe666c008c1f774a7afa72a",
+    "kategorija": "kultura",
+    "naslov": "Arheopark Emona",
+    "datum": "2026-09-04",
+    "ura": null,
+    "prizorisce": "Mestni muzej Ljubljana",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.mgml.si/sl/"
+    ],
+    "opis": "Arheopark Emona je stalna postavitev o rimski Emoni v Mestnem muzeju Ljubljana. Na ogled je tudi 4. septembra 2026.",
+    "odmevnost": {
+      "skupaj": 38,
+      "doseg": 2,
+      "prepoznavnost": 2,
+      "obisk": 2,
+      "redkost": 2,
+      "medijski_signal": 1
+    },
+    "znacke": [
+      "razstava",
+      "arheologija"
+    ]
+  },
+  {
+    "id": "588a85537aec32931a87bd8de7592313ac883adc",
+    "kategorija": "kultura",
+    "naslov": "Film: Zasebno zivljenje (A Private Life, r. Rebecca Zlotowski)",
+    "datum": "2026-09-04",
+    "ura": "15:45",
+    "prizorisce": "Kinodvor",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.kinodvor.org/en/"
+    ],
+    "opis": "Projekcija filma Zasebno življenje (A Private Life) režiserke Rebecce Zlotowski je 4. septembra 2026 ob 15.45 v Kinodvoru v Ljubljani.",
+    "odmevnost": {
+      "skupaj": 35,
+      "doseg": 2,
+      "prepoznavnost": 2,
+      "obisk": 2,
+      "redkost": 1,
+      "medijski_signal": 1
+    },
+    "znacke": [
+      "art kino"
+    ]
+  },
+  {
+    "id": "7a7d30e362ddd07c50ab4a7e9b1312f47b9ad13f",
+    "kategorija": "kultura",
+    "naslov": "Ivo Pogorelic, klavirski recital",
+    "datum": "2026-09-04",
+    "ura": "20:00",
+    "prizorisce": "Gallusova dvorana, Cankarjev dom",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.eventim.si/city/ljubljana-5738/venue/cankarjev-dom-92473/",
+      "https://www.cd-cc.si/en/calendar"
+    ],
+    "opis": "Pianist Ivo Pogorelić ima klavirski recital 4. septembra 2026 ob 20.00 v Gallusovi dvorani Cankarjevega doma v Ljubljani.",
+    "odmevnost": {
+      "skupaj": 72,
+      "doseg": 3,
+      "prepoznavnost": 4,
+      "obisk": 4,
+      "redkost": 4,
+      "medijski_signal": 3
+    },
+    "znacke": [
+      "mednarodni izvajalec",
+      "klavirski recital"
+    ]
+  },
+  {
+    "id": "8f6f1c16380540df7abc4a9d602310af54192497",
+    "kategorija": "kultura",
+    "naslov": "Razstava: Gremo na morje",
+    "datum": "2026-09-04",
+    "ura": null,
+    "prizorisce": "Mestni muzej Ljubljana",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.mgml.si/sl/"
+    ],
+    "opis": "Razstava Gremo na morje je na ogled v Mestnem muzeju Ljubljana, med drugim 4. septembra 2026.",
+    "odmevnost": {
+      "skupaj": 38,
+      "doseg": 2,
+      "prepoznavnost": 2,
+      "obisk": 2,
+      "redkost": 2,
+      "medijski_signal": 1
+    },
+    "znacke": [
+      "razstava"
+    ]
+  },
+  {
+    "id": "f75bc240ac15e14d6b9d08db7378cd20bf7f76ef",
+    "kategorija": "kultura",
+    "naslov": "Razstava: IRWIN - Fotografska dela",
+    "datum": "2026-09-04",
+    "ura": null,
+    "prizorisce": "Mestni muzej Ljubljana",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.mgml.si/sl/"
+    ],
+    "opis": "Razstava fotografskih del umetniške skupine IRWIN je na ogled v Mestnem muzeju Ljubljana, med drugim 4. septembra 2026.",
+    "odmevnost": {
+      "skupaj": 46,
+      "doseg": 2,
+      "prepoznavnost": 3,
+      "obisk": 2,
+      "redkost": 3,
+      "medijski_signal": 1
+    },
+    "znacke": [
+      "razstava",
+      "domači izvajalec"
+    ]
+  },
+  {
+    "id": "fd2c40d57fdebb6117ff5a4889dbaaebcc0740c2",
+    "kategorija": "kultura",
+    "naslov": "Razstava: Med obrambo in trgovino",
+    "datum": "2026-09-04",
+    "ura": null,
+    "prizorisce": "Mestni muzej Ljubljana",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.mgml.si/sl/"
+    ],
+    "opis": "Razstava Med obrambo in trgovino je na ogled v Mestnem muzeju Ljubljana, med drugim 4. septembra 2026.",
+    "odmevnost": {
+      "skupaj": 33,
+      "doseg": 2,
+      "prepoznavnost": 1,
+      "obisk": 2,
+      "redkost": 2,
+      "medijski_signal": 1
+    },
+    "znacke": [
+      "razstava"
+    ]
+  },
+  {
+    "id": "ecb581ac86308f6135fb921446eb79c3de3324aa",
+    "kategorija": "kultura",
+    "naslov": "Razstava: Od skice do lutke",
+    "datum": "2026-09-04",
+    "ura": null,
+    "prizorisce": "Bezigrajska galerija 1",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.mgml.si/sl/"
+    ],
+    "opis": "Razstava Od skice do lutke je na ogled v Bežigrajski galeriji 1 v Ljubljani, med drugim 4. septembra 2026.",
+    "odmevnost": {
+      "skupaj": 23,
+      "doseg": 1,
+      "prepoznavnost": 1,
+      "obisk": 1,
+      "redkost": 2,
+      "medijski_signal": 1
+    },
+    "znacke": [
+      "razstava"
+    ]
+  },
+  {
+    "id": "6641c67bfe231b7df2ed93ff81048791457a3c7d",
+    "kategorija": "kultura",
+    "naslov": "Razstava: Plecnikove nagrade 2026 - Artefakti",
+    "datum": "2026-09-04",
+    "ura": null,
+    "prizorisce": "Plecnikova hisa",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.mgml.si/sl/"
+    ],
+    "opis": "Razstava Plečnikove nagrade 2026 - Artefakti je na ogled v Plečnikovi hiši v Ljubljani, med drugim 4. septembra 2026.",
     "odmevnost": {
       "skupaj": 43,
       "doseg": 2,
@@ -252,210 +295,236 @@
       "medijski_signal": 2
     },
     "znacke": [
-      "Cankarjev dom",
-      "neznano"
+      "razstava",
+      "arhitektura"
     ]
   },
   {
-    "id": "8e1f36d91ee8b05ea94400716fc9cd839378d22c",
+    "id": "aa2f3ebf0bafd2cb929196eb2875d72bf87f37d4",
     "kategorija": "kultura",
-    "naslov": "Ujeti trenutki narave (fotografska razstava)",
+    "naslov": "Razstava: Rob Hornstra - Obicajni ljudje",
     "datum": "2026-09-04",
-    "ura": "19:00",
-    "prizorisce": "Foto klub Kamnik, Mengeska pot 5",
-    "kraj": "Kamnik",
+    "ura": null,
+    "prizorisce": "Galerija Jakopic",
+    "kraj": "Ljubljana",
     "viri": [
-      "https://www.domkulture.org/sl/koledar-prireditev/"
+      "https://www.mgml.si/sl/"
     ],
-    "opis": "Fotografska razstava Ujeti trenutki narave se odpre 4. septembra 2026 ob 19.00 v Foto klubu Kamnik na Mengeski poti 5.",
+    "opis": "Razstava fotografa Roba Hornstre Običajni ljudje je na ogled v Galeriji Jakopič v Ljubljani, med drugim 4. septembra 2026.",
     "odmevnost": {
-      "skupaj": 26,
-      "doseg": 1,
-      "prepoznavnost": 1,
-      "obisk": 1,
-      "redkost": 3,
-      "medijski_signal": 1
-    },
-    "znacke": [
-      "fotografska razstava",
-      "Kamnik",
-      "lokalno"
-    ]
-  },
-  {
-    "id": "b386de55f599140e57f709c6e8668db541a3d74c",
-    "kategorija": "glasba",
-    "naslov": "Tradicionalna veselica na Govejku",
-    "datum": "2026-09-05",
-    "ura": "14:00",
-    "prizorisce": "Mihelcicev dom na Govejku",
-    "kraj": "Medvode",
-    "viri": [
-      "https://www.mojaobcina.si/medvode/dogodki/"
-    ],
-    "opis": "Tradicionalna veselica na Govejku poteka pri Mihelcicevem domu v obcini Medvode. Dogodek se zacne 5. septembra 2026 ob 14.00.",
-    "odmevnost": {
-      "skupaj": 30,
-      "doseg": 1,
-      "prepoznavnost": 1,
+      "skupaj": 41,
+      "doseg": 2,
+      "prepoznavnost": 2,
       "obisk": 2,
       "redkost": 3,
       "medijski_signal": 1
     },
     "znacke": [
-      "veselica",
-      "Medvode",
-      "tradicionalno"
+      "razstava",
+      "fotografija"
     ]
   },
   {
-    "id": "abd5b4d3b337df724c14653330e414d84d083fd0",
+    "id": "c206ba13648a9ee815e01fe2443837e33a94bbaf",
     "kategorija": "kultura",
-    "naslov": "ARTish umetniska trznica",
+    "naslov": "Razstava: untranquil now",
+    "datum": "2026-09-04",
+    "ura": null,
+    "prizorisce": "Cukrarna",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.mgml.si/sl/"
+    ],
+    "opis": "Razstava untranquil now je na ogled v galeriji Cukrarna v Ljubljani, med drugim 4. septembra 2026.",
+    "odmevnost": {
+      "skupaj": 47,
+      "doseg": 2,
+      "prepoznavnost": 2,
+      "obisk": 3,
+      "redkost": 3,
+      "medijski_signal": 2
+    },
+    "znacke": [
+      "razstava",
+      "sodobna umetnost"
+    ]
+  },
+  {
+    "id": "edb7b5dd2b8f02dd43371ece986c404339c5de86",
+    "kategorija": "kultura",
+    "naslov": "Spominska slovesnost za Mileno Zupancic",
+    "datum": "2026-09-04",
+    "ura": null,
+    "prizorisce": "Ni podatka",
+    "kraj": "Ljubljana",
+    "viri": [
+      "http://napovednik.com/"
+    ],
+    "opis": "Spominska slovesnost, posvečena igralki Mileni Zupančič, je 4. septembra 2026 v Ljubljani. Prizorišče ni navedeno.",
+    "odmevnost": {
+      "skupaj": 64,
+      "doseg": 3,
+      "prepoznavnost": 4,
+      "obisk": 2,
+      "redkost": 4,
+      "medijski_signal": 3
+    },
+    "znacke": [
+      "spominska slovesnost",
+      "neznano"
+    ]
+  },
+  {
+    "id": "da2b9b3527cfc4beec463bdc98dc92685d8adf4b",
+    "kategorija": "kultura",
+    "naslov": "UNICUM 2026 - 6. mednarodni trienale keramike",
+    "datum": "2026-09-04",
+    "ura": null,
+    "prizorisce": "Narodni muzej Slovenije / NMS Metelkova / Center Rog",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana",
+      "https://www.slovenia.info/en/stories/important-events-in-slovenia-in-2026"
+    ],
+    "opis": "6. mednarodni trienale keramike UNICUM 2026 poteka na več lokacijah v Ljubljani (Narodni muzej Slovenije, NMS Metelkova, Center Rog). Na ogled je tudi 4. septembra 2026.",
+    "odmevnost": {
+      "skupaj": 58,
+      "doseg": 3,
+      "prepoznavnost": 2,
+      "obisk": 3,
+      "redkost": 4,
+      "medijski_signal": 3
+    },
+    "znacke": [
+      "mednarodni",
+      "trienale",
+      "razstava"
+    ]
+  },
+  {
+    "id": "2fdaeaa1542bd72534d301c24b91db4fdfaeeefd",
+    "kategorija": "sport",
+    "naslov": "ND Ilirija 1911 - NK Primorje (2. SNL, 5. krog)",
+    "datum": "2026-09-04",
+    "ura": "17:00",
+    "prizorisce": "Stadion Ilirija",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.nzs.si/klubi/moski/2-slovenska-nogometna-liga/tekme"
+    ],
+    "opis": "Nogometna tekma 5. kroga 2. SNL med ND Ilirija 1911 in NK Primorje je 4. septembra 2026 ob 17.00 na Stadionu Ilirija v Ljubljani.",
+    "odmevnost": {
+      "skupaj": 37,
+      "doseg": 2,
+      "prepoznavnost": 2,
+      "obisk": 2,
+      "redkost": 1,
+      "medijski_signal": 2
+    },
+    "znacke": [
+      "nogomet",
+      "2. SNL"
+    ]
+  },
+  {
+    "id": "0d4c5b089c80378a664e1303b7ba67cbf9382081",
+    "kategorija": "sport",
+    "naslov": "ND Vrhnika - NK Rudar Velenje (2. SNL, 5. krog)",
+    "datum": "2026-09-04",
+    "ura": "17:00",
+    "prizorisce": "Športni park Vrhnika",
+    "kraj": "Vrhnika",
+    "viri": [
+      "https://www.nzs.si/klubi/moski/2-slovenska-nogometna-liga/tekme"
+    ],
+    "opis": "Nogometna tekma 5. kroga 2. SNL med ND Vrhnika in NK Rudar Velenje je 4. septembra 2026 ob 17.00 v Športnem parku Vrhnika.",
+    "odmevnost": {
+      "skupaj": 37,
+      "doseg": 2,
+      "prepoznavnost": 2,
+      "obisk": 2,
+      "redkost": 1,
+      "medijski_signal": 2
+    },
+    "znacke": [
+      "nogomet",
+      "2. SNL"
+    ]
+  },
+  {
+    "id": "7fa7a29acd858d149ce88edd0531feca96c1c19f",
+    "kategorija": "kultura",
+    "naslov": "ARTish - ulicna prodajna razstava umetnin",
     "datum": "2026-09-05",
     "ura": "10:00",
     "prizorisce": "Gallusovo nabrezje",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.visitljubljana.com/sl/obiskovalci/prireditve"
+      "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana"
     ],
-    "opis": "Umetniska trznica ARTish je 5. septembra 2026 od 10.00 na Gallusovem nabrezju v Ljubljani.",
+    "opis": "Ulična prodajna razstava umetnin ARTish je 5. septembra 2026 od 10.00 na Gallusovem nabrežju v Ljubljani.",
     "odmevnost": {
-      "skupaj": 45,
+      "skupaj": 39,
       "doseg": 2,
       "prepoznavnost": 2,
       "obisk": 3,
-      "redkost": 3,
+      "redkost": 1,
       "medijski_signal": 1
     },
     "znacke": [
-      "ulicni sejem",
-      "umetnost",
-      "na prostem"
+      "ulična razstava",
+      "na prostem",
+      "brezplačno"
     ]
   },
   {
-    "id": "4398e8b31ef4f18bec7aee05c8449e3757f07861",
+    "id": "7119296427b1f942fd866e111a242b3360f40827",
     "kategorija": "kultura",
-    "naslov": "Festival kave Vrhnika 2026 (Cankarjevo leto 2026)",
+    "naslov": "Festival kave Vrhnika 2026 (10. obletnica)",
     "datum": "2026-09-05",
-    "ura": "10:00",
-    "prizorisce": "Cankarjev dom Vrhnika / staro mestno jedro",
+    "ura": null,
+    "prizorisce": "Mestno sredisce Vrhnike",
     "kraj": "Vrhnika",
     "viri": [
-      "https://visitvrhnika.si/dogodki/"
+      "https://visitvrhnika.si/dogodki/festival-kave-vrhnika-2026/"
     ],
-    "opis": "Festival kave Vrhnika 2026 v okviru Cankarjevega leta poteka pri Cankarjevem domu Vrhnika in v starem mestnem jedru. Dogodek je 5. septembra 2026 od 10.00.",
+    "opis": "Festival kave Vrhnika 2026, ki obeležuje 10. obletnico, poteka 5. septembra 2026 v mestnem središču Vrhnike.",
     "odmevnost": {
-      "skupaj": 45,
+      "skupaj": 47,
       "doseg": 2,
       "prepoznavnost": 2,
       "obisk": 3,
       "redkost": 3,
-      "medijski_signal": 1
+      "medijski_signal": 2
     },
     "znacke": [
-      "festival kave",
-      "Vrhnika",
-      "Cankarjevo leto"
+      "festival",
+      "obletnica"
     ]
   },
   {
-    "id": "f897d6aef954bea61880b25f8b013f95da21f16c",
+    "id": "d7ad8fb74752a260ae79df70ca8e5cb9c57f51ec",
     "kategorija": "kultura",
-    "naslov": "Poklon umetniski zapuscini Dusana Lipovca",
+    "naslov": "Film: Gajin svet 3 (r. Peter Bratusa) - Kinobalon",
     "datum": "2026-09-05",
-    "ura": "10:00",
-    "prizorisce": "Samostan Mekinje",
-    "kraj": "Kamnik",
-    "viri": [
-      "https://www.domkulture.org/sl/koledar-prireditev/"
-    ],
-    "opis": "Dogodek Poklon umetniski zapuscini Dusana Lipovca je 5. septembra 2026 ob 10.00 v Samostanu Mekinje pri Kamniku.",
-    "odmevnost": {
-      "skupaj": 26,
-      "doseg": 1,
-      "prepoznavnost": 1,
-      "obisk": 1,
-      "redkost": 3,
-      "medijski_signal": 1
-    },
-    "znacke": [
-      "spominski dogodek",
-      "Kamnik",
-      "lokalno"
-    ]
-  },
-  {
-    "id": "a0f7580405f42ea9c9ef0c24a85c5fc0d4bf5a07",
-    "kategorija": "sport",
-    "naslov": "11. Festival zdravja (v sklopu Ljubljanskega festivala športa)",
-    "datum": "2026-09-05",
-    "ura": "",
-    "prizorisce": "Park Tivoli",
+    "ura": "11:30",
+    "prizorisce": "Kinodvor",
     "kraj": "Ljubljana",
-    "viri": [],
-    "opis": "11. Festival zdravja poteka 5. septembra 2026 v parku Tivoli v Ljubljani v sklopu Ljubljanskega festivala športa.",
+    "viri": [
+      "https://www.kinodvor.org/en/"
+    ],
+    "opis": "Otroška projekcija slovenskega filma Gajin svet 3 režiserja Petra Bratuše v sklopu Kinobalona je 5. septembra 2026 ob 11.30 v Kinodvoru v Ljubljani.",
     "odmevnost": {
       "skupaj": 42,
       "doseg": 2,
-      "prepoznavnost": 2,
-      "obisk": 3,
-      "redkost": 2,
-      "medijski_signal": 1
-    },
-    "znacke": [
-      "festival zdravja",
-      "Tivoli",
-      "neznano"
-    ]
-  },
-  {
-    "id": "eb6a83abc63aea6a515fe05fc8bcf930e4860f3b",
-    "kategorija": "sport",
-    "naslov": "12. Športne igre zaposlenih",
-    "datum": "2026-09-05",
-    "ura": "",
-    "prizorisce": "Park Tivoli in druga ljubljanska prizorišča",
-    "kraj": "Ljubljana",
-    "viri": [],
-    "opis": "12. Sportne igre zaposlenih potekajo 5. septembra 2026 v parku Tivoli in na drugih ljubljanskih prizoriscih.",
-    "odmevnost": {
-      "skupaj": 30,
-      "doseg": 1,
-      "prepoznavnost": 1,
+      "prepoznavnost": 3,
       "obisk": 2,
-      "redkost": 3,
-      "medijski_signal": 1
+      "redkost": 1,
+      "medijski_signal": 2
     },
     "znacke": [
-      "rekreativni šport",
-      "zaposleni",
-      "neznano"
-    ]
-  },
-  {
-    "id": "e4f34a3ef5de07fb5e40e49e837f95a7771bc516",
-    "kategorija": "sport",
-    "naslov": "13. Nogometni turnir Brcnimo rasizem",
-    "datum": "2026-09-05",
-    "ura": "10:00",
-    "prizorisce": "Igrišče Športnega društva Tabor, Tabor 13",
-    "kraj": "Ljubljana",
-    "viri": [],
-    "opis": "13. Nogometni turnir Brcnimo rasizem je 5. septembra 2026 od 10.00 na igriscu Sportnega drustva Tabor na naslovu Tabor 13 v Ljubljani.",
-    "odmevnost": {
-      "skupaj": 41,
-      "doseg": 2,
-      "prepoznavnost": 2,
-      "obisk": 2,
-      "redkost": 3,
-      "medijski_signal": 1
-    },
-    "znacke": [
-      "nogometni turnir",
-      "proti rasizmu",
-      "neznano"
+      "domači film",
+      "za otroke"
     ]
   },
   {
@@ -463,23 +532,27 @@
     "kategorija": "sport",
     "naslov": "4. Ljubljanski festival športa",
     "datum": "2026-09-05",
-    "ura": "",
+    "ura": "16:00",
     "prizorisce": "Park Tivoli",
     "kraj": "Ljubljana",
-    "viri": [],
-    "opis": "4. Ljubljanski festival sporta poteka 5. septembra 2026 v parku Tivoli v Ljubljani in ponuja razlicne sportne dejavnosti.",
+    "viri": [
+      "https://www.sport-ljubljana.si/4-ljubljanski-festival-sporta/",
+      "https://www.ljubljana.si/sl/ljubljana/sportna/ljubljanski-festival-sporta",
+      "https://www.24ur.com/novice/slovenija/vsi-sporti-brezplacno-na-enem-mestu-to-je-4-ljubljanski-festival-sporta.html",
+      "https://www.rekreacija.si/koledar/"
+    ],
+    "opis": "4. Ljubljanski festival športa z brezplačnim predstavljanjem različnih športov je 5. septembra 2026 od 16.00 v parku Tivoli v Ljubljani.",
     "odmevnost": {
-      "skupaj": 53,
+      "skupaj": 59,
       "doseg": 3,
       "prepoznavnost": 2,
-      "obisk": 3,
+      "obisk": 4,
       "redkost": 3,
-      "medijski_signal": 2
+      "medijski_signal": 3
     },
     "znacke": [
-      "športni festival",
-      "Tivoli",
-      "brezplačno"
+      "brezplačno",
+      "športni festival"
     ]
   },
   {
@@ -490,8 +563,12 @@
     "ura": "20:15",
     "prizorisce": "Stadion Stožice",
     "kraj": "Ljubljana",
-    "viri": [],
-    "opis": "Nogometna tekma 8. kroga Prve lige Telemach med NK Olimpija Ljubljana in NK Brinje Grosuplje je 5. septembra 2026 ob 20.15 na Stadionu Stozice v Ljubljani.",
+    "viri": [
+      "https://nkolimpija.si/septembrski-razpored-zmajev/",
+      "https://nkolimpija.si/prost-vstop-za-osnovnosolce/",
+      "https://www.flashscore.si/nogomet/slovenija/prva-liga/razpored/"
+    ],
+    "opis": "Nogometna tekma 8. kroga Prve lige Telemach med NK Olimpija Ljubljana in NK Brinje Grosuplje je 5. septembra 2026 ob 20.15 na Stadionu Stožice v Ljubljani.",
     "odmevnost": {
       "skupaj": 60,
       "doseg": 4,
@@ -501,48 +578,51 @@
       "medijski_signal": 3
     },
     "znacke": [
-      "Prva liga Telemach",
+      "1. SNL",
       "nogomet",
       "NK Olimpija"
     ]
   },
   {
-    "id": "fb146879ca6dc18b49fc532f12289dcbde40292c",
+    "id": "8dca230075ae4b29a914f7e85128306f1e25309a",
     "kategorija": "sport",
-    "naslov": "Zaključni turnir ulične košarke 3x3",
+    "naslov": "RD Slovan - RK Riko Ribnica (Liga NLB, rokomet)",
     "datum": "2026-09-05",
-    "ura": "",
-    "prizorisce": "Zunanja igrišča Športnega centra Ilirija",
+    "ura": null,
+    "prizorisce": "Dvorana Kodeljevo",
     "kraj": "Ljubljana",
-    "viri": [],
-    "opis": "Zakljucni turnir ulicne kosarke 3x3 poteka 5. septembra 2026 na zunanjih igriscih Sportnega centra Ilirija v Ljubljani.",
+    "viri": [
+      "https://www.flashscore.si/rokomet/slovenija/nlb-leasing-1/razpored/",
+      "https://rdslovan.si/tekme/"
+    ],
+    "opis": "Rokometna tekma Lige NLB med RD Slovan in RK Riko Ribnica je 5. septembra 2026 v Dvorani Kodeljevo v Ljubljani.",
     "odmevnost": {
-      "skupaj": 41,
+      "skupaj": 37,
       "doseg": 2,
       "prepoznavnost": 2,
       "obisk": 2,
-      "redkost": 3,
-      "medijski_signal": 1
+      "redkost": 1,
+      "medijski_signal": 2
     },
     "znacke": [
-      "ulična košarka",
-      "3x3",
-      "neznano"
+      "rokomet",
+      "Liga NLB"
     ]
   },
   {
-    "id": "4ceba23ac3ff09eb247b43c5849bf145a17df5d0",
+    "id": "83c7e3366d367e408750c2fc8b94bc9afe5aa3b6",
     "kategorija": "glasba",
-    "naslov": "Berliner Symphoniker, Gudni Emilsson in Khatia Buniatishvili",
+    "naslov": "Berlinski simfoniki, Gudni Emilsson, dirigent, Khatia Buniatishvili, klavir",
     "datum": "2026-09-06",
-    "ura": "20:00",
-    "prizorisce": "Cankarjev dom",
+    "ura": null,
+    "prizorisce": "Cankarjev dom (Gallusova dvorana)",
     "kraj": "Ljubljana",
     "viri": [
       "https://www.ljubljanafestival.si/en/events-calendar/",
-      "https://www.ljubljanafestival.si/"
+      "https://www.slovenia.info/en/things-to-do/events/25381-berliner-symphoniker-gudni-emilsson-conductor-khatia-buniatishvili-piano",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana"
     ],
-    "opis": "Berliner Symphoniker z dirigentom Gudnijem Emilssonom in pianistko Khatio Buniatishvili nastopajo 6. septembra 2026 ob 20.00 v Cankarjevem domu v Ljubljani. Koncert je del Ljubljanskega festivala.",
+    "opis": "Berlinski simfoniki z dirigentom Gudnijem Emilssonom in pianistko Khatio Buniatishvili nastopajo 6. septembra 2026 v Gallusovi dvorani Cankarjevega doma v Ljubljani. Koncert je del Ljubljanskega festivala.",
     "odmevnost": {
       "skupaj": 90,
       "doseg": 5,
@@ -558,54 +638,28 @@
     ]
   },
   {
-    "id": "b152b1b15dac18d0dcfca8355cdc2cc8c5ddc3ed",
+    "id": "2ca7f2f7f17b492340320f0d2d18da8832a1ead6",
     "kategorija": "kultura",
-    "naslov": "Car nocnega gozda",
+    "naslov": "Film: Oce mati sestra brat (Father Mother Sister Brother, r. Jim Jarmusch)",
     "datum": "2026-09-06",
-    "ura": "20:30",
-    "prizorisce": "Grad Zaprice",
-    "kraj": "Kamnik",
-    "viri": [
-      "https://www.domkulture.org/sl/koledar-prireditev/"
-    ],
-    "opis": "Prireditev Car nocnega gozda je 6. septembra 2026 ob 20.30 na gradu Zaprice v Kamniku.",
-    "odmevnost": {
-      "skupaj": 30,
-      "doseg": 1,
-      "prepoznavnost": 1,
-      "obisk": 2,
-      "redkost": 3,
-      "medijski_signal": 1
-    },
-    "znacke": [
-      "Kamnik",
-      "grajski dogodek",
-      "neznano"
-    ]
-  },
-  {
-    "id": "345aa1c910a97e59402ac9b2676e6ca445bbfc60",
-    "kategorija": "kultura",
-    "naslov": "Kolektiv Arhiv: APPN (razstava)",
-    "datum": "2026-09-06",
-    "ura": "",
-    "prizorisce": "Galerija Kresija",
+    "ura": "19:00",
+    "prizorisce": "Kinodvor",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.ljubljana.si/sl/aktualno/dogodki"
+      "https://www.kinodvor.org/en/"
     ],
-    "opis": "Razstava Kolektiv Arhiv: APPN je na ogled v Galeriji Kresija v Ljubljani. Odprta je 6. septembra 2026.",
+    "opis": "Projekcija filma Oče mati sestra brat režiserja Jima Jarmuscha je 6. septembra 2026 ob 19.00 v Kinodvoru v Ljubljani.",
     "odmevnost": {
-      "skupaj": 26,
-      "doseg": 1,
-      "prepoznavnost": 1,
-      "obisk": 1,
-      "redkost": 3,
+      "skupaj": 43,
+      "doseg": 2,
+      "prepoznavnost": 3,
+      "obisk": 2,
+      "redkost": 2,
       "medijski_signal": 1
     },
     "znacke": [
-      "likovna razstava",
-      "galerija"
+      "art kino",
+      "mednarodni režiser"
     ]
   },
   {
@@ -617,9 +671,9 @@
     "prizorisce": "Novi trg / Breg",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.visitljubljana.com/sl/obiskovalci/prireditve"
+      "https://www.visitljubljana.com/en/visitors/events/events-in-ljubljana"
     ],
-    "opis": "Promenadni koncert ljubljanskih pihalnih orkestrov je 6. septembra 2026 ob 11.00 na Novem trgu in Bregu v Ljubljani.",
+    "opis": "Promenadni koncert pihalnih orkestrov je 6. septembra 2026 ob 11.00 na Novem trgu in Bregu v Ljubljani.",
     "odmevnost": {
       "skupaj": 27,
       "doseg": 1,
@@ -630,25 +684,49 @@
     },
     "znacke": [
       "promenadni koncert",
-      "pihalni orkester",
-      "brezplačno"
+      "brezplačno",
+      "na prostem"
     ]
   },
   {
-    "id": "485cc182fa444144f8a4da0b81e4391c0f04dcae",
+    "id": "f5ce53c90ea2e05a8500f999cbd8b170e4bd7809",
+    "kategorija": "kultura",
+    "naslov": "Ustvarjalna delavnica Velika planina: vaja v lesu",
+    "datum": "2026-09-06",
+    "ura": null,
+    "prizorisce": "Muzej za arhitekturo in oblikovanje (MAO)",
+    "kraj": "Ljubljana",
+    "viri": [
+      "http://napovednik.com/"
+    ],
+    "opis": "Ustvarjalna delavnica z naslovom Velika planina: vaja v lesu je 6. septembra 2026 v Muzeju za arhitekturo in oblikovanje (MAO) v Ljubljani.",
+    "odmevnost": {
+      "skupaj": 23,
+      "doseg": 1,
+      "prepoznavnost": 1,
+      "obisk": 1,
+      "redkost": 2,
+      "medijski_signal": 1
+    },
+    "znacke": [
+      "delavnica"
+    ]
+  },
+  {
+    "id": "524a0f18141c3fce04656e70a475cb2a72f08b64",
     "kategorija": "glasba",
-    "naslov": "Staatskapelle Dresden in Daniele Gatti (Mahler: Simfonija st. 6)",
+    "naslov": "Staatskapelle Dresden, Daniele Gatti, dirigent",
     "datum": "2026-09-07",
     "ura": "20:00",
-    "prizorisce": "Cankarjev dom",
+    "prizorisce": "Cankarjev dom (Gallusova dvorana)",
     "kraj": "Ljubljana",
     "viri": [
       "https://www.ljubljanafestival.si/en/events-calendar/",
-      "https://www.eventim.si/city/ljubljana-5738/",
-      "https://www.ljubljanafestival.si/",
-      "https://www.cd-cc.si/en/monthly-events-calendar"
+      "https://www.rtvslo.si/kultura/glasba/cankarjev-dom-v-2026-2027-prodorni-glasovi-svetovne-glasbe-in-velicastni-z-mednarodnim-pecatom/784220",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana",
+      "https://www.cd-cc.si/en/calendar"
     ],
-    "opis": "Staatskapelle Dresden pod vodstvom Danieleja Gattija izvede Mahlerjevo Simfonijo st. 6. Koncert je 7. septembra 2026 ob 20.00 v Cankarjevem domu v Ljubljani v okviru Ljubljanskega festivala.",
+    "opis": "Orkester Staatskapelle Dresden pod vodstvom dirigenta Danieleja Gattija nastopa 7. septembra 2026 ob 20.00 v Gallusovi dvorani Cankarjevega doma v Ljubljani. Koncert je del Ljubljanskega festivala.",
     "odmevnost": {
       "skupaj": 88,
       "doseg": 5,
@@ -664,70 +742,44 @@
     ]
   },
   {
-    "id": "dc6d120d6577d5dd04942025da22d9b379bba55c",
+    "id": "cdc20b63022fcadca9f653c066f24cdfe808c934",
     "kategorija": "kultura",
-    "naslov": "G. Kunsek: Sonce in zelezo (plesna predstava)",
+    "naslov": "Film: Sanje o svetlobi (El sol del membrillo, r. Victor Erice)",
     "datum": "2026-09-07",
-    "ura": "20:00",
-    "prizorisce": "Kino Siska",
+    "ura": "18:00",
+    "prizorisce": "Kinodvor",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.kinosiska.si/dogodek/"
+      "https://www.kinodvor.org/en/"
     ],
-    "opis": "Plesna predstava Sonce in zelezo koreografa G. Kunska je na sporedu 7. septembra 2026 ob 20.00 v Kinu Siska v Ljubljani.",
+    "opis": "Projekcija filma Sanje o svetlobi (El sol del membrillo) režiserja Victorja Ericeja je 7. septembra 2026 ob 18.00 v Kinodvoru v Ljubljani.",
     "odmevnost": {
-      "skupaj": 41,
-      "doseg": 2,
+      "skupaj": 35,
+      "doseg": 1,
       "prepoznavnost": 2,
       "obisk": 2,
       "redkost": 3,
       "medijski_signal": 1
     },
     "znacke": [
-      "plesna predstava",
-      "Kino Siska"
+      "art kino",
+      "filmska klasika"
     ]
   },
   {
-    "id": "f741bbf34862efec350e0e9ffa1e4293000cf8ab",
+    "id": "ef3bcb7d7849a3358a0b7156918133a037ca212b",
     "kategorija": "glasba",
-    "naslov": "Avdicije za srednjesolski pevski zbor Veter",
+    "naslov": "Filharmonični orkester Baltskega morja, Robert Treviño, Lana Trotovšek",
     "datum": "2026-09-08",
-    "ura": "19:00",
-    "prizorisce": "",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://napovednik.com/glasba"
-    ],
-    "opis": "Avdicije za srednjesolski pevski zbor Veter potekajo 8. septembra 2026 ob 19.00 v Ljubljani. Prizorisce ni navedeno.",
-    "odmevnost": {
-      "skupaj": 20,
-      "doseg": 1,
-      "prepoznavnost": 1,
-      "obisk": 1,
-      "redkost": 1,
-      "medijski_signal": 1
-    },
-    "znacke": [
-      "avdicija",
-      "pevski zbor",
-      "neznano"
-    ]
-  },
-  {
-    "id": "df818f04ed72916417f806962f2c0b99e69f7db3",
-    "kategorija": "glasba",
-    "naslov": "Filharmonicni orkester Baltskega morja, Robert Trevino, Lana Trotovsek (zakljucni koncert 74. Ljubljana Festivala)",
-    "datum": "2026-09-08",
-    "ura": "20:00",
-    "prizorisce": "Cankarjev dom",
+    "ura": null,
+    "prizorisce": "Cankarjev dom (Gallusova dvorana)",
     "kraj": "Ljubljana",
     "viri": [
       "https://www.ljubljanafestival.si/en/events-calendar/",
-      "https://www.eventim.si/city/ljubljana-5738/",
-      "https://www.ljubljanafestival.si/"
+      "https://www.delo.si/kultura/glasba/trije-veliki-orkestri-tri-glasbene-tradicije-en-festival",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana"
     ],
-    "opis": "Filharmonicni orkester Baltskega morja z dirigentom Robertom Trevinom in violinistko Lano Trotovsek izvede zakljucni koncert 74. Ljubljanskega festivala. Nastop je 8. septembra 2026 ob 20.00 v Cankarjevem domu v Ljubljani.",
+    "opis": "Filharmonični orkester Baltskega morja z dirigentom Robertom Treviñom in violinistko Lano Trotovšek nastopa 8. septembra 2026 v Gallusovi dvorani Cankarjevega doma v Ljubljani. Koncert je del Ljubljanskega festivala.",
     "odmevnost": {
       "skupaj": 83,
       "doseg": 5,
@@ -738,102 +790,47 @@
     },
     "znacke": [
       "Ljubljanski festival",
-      "zaključni koncert",
-      "mednarodni orkester"
+      "mednarodni orkester",
+      "Lana Trotovšek"
     ]
   },
   {
-    "id": "82ae039bc8f1e2781f4ee0e4f46da3ccf4980e20",
-    "kategorija": "glasba",
-    "naslov": "Jesenske serenade - Vodne niti",
-    "datum": "2026-09-08",
-    "ura": "19:30",
-    "prizorisce": "",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://napovednik.com/glasba"
-    ],
-    "opis": "Koncert Vodne niti iz cikla Jesenske serenade je 8. septembra 2026 ob 19.30 v Ljubljani. Prizorisce ni navedeno.",
-    "odmevnost": {
-      "skupaj": 38,
-      "doseg": 2,
-      "prepoznavnost": 2,
-      "obisk": 2,
-      "redkost": 2,
-      "medijski_signal": 1
-    },
-    "znacke": [
-      "Jesenske serenade",
-      "resna glasba",
-      "neznano"
-    ]
-  },
-  {
-    "id": "f9ae4a6f9d3e2d41dc152c9b324e2960bb40e5b8",
+    "id": "de482c9fbf2181de6e8079950b65e3cb2434cfa3",
     "kategorija": "kultura",
-    "naslov": "Umetnik na mesec - Uno.Tisto: Field Notes From the End of Nature (odprtje razstave)",
+    "naslov": "Film: Tony (r. Matt Johnson)",
     "datum": "2026-09-08",
-    "ura": "19:00",
-    "prizorisce": "Kino Siska",
+    "ura": "18:10",
+    "prizorisce": "Kinodvor",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.kinosiska.si/dogodek/"
+      "https://www.kinodvor.org/en/"
     ],
-    "opis": "Odprtje razstave Uno.Tisto: Field Notes From the End of Nature iz cikla Umetnik na mesec je 8. septembra 2026 ob 19.00 v Kinu Siska v Ljubljani.",
+    "opis": "Projekcija filma Tony režiserja Matta Johnsona je 8. septembra 2026 ob 18.10 v Kinodvoru v Ljubljani.",
     "odmevnost": {
-      "skupaj": 37,
-      "doseg": 2,
-      "prepoznavnost": 2,
-      "obisk": 1,
-      "redkost": 3,
-      "medijski_signal": 1
-    },
-    "znacke": [
-      "likovna razstava",
-      "Kino Siska",
-      "odprtje"
-    ]
-  },
-  {
-    "id": "fb8b43e7ba09a6c32e3b8a2a24765b784ad1763b",
-    "kategorija": "glasba",
-    "naslov": "Jesenske serenade - Zivljenje je kabaret",
-    "datum": "2026-09-09",
-    "ura": "19:30",
-    "prizorisce": "",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://napovednik.com/glasba"
-    ],
-    "opis": "Koncert Zivljenje je kabaret iz cikla Jesenske serenade je 9. septembra 2026 ob 19.30 v Ljubljani. Prizorisce ni navedeno.",
-    "odmevnost": {
-      "skupaj": 38,
-      "doseg": 2,
-      "prepoznavnost": 2,
+      "skupaj": 24,
+      "doseg": 1,
+      "prepoznavnost": 1,
       "obisk": 2,
-      "redkost": 2,
+      "redkost": 1,
       "medijski_signal": 1
     },
     "znacke": [
-      "Jesenske serenade",
-      "kabaret",
-      "neznano"
+      "art kino"
     ]
   },
   {
-    "id": "e8270f71356fa0086f514445320b9872a1bd2596",
+    "id": "ce9c6c25dcd10ff64dfbc82c3a776759c48b4b28",
     "kategorija": "glasba",
-    "naslov": "Summer in Siska 2026: OASIS BLOOM",
+    "naslov": "Poletje v Šiški 2026: OASIS BOOM",
     "datum": "2026-09-09",
     "ura": "20:00",
-    "prizorisce": "Cafe Kino Siska",
+    "prizorisce": "Café Kino Šiška",
     "kraj": "Ljubljana",
     "viri": [
       "https://www.kinosiska.si/en/dogodek/summer-in-siska-2026-oasis-bloom/",
-      "https://www.kinosiska.si/en/dogodek/?category=concert-en",
-      "https://www.kinosiska.si/dogodek/"
+      "https://www.kinosiska.si/dogodek/poletje-v-siski-2026/"
     ],
-    "opis": "V okviru cikla Summer in Siska 2026 nastopi zasedba OASIS BLOOM. Koncert je 9. septembra 2026 ob 20.00 v kavarni Kina Siska v Ljubljani.",
+    "opis": "Koncert OASIS BOOM v sklopu cikla Poletje v Šiški 2026 je 9. septembra 2026 ob 20.00 v kavarni Kina Šiška v Ljubljani.",
     "odmevnost": {
       "skupaj": 23,
       "doseg": 1,
@@ -844,51 +841,103 @@
     },
     "znacke": [
       "poletni koncert",
-      "Kino Siska",
-      "lokalno"
+      "Kino Šiška",
+      "neznano"
     ]
   },
   {
-    "id": "79bf2b6c49a2e1ab08a492c6a048087af165a302",
+    "id": "d469ebd03fba5bc377ef2d2db51f3d2bb60affa7",
     "kategorija": "glasba",
-    "naslov": "3 Sestre Remix (rez. Ivica Buljan)",
-    "datum": "2026-09-10",
-    "ura": "",
-    "prizorisce": "Krizanke",
+    "naslov": "Uroš in Tjaša - 10 let (veliki koncert z gosti)",
+    "datum": "2026-09-09",
+    "ura": "19:30",
+    "prizorisce": "Dvorana Tivoli",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.ljubljanafestival.si/en/for-visitors/venues/venue-krizanke/",
-      "https://www.eventim.si/city/ljubljana-5738/"
+      "https://www.eventim.si/en/event/uros-in-tjasa-10-let-veliki-koncert-z-gosti-dvorana-tivoli-21491678/",
+      "https://www.sport-ljubljana.si/en/uros-tjasa-10-years/",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/september-2026"
     ],
-    "opis": "Predstava 3 Sestre Remix v reziji Ivice Buljana je na sporedu 10. septembra 2026 v Krizankah v Ljubljani.",
+    "opis": "Jubilejni koncert dueta Uroš in Tjaša ob 10-letnici, z gosti, je 9. septembra 2026 ob 19.30 v Dvorani Tivoli v Ljubljani.",
     "odmevnost": {
-      "skupaj": 60,
+      "skupaj": 64,
       "doseg": 3,
       "prepoznavnost": 3,
-      "obisk": 3,
+      "obisk": 4,
       "redkost": 3,
       "medijski_signal": 3
     },
     "znacke": [
-      "gledališče",
-      "Ivica Buljan",
-      "Krizanke"
+      "domači izvajalec",
+      "obletnica",
+      "Dvorana Tivoli"
     ]
   },
   {
-    "id": "c0a2b8def270a3a37f9b08de096cb8d46fddd05c",
-    "kategorija": "glasba",
-    "naslov": "Ivo Pogorelic, klavirski recital",
-    "datum": "2026-09-10",
-    "ura": "19:00",
-    "prizorisce": "Cankarjev dom, Gallusova dvorana",
+    "id": "27a2bddcda09d568e853e8a80aaa86d30acd37be",
+    "kategorija": "kultura",
+    "naslov": "Film: A Sad and Beautiful World (r. Cyril Aris) - premiera",
+    "datum": "2026-09-09",
+    "ura": "20:30",
+    "prizorisce": "Kinodvor",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.cd-cc.si/en/calendar",
-      "https://dogodki.kulturnik.si/?where=Cankarjev+dom",
-      "https://www.cd-cc.si/en/monthly-events-calendar"
+      "https://www.kinodvor.org/en/"
     ],
-    "opis": "Pianist Ivo Pogorelic ima klavirski recital 10. septembra 2026 ob 19.00 v Gallusovi dvorani Cankarjevega doma v Ljubljani.",
+    "opis": "Premierna projekcija filma A Sad and Beautiful World režiserja Cyrila Arisa je 9. septembra 2026 ob 20.30 v Kinodvoru v Ljubljani.",
+    "odmevnost": {
+      "skupaj": 27,
+      "doseg": 1,
+      "prepoznavnost": 1,
+      "obisk": 2,
+      "redkost": 2,
+      "medijski_signal": 1
+    },
+    "znacke": [
+      "art kino",
+      "premiera"
+    ]
+  },
+  {
+    "id": "ed843e819c17c27d05e6106b00d29d46d24bb6c5",
+    "kategorija": "glasba",
+    "naslov": "Gnoomes (Losey release show)",
+    "datum": "2026-09-10",
+    "ura": "20:00",
+    "prizorisce": "Channel Zero",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.ch0.org/category/program/koncerti/",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/september-2026"
+    ],
+    "opis": "Koncert skupine Gnoomes ob izidu albuma Losey je 10. septembra 2026 ob 20.00 v klubu Channel Zero v Ljubljani.",
+    "odmevnost": {
+      "skupaj": 27,
+      "doseg": 1,
+      "prepoznavnost": 1,
+      "obisk": 2,
+      "redkost": 2,
+      "medijski_signal": 1
+    },
+    "znacke": [
+      "mednarodni izvajalec",
+      "klubski koncert"
+    ]
+  },
+  {
+    "id": "d67d33f2d636a0b6bb2873d916298090587fd4db",
+    "kategorija": "glasba",
+    "naslov": "Ivo Pogorelić, klavirski recital",
+    "datum": "2026-09-10",
+    "ura": "19:00",
+    "prizorisce": "Cankarjev dom (Gallusova dvorana)",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://vstopnice.cd-cc.si/en/all.html",
+      "https://happeningnext.com/event/ivo-pogoreli%C4%87-eid3a0cxd6pid",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana"
+    ],
+    "opis": "Pianist Ivo Pogorelić ima klavirski recital 10. septembra 2026 ob 19.00 v Gallusovi dvorani Cankarjevega doma v Ljubljani.",
     "odmevnost": {
       "skupaj": 74,
       "doseg": 4,
@@ -900,21 +949,21 @@
     "znacke": [
       "mednarodni izvajalec",
       "klavirski recital",
-      "Ivo Pogorelic"
+      "Ivo Pogorelić"
     ]
   },
   {
-    "id": "011b0c523e076ba3f1957c2773bb1616947ce43b",
+    "id": "25b38800a22a3ef1d57b8c02ac1aa29ce89c2e10",
     "kategorija": "kultura",
-    "naslov": "Klik za ljubezen (komicna opera, Iztok Kocen)",
+    "naslov": "Iztok Kocen: Klik za ljubezen, operna komedija",
     "datum": "2026-09-10",
-    "ura": "19:30",
-    "prizorisce": "Cankarjev dom, Stihova dvorana",
+    "ura": "19:00",
+    "prizorisce": "Stihova dvorana, Cankarjev dom",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.cd-cc.si/en/monthly-events-calendar"
+      "https://www.cd-cc.si/en/calendar"
     ],
-    "opis": "Komicna opera Klik za ljubezen skladatelja Iztoka Kocena je na sporedu 10. septembra 2026 ob 19.30 v Stihovi dvorani Cankarjevega doma v Ljubljani.",
+    "opis": "Operna komedija Klik za ljubezen skladatelja Iztoka Kocena je 10. septembra 2026 ob 19.00 v Štihovi dvorani Cankarjevega doma v Ljubljani.",
     "odmevnost": {
       "skupaj": 43,
       "doseg": 2,
@@ -924,9 +973,63 @@
       "medijski_signal": 2
     },
     "znacke": [
-      "komicna opera",
+      "komična opera",
       "slovensko delo",
       "Cankarjev dom"
+    ]
+  },
+  {
+    "id": "204af2e907008205d1a4fb55dc80a3ae6080889f",
+    "kategorija": "kultura",
+    "naslov": "Jazz Club Ljubljanski grad: Slavko Ivancic",
+    "datum": "2026-09-11",
+    "ura": null,
+    "prizorisce": "Ljubljanski grad",
+    "kraj": "Ljubljana",
+    "viri": [
+      "http://napovednik.com/",
+      "https://ljubljanskigrad.si/si/"
+    ],
+    "opis": "Jazzovski koncert Slavka Ivančiča v sklopu Jazz Cluba Ljubljanski grad je 11. septembra 2026 na Ljubljanskem gradu.",
+    "odmevnost": {
+      "skupaj": 38,
+      "doseg": 2,
+      "prepoznavnost": 2,
+      "obisk": 2,
+      "redkost": 2,
+      "medijski_signal": 1
+    },
+    "znacke": [
+      "jazz",
+      "Ljubljanski grad",
+      "domači izvajalec"
+    ]
+  },
+  {
+    "id": "dab354cee62a1e3dfcabceb7c66c7755d033cd1b",
+    "kategorija": "sport",
+    "naslov": "Trail Ljubljana 2026 (Športni vikend Ljubljanica)",
+    "datum": "2026-09-11",
+    "ura": "16:00",
+    "prizorisce": "Stritarjeva ulica / Robbov vodnjak (Mestni trg)",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://ljubljanica.net/program/",
+      "https://www.24ur.com/novice/slovenija/sportni-vikend-ljubljanica-2026-bo-med-11-in-13-septembrom-v-sredisce-ljubljane-pripeljal-nocni-tek-trail-pohodnistvo-kolesarjenje-in-pestro-druzinsko-sportno-dogajanje.html"
+    ],
+    "opis": "Tekaška prireditev Trail Ljubljana 2026 v sklopu Športnega vikenda Ljubljanica se začne 11. septembra 2026 ob 16.00 na Stritarjevi ulici oziroma pri Robbovem vodnjaku na Mestnem trgu v Ljubljani.",
+    "odmevnost": {
+      "skupaj": 55,
+      "doseg": 3,
+      "prepoznavnost": 2,
+      "obisk": 3,
+      "redkost": 3,
+      "medijski_signal": 3
+    },
+    "znacke": [
+      "tek",
+      "množični dogodek",
+      "Športni vikend Ljubljanica"
     ]
   }
 ]

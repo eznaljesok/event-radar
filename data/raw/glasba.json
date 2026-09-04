@@ -1,137 +1,138 @@
 [
   {
     "kategorija": "glasba",
-    "naslov": "Slavnostni koncert ob 50-letnici Jesenskih serenad",
-    "datum": "2026-09-03",
-    "ura": "18:00",
-    "prizorisce": "Slovenska filharmonija, Dvorana Marjana Kozine",
-    "kraj": "Ljubljana",
-    "viri": ["https://napovednik.com/glasba", "https://www.lokalne-ajdovscina.si/novice/2026083112541809/nova-sezona-jesenskih-serenad-je-pred-vrati/"]
-  },
-  {
-    "kategorija": "glasba",
-    "naslov": "London Symphony Orchestra in Drzavni zbor iz Kaunasa (Mahler: Simfonija st. 2)",
-    "datum": "2026-09-03",
-    "ura": "20:00",
-    "prizorisce": "Cankarjev dom, Gallusova dvorana",
-    "kraj": "Ljubljana",
-    "viri": ["https://www.ljubljanafestival.si/en/events-calendar/", "https://www.eventim.si/city/ljubljana-5738/"]
-  },
-  {
-    "kategorija": "glasba",
-    "naslov": "Mamma Mia!",
+    "naslov": "Matter v Cankarjevem domu",
     "datum": "2026-09-04",
     "ura": "20:00",
-    "prizorisce": "Krizanke",
+    "prizorisce": "Cankarjev dom (Štihova dvorana)",
     "kraj": "Ljubljana",
-    "viri": ["https://www.ljubljanafestival.si/en/events-calendar/"]
+    "viri": [
+      "https://www.cd-cc.si/kultura/glasba/matter-v-cankarjevem-domu",
+      "https://www.entrio.si/en/e/matter-v-cankarjevem-domu-icd3CP"
+    ]
   },
   {
     "kategorija": "glasba",
-    "naslov": "Koncert: MRFY & Delta Riff",
+    "naslov": "Shaun Banks (No Rest For The Wicked Tour)",
     "datum": "2026-09-04",
     "ura": "21:00",
-    "prizorisce": "Mladinski center Klub Jedro",
-    "kraj": "Medvode",
-    "viri": ["https://www.mojaobcina.si/medvode/dogodki/"]
-  },
-  {
-    "kategorija": "glasba",
-    "naslov": "Tradicionalna veselica na Govejku",
-    "datum": "2026-09-05",
-    "ura": "14:00",
-    "prizorisce": "Mihelcicev dom na Govejku",
-    "kraj": "Medvode",
-    "viri": ["https://www.mojaobcina.si/medvode/dogodki/"]
-  },
-  {
-    "kategorija": "glasba",
-    "naslov": "Berliner Symphoniker, Gudni Emilsson in Khatia Buniatishvili",
-    "datum": "2026-09-06",
-    "ura": "20:00",
-    "prizorisce": "Cankarjev dom",
+    "prizorisce": "Bizzarnica pri Mariči",
     "kraj": "Ljubljana",
-    "viri": ["https://www.ljubljanafestival.si/en/events-calendar/"]
+    "viri": [
+      "https://www.songkick.com/artists/10129154-shaun-banks/calendar",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/september-2026"
+    ]
   },
   {
     "kategorija": "glasba",
-    "naslov": "Staatskapelle Dresden in Daniele Gatti (Mahler: Simfonija st. 6)",
+    "naslov": "MRFY in Delta Riff",
+    "datum": "2026-09-04",
+    "ura": "21:00",
+    "prizorisce": "Klub Jedro",
+    "kraj": "Medvode",
+    "viri": [
+      "https://www.songkick.com/concerts/43373861-mrfy-at-klub-jedro",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana"
+    ]
+  },
+  {
+    "kategorija": "glasba",
+    "naslov": "Mamma Mia! (muzikal)",
+    "datum": "2026-09-04",
+    "ura": null,
+    "prizorisce": "Križanke",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.ljubljanafestival.si/en/events-calendar/"
+    ]
+  },
+  {
+    "kategorija": "glasba",
+    "naslov": "Berlinski simfoniki, Gudni Emilsson, dirigent, Khatia Buniatishvili, klavir",
+    "datum": "2026-09-06",
+    "ura": null,
+    "prizorisce": "Cankarjev dom (Gallusova dvorana)",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.ljubljanafestival.si/en/events-calendar/",
+      "https://www.slovenia.info/en/things-to-do/events/25381-berliner-symphoniker-gudni-emilsson-conductor-khatia-buniatishvili-piano",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana"
+    ]
+  },
+  {
+    "kategorija": "glasba",
+    "naslov": "Staatskapelle Dresden, Daniele Gatti, dirigent",
     "datum": "2026-09-07",
     "ura": "20:00",
-    "prizorisce": "Cankarjev dom",
+    "prizorisce": "Cankarjev dom (Gallusova dvorana)",
     "kraj": "Ljubljana",
-    "viri": ["https://www.ljubljanafestival.si/en/events-calendar/", "https://www.eventim.si/city/ljubljana-5738/"]
+    "viri": [
+      "https://www.ljubljanafestival.si/en/events-calendar/",
+      "https://www.rtvslo.si/kultura/glasba/cankarjev-dom-v-2026-2027-prodorni-glasovi-svetovne-glasbe-in-velicastni-z-mednarodnim-pecatom/784220",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana"
+    ]
   },
   {
     "kategorija": "glasba",
-    "naslov": "Filharmonicni orkester Baltskega morja, Robert Trevino, Lana Trotovsek (zakljucni koncert 74. Ljubljana Festivala)",
+    "naslov": "Filharmonični orkester Baltskega morja, Robert Treviño, Lana Trotovšek",
     "datum": "2026-09-08",
-    "ura": "20:00",
-    "prizorisce": "Cankarjev dom",
+    "ura": null,
+    "prizorisce": "Cankarjev dom (Gallusova dvorana)",
     "kraj": "Ljubljana",
-    "viri": ["https://www.ljubljanafestival.si/en/events-calendar/", "https://www.eventim.si/city/ljubljana-5738/"]
+    "viri": [
+      "https://www.ljubljanafestival.si/en/events-calendar/",
+      "https://www.delo.si/kultura/glasba/trije-veliki-orkestri-tri-glasbene-tradicije-en-festival",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana"
+    ]
   },
   {
     "kategorija": "glasba",
-    "naslov": "Jesenske serenade - Vodne niti",
-    "datum": "2026-09-08",
-    "ura": "19:30",
-    "prizorisce": "",
-    "kraj": "Ljubljana",
-    "viri": ["https://napovednik.com/glasba"]
-  },
-  {
-    "kategorija": "glasba",
-    "naslov": "Avdicije za srednjesolski pevski zbor Veter",
-    "datum": "2026-09-08",
-    "ura": "19:00",
-    "prizorisce": "",
-    "kraj": "Ljubljana",
-    "viri": ["https://napovednik.com/glasba"]
-  },
-  {
-    "kategorija": "glasba",
-    "naslov": "Jesenske serenade - Zivljenje je kabaret",
+    "naslov": "Uroš in Tjaša - 10 let (veliki koncert z gosti)",
     "datum": "2026-09-09",
     "ura": "19:30",
-    "prizorisce": "",
+    "prizorisce": "Dvorana Tivoli",
     "kraj": "Ljubljana",
-    "viri": ["https://napovednik.com/glasba"]
+    "viri": [
+      "https://www.eventim.si/en/event/uros-in-tjasa-10-let-veliki-koncert-z-gosti-dvorana-tivoli-21491678/",
+      "https://www.sport-ljubljana.si/en/uros-tjasa-10-years/",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/september-2026"
+    ]
   },
   {
     "kategorija": "glasba",
-    "naslov": "Jesenske serenade - Pot",
-    "datum": "2026-09-09",
-    "ura": "19:30",
-    "prizorisce": "",
-    "kraj": "Medvode",
-    "viri": ["https://napovednik.com/glasba"]
-  },
-  {
-    "kategorija": "glasba",
-    "naslov": "Summer in Siska 2026: OASIS BLOOM",
+    "naslov": "Poletje v Šiški 2026: OASIS BOOM",
     "datum": "2026-09-09",
     "ura": "20:00",
-    "prizorisce": "Cafe Kino Siska",
+    "prizorisce": "Café Kino Šiška",
     "kraj": "Ljubljana",
-    "viri": ["https://www.kinosiska.si/en/dogodek/summer-in-siska-2026-oasis-bloom/", "https://www.kinosiska.si/en/dogodek/?category=concert-en"]
+    "viri": [
+      "https://www.kinosiska.si/en/dogodek/summer-in-siska-2026-oasis-bloom/",
+      "https://www.kinosiska.si/dogodek/poletje-v-siski-2026/"
+    ]
   },
   {
     "kategorija": "glasba",
-    "naslov": "Ivo Pogorelic, klavirski recital",
+    "naslov": "Ivo Pogorelić, klavirski recital",
     "datum": "2026-09-10",
     "ura": "19:00",
-    "prizorisce": "Cankarjev dom, Gallusova dvorana",
+    "prizorisce": "Cankarjev dom (Gallusova dvorana)",
     "kraj": "Ljubljana",
-    "viri": ["https://www.cd-cc.si/en/calendar", "https://dogodki.kulturnik.si/?where=Cankarjev+dom"]
+    "viri": [
+      "https://vstopnice.cd-cc.si/en/all.html",
+      "https://happeningnext.com/event/ivo-pogoreli%C4%87-eid3a0cxd6pid",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana"
+    ]
   },
   {
     "kategorija": "glasba",
-    "naslov": "3 Sestre Remix (rez. Ivica Buljan)",
+    "naslov": "Gnoomes (Losey release show)",
     "datum": "2026-09-10",
-    "ura": "",
-    "prizorisce": "Krizanke",
+    "ura": "20:00",
+    "prizorisce": "Channel Zero",
     "kraj": "Ljubljana",
-    "viri": ["https://www.ljubljanafestival.si/en/for-visitors/venues/venue-krizanke/", "https://www.eventim.si/city/ljubljana-5738/"]
+    "viri": [
+      "https://www.ch0.org/category/program/koncerti/",
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/september-2026"
+    ]
   }
 ]
