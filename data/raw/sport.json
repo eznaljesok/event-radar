@@ -1,97 +1,133 @@
 [
   {
     "kategorija": "sport",
-    "naslov": "4. Ljubljanski festival športa",
-    "datum": "2026-09-05",
+    "naslov": "Športni vikend Ljubljanica 2026",
+    "datum": "2026-09-11",
     "ura": null,
-    "prizorisce": "Park Tivoli",
+    "prizorisce": "Stritarjeva ulica in Mestni trg",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.sport-ljubljana.si/4-ljubljanski-festival-sporta/",
-      "https://www.ljubljana.si/sl/ljubljana/sportna/ljubljanski-festival-sporta",
-      "https://www.24ur.com/novice/slovenija/vsi-sporti-brezplacno-na-enem-mestu-to-je-4-ljubljanski-festival-sporta.html"
+      "https://ljubljanica.net/",
+      "https://ljubljanica.net/program/",
+      "https://www.24ur.com/novice/slovenija/sportni-vikend-ljubljanica-2026-bo-med-11-in-13-septembrom-v-sredisce-ljubljane-pripeljal-nocni-tek-trail-pohodnistvo-kolesarjenje-in-pestro-druzinsko-sportno-dogajanje.html"
     ]
   },
   {
     "kategorija": "sport",
-    "naslov": "Tek dvojk (4. Ljubljanski festival športa)",
-    "datum": "2026-09-05",
+    "naslov": "Trail Ljubljana (petek, daljše trase 165 in 95 km)",
+    "datum": "2026-09-11",
     "ura": "16:00",
-    "prizorisce": "Park Tivoli",
+    "prizorisce": "Stritarjeva ulica, Robbov vodnjak",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.sport-ljubljana.si/4-ljubljanski-festival-sporta/",
+      "https://ljubljanica.net/program/",
       "https://www.rekreacija.si/koledar/"
     ]
   },
   {
     "kategorija": "sport",
-    "naslov": "NK Olimpija Ljubljana - NK Brinje Grosuplje (Prva liga Telemach, 8. krog)",
-    "datum": "2026-09-05",
-    "ura": "20:15",
-    "prizorisce": "Stadion Stožice",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://nkolimpija.si/septembrski-razpored-zmajev/",
-      "https://nkolimpija.si/prost-vstop-za-osnovnosolce/",
-      "https://www.flashscore.si/nogomet/slovenija/prva-liga/razpored/"
-    ]
-  },
-  {
-    "kategorija": "sport",
-    "naslov": "RD Slovan - RK Riko Ribnica (Liga NLB, rokomet)",
-    "datum": "2026-09-05",
-    "ura": null,
-    "prizorisce": "Dvorana Kodeljevo",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://www.flashscore.si/rokomet/slovenija/nlb-leasing-1/razpored/",
-      "https://rdslovan.si/tekme/"
-    ]
-  },
-  {
-    "kategorija": "sport",
-    "naslov": "ND Ilirija 1911 - NK Primorje (2. SNL, 5. krog)",
-    "datum": "2026-09-04",
-    "ura": "17:00",
-    "prizorisce": "Stadion Ilirija",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://www.nzs.si/klubi/moski/2-slovenska-nogometna-liga/tekme"
-    ]
-  },
-  {
-    "kategorija": "sport",
-    "naslov": "ND Vrhnika - NK Rudar Velenje (2. SNL, 5. krog)",
-    "datum": "2026-09-04",
-    "ura": "17:00",
-    "prizorisce": "Športni park Vrhnika",
-    "kraj": "Vrhnika",
-    "viri": [
-      "https://www.nzs.si/klubi/moski/2-slovenska-nogometna-liga/tekme"
-    ]
-  },
-  {
-    "kategorija": "sport",
-    "naslov": "Roltek Dob - NK Slovan (Pokal Pivovarna Union, 2. krog)",
-    "datum": "2026-09-09",
-    "ura": "16:30",
-    "prizorisce": "Športni park Dob",
-    "kraj": "Dob (Domžale)",
-    "viri": [
-      "https://www.nzs.si/klubi/moski/pokal-pivovarna-union/tekme"
-    ]
-  },
-  {
-    "kategorija": "sport",
-    "naslov": "Trail Ljubljana 2026 (Športni vikend Ljubljanica)",
-    "datum": "2026-09-11",
-    "ura": "16:00",
-    "prizorisce": "Stritarjeva ulica / Robbov vodnjak (Mestni trg)",
+    "naslov": "Trail Ljubljana (sobota, trase 6-54 km)",
+    "datum": "2026-09-12",
+    "ura": "08:00",
+    "prizorisce": "Stritarjeva ulica, Robbov vodnjak",
     "kraj": "Ljubljana",
     "viri": [
       "https://ljubljanica.net/program/",
-      "https://www.24ur.com/novice/slovenija/sportni-vikend-ljubljanica-2026-bo-med-11-in-13-septembrom-v-sredisce-ljubljane-pripeljal-nocni-tek-trail-pohodnistvo-kolesarjenje-in-pestro-druzinsko-sportno-dogajanje.html"
+      "https://www.rekreacija.si/koledar/"
+    ]
+  },
+  {
+    "kategorija": "sport",
+    "naslov": "Otroški teki Povodnega moža",
+    "datum": "2026-09-12",
+    "ura": "10:00",
+    "prizorisce": "Stritarjeva ulica, Robbov vodnjak",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://ljubljanica.net/program/"
+    ]
+  },
+  {
+    "kategorija": "sport",
+    "naslov": "17. Nočni tek Ljubljanica",
+    "datum": "2026-09-12",
+    "ura": "20:00",
+    "prizorisce": "Stritarjeva ulica, Robbov vodnjak",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://ljubljanica.net/nocni-tek-ljubljanica/",
+      "https://ljubljanica.net/program/",
+      "https://www.rekreacija.si/koledar/"
+    ]
+  },
+  {
+    "kategorija": "sport",
+    "naslov": "Bike Festival Ljubljana",
+    "datum": "2026-09-13",
+    "ura": "10:00",
+    "prizorisce": "Stritarjeva ulica, Robbov vodnjak",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://ljubljanica.net/bike-festival-ljubljana/",
+      "https://ljubljanica.net/program/"
+    ]
+  },
+  {
+    "kategorija": "sport",
+    "naslov": "12. skupinski tek Koseški bajer",
+    "datum": "2026-09-12",
+    "ura": null,
+    "prizorisce": "Koseški bajer",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.rekreacija.si/koledar/"
+    ]
+  },
+  {
+    "kategorija": "sport",
+    "naslov": "NK Brinje Grosuplje - NK Nafta 1903 (Prva liga Telemach)",
+    "datum": "2026-09-11",
+    "ura": null,
+    "prizorisce": "Športni park Brinje",
+    "kraj": "Grosuplje",
+    "viri": [
+      "https://www.flashscore.si/nogomet/slovenija/prva-liga/razpored/",
+      "https://www.nzs.si/prvaliga/"
+    ]
+  },
+  {
+    "kategorija": "sport",
+    "naslov": "NK Bravo - NK Celje (Prva liga Telemach)",
+    "datum": "2026-09-12",
+    "ura": null,
+    "prizorisce": "Stadion ŽAK (ŠRC Ljubljana)",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.flashscore.si/nogomet/slovenija/prva-liga/razpored/",
+      "https://www.nzs.si/prvaliga/"
+    ]
+  },
+  {
+    "kategorija": "sport",
+    "naslov": "NK Kalcer Radomlje - NK Maribor (Prva liga Telemach)",
+    "datum": "2026-09-13",
+    "ura": null,
+    "prizorisce": "Športni park Radomlje",
+    "kraj": "Domžale",
+    "viri": [
+      "https://www.flashscore.si/nogomet/slovenija/prva-liga/razpored/",
+      "https://www.nzs.si/prvaliga/"
+    ]
+  },
+  {
+    "kategorija": "sport",
+    "naslov": "NK Slovan - NK Vrhnika (2. SNL)",
+    "datum": "2026-09-12",
+    "ura": null,
+    "prizorisce": "Stadion ŽAK (ŠRC Ljubljana)",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.flashscore.si/nogomet/slovenija/2-snl/razpored/"
     ]
   }
 ]
