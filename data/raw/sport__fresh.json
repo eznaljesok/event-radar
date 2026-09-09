@@ -1,0 +1,103 @@
+[
+  {
+    "kategorija": "sport",
+    "naslov": "Trail Ljubljana 2026 (Sportni vikend Ljubljanica)",
+    "datum": "2026-09-11",
+    "ura": "16:00",
+    "prizorisce": "Stritarjeva ulica / Robbov vodnjak, start-cilj",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://ljubljanica.net/program/",
+      "https://ljubljanica.net/trail-ljubljana/",
+      "https://www.24ur.com/novice/slovenija/sportni-vikend-ljubljanica-2026-bo-med-11-in-13-septembrom-v-sredisce-ljubljane-pripeljal-nocni-tek-trail-pohodnistvo-kolesarjenje-in-pestro-druzinsko-sportno-dogajanje.html"
+    ]
+  },
+  {
+    "kategorija": "sport",
+    "naslov": "Otroski teki Povodnega moza (Sportni vikend Ljubljanica)",
+    "datum": "2026-09-12",
+    "ura": "10:00",
+    "prizorisce": "Stritarjeva ulica / Robbov vodnjak",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://ljubljanica.net/program/",
+      "https://www.24ur.com/novice/slovenija/sportni-vikend-ljubljanica-2026-bo-med-11-in-13-septembrom-v-sredisce-ljubljane-pripeljal-nocni-tek-trail-pohodnistvo-kolesarjenje-in-pestro-druzinsko-sportno-dogajanje.html"
+    ]
+  },
+  {
+    "kategorija": "sport",
+    "naslov": "17. Nocni tek Ljubljanica (Sportni vikend Ljubljanica)",
+    "datum": "2026-09-12",
+    "ura": "20:00",
+    "prizorisce": "Stritarjeva ulica / Mestni trg, start-cilj",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://ljubljanica.net/program/",
+      "https://ljubljanica.net/nocni-tek-ljubljanica/",
+      "https://tekaski-koledar.si/en/races/2026/r000211-17-nocni-tek-ljubljanica/"
+    ]
+  },
+  {
+    "kategorija": "sport",
+    "naslov": "15. Bike Festival Ljubljana (Sportni vikend Ljubljanica)",
+    "datum": "2026-09-13",
+    "ura": "10:00",
+    "prizorisce": "Stritarjeva ulica / Robbov vodnjak, start-cilj",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://ljubljanica.net/program/",
+      "https://www.24ur.com/novice/slovenija/sportni-vikend-ljubljanica-2026-bo-med-11-in-13-septembrom-v-sredisce-ljubljane-pripeljal-nocni-tek-trail-pohodnistvo-kolesarjenje-in-pestro-druzinsko-sportno-dogajanje.html"
+    ]
+  },
+  {
+    "kategorija": "sport",
+    "naslov": "NK Brinje Grosuplje - NK Nafta 1903 (Prva liga Telemach, 9. krog)",
+    "datum": "2026-09-11",
+    "ura": "",
+    "prizorisce": "SRC Brinje",
+    "kraj": "Grosuplje",
+    "viri": [
+      "https://www.flashscore.si/nogomet/slovenija/prva-liga/razpored/",
+      "https://www.besoccer.com/team/matches/brinje-grosuplje",
+      "https://en.wikipedia.org/wiki/NK_Brinje_Grosuplje"
+    ]
+  },
+  {
+    "kategorija": "sport",
+    "naslov": "NK Bravo - NK Celje (Prva liga Telemach)",
+    "datum": "2026-09-12",
+    "ura": "",
+    "prizorisce": "Sportni park Siska",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.flashscore.si/nogomet/slovenija/prva-liga/razpored/",
+      "https://www.sport-ljubljana.si/nk-bravo-nk-celje-prva-slovenska-nogometna-liga/",
+      "https://www.sofascore.com/football/team/nk-bravo/261800"
+    ]
+  },
+  {
+    "kategorija": "sport",
+    "naslov": "NK Kalcer Radomlje - NK Maribor (Prva liga Telemach)",
+    "datum": "2026-09-13",
+    "ura": "",
+    "prizorisce": "Sportni park Domzale",
+    "kraj": "Domzale",
+    "viri": [
+      "https://www.flashscore.si/nogomet/slovenija/prva-liga/razpored/",
+      "https://www.sofascore.com/football/match/kalcer-radomlje-nk-maribor/vYsMep",
+      "https://www.nkmaribor.com/?language=eng"
+    ]
+  },
+  {
+    "kategorija": "sport",
+    "naslov": "NK Slovan Ljubljana - ND Vrhnika (2. SNL)",
+    "datum": "2026-09-12",
+    "ura": "",
+    "prizorisce": "SRC Kodeljevo",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.flashscore.si/nogomet/slovenija/2-snl/razpored/",
+      "https://www.nzs.si/klubi/moski/2-slovenska-nogometna-liga"
+    ]
+  }
+]
