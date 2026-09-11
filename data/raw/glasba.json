@@ -1,130 +1,37 @@
 [
   {
-    "naslov": "Uroš in Tjaša - 10 let | Veliki koncert z gosti",
-    "datum": "2026-09-09",
-    "ura": "19:30",
-    "prizorisce": "Dvorana Tivoli (Hala Tivoli)",
-    "kraj": "Ljubljana",
-    "kategorija": "glasba",
-    "viri": [
-      "https://www.eventim.si/en/event/uros-in-tjasa-10-let-veliki-koncert-z-gosti-dvorana-tivoli-21491678/",
-      "https://www.sport-ljubljana.si/uros-in-tjasa-10-let/",
-      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/september-2026"
-    ]
-  },
-  {
-    "naslov": "Poletje v Šiški 2026: OASIS BOOM",
-    "datum": "2026-09-09",
-    "ura": "20:00",
-    "prizorisce": "Kavarna Kino Šiška",
-    "kraj": "Ljubljana",
-    "kategorija": "glasba",
-    "viri": [
-      "https://www.kinosiska.si/en/dogodek/summer-in-siska-2026-oasis-bloom/",
-      "https://www.kinosiska.si/dogodek/poletje-v-siski-2026/"
-    ]
-  },
-  {
-    "naslov": "Jesenske serenade - Življenje je kabaret",
-    "datum": "2026-09-09",
-    "ura": "19:30",
-    "prizorisce": "",
-    "kraj": "Ljubljana",
-    "kategorija": "glasba",
-    "viri": [
-      "https://napovednik.com/glasba"
-    ]
-  },
-  {
-    "naslov": "Jesenske serenade - Pot",
-    "datum": "2026-09-09",
-    "ura": "19:30",
-    "prizorisce": "",
-    "kraj": "Medvode",
-    "kategorija": "glasba",
-    "viri": [
-      "https://napovednik.com/glasba"
-    ]
-  },
-  {
-    "naslov": "Jutranka: ko se dan začne na plesišču",
-    "datum": "2026-09-10",
-    "ura": "07:00",
-    "prizorisce": "",
-    "kraj": "Ljubljana",
-    "kategorija": "glasba",
-    "viri": [
-      "https://napovednik.com/glasba"
-    ]
-  },
-  {
-    "naslov": "Gnoomes",
-    "datum": "2026-09-10",
-    "ura": "",
-    "prizorisce": "Channel Zero",
-    "kraj": "Ljubljana",
-    "kategorija": "glasba",
-    "viri": [
-      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/september-2026",
-      "https://www.songkick.com/venues/234558-channel-zero"
-    ]
-  },
-  {
-    "naslov": "Ivo Pogorelić, koncert",
-    "datum": "2026-09-10",
-    "ura": "19:00",
-    "prizorisce": "Gallusova dvorana, Cankarjev dom",
-    "kraj": "Ljubljana",
-    "kategorija": "glasba",
-    "viri": [
-      "https://www.cd-cc.si/en/calendar",
-      "https://www.eventim.si/city/ljubljana-5738/"
-    ]
-  },
-  {
-    "naslov": "Jesenske serenade - Pot",
-    "datum": "2026-09-11",
-    "ura": "19:30",
-    "prizorisce": "",
-    "kraj": "Ljubljana",
-    "kategorija": "glasba",
-    "viri": [
-      "https://napovednik.com/glasba"
-    ]
-  },
-  {
-    "naslov": "Jazz Klub Ljubljanski grad: Janez Bončina – Benč",
-    "datum": "2026-09-11",
-    "ura": "20:00",
-    "prizorisce": "Ljubljanski grad",
-    "kraj": "Ljubljana",
-    "kategorija": "glasba",
-    "viri": [
-      "https://napovednik.com/glasba",
-      "https://www.ljubljanskigrad.si/sl/dogodki/jazz-club-ljubljanski-grad/"
-    ]
-  },
-  {
-    "naslov": "Hamo & Tribute 2 Love: 20 let",
-    "datum": "2026-09-12",
-    "ura": "20:00",
-    "prizorisce": "Kino Šiška",
-    "kraj": "Ljubljana",
-    "kategorija": "glasba",
-    "viri": [
-      "https://www.eventim.si/event/hamo-tribute-2-love-20-let-kino-siska-21571497/",
-      "https://www.kinosiska.si/en/dogodek/hamo-tribute-2-love-20-let/"
-    ]
-  },
-  {
     "naslov": "The Rumjacks",
     "datum": "2026-09-12",
-    "ura": "",
+    "ura": "19:30",
     "prizorisce": "Orto Bar",
     "kraj": "Ljubljana",
     "kategorija": "glasba",
     "viri": [
-      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/september-2026"
+      "https://www.orto-bar.com/en/dogodki/koncerti/the-rumjacks/",
+      "https://www.songkick.com/concerts/43198911-rumjacks-at-orto-bar"
+    ]
+  },
+  {
+    "naslov": "POPPY by Cvetličarna",
+    "datum": "2026-09-12",
+    "ura": "22:00",
+    "prizorisce": "Cvetličarna",
+    "kraj": "Ljubljana",
+    "kategorija": "glasba",
+    "viri": [
+      "https://www.entrio.si/en/venue/ljubljana/cvetlicarna"
+    ]
+  },
+  {
+    "naslov": "Gorenjski slavček (Anton Foerster) - opera",
+    "datum": "2026-09-12",
+    "ura": "18:00",
+    "prizorisce": "SNG Opera in balet Ljubljana",
+    "kraj": "Ljubljana",
+    "kategorija": "glasba",
+    "viri": [
+      "https://www.opera.si/en",
+      "https://opera.mojekarte.si/en/tickets.html"
     ]
   },
   {
@@ -135,64 +42,77 @@
     "kraj": "Ljubljana",
     "kategorija": "glasba",
     "viri": [
-      "https://www.cd-cc.si/en/calendar",
-      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/september-2026"
+      "https://www.eventim.si/en/artist/global-kryner/",
+      "https://www.cd-cc.si/en/culture/music"
     ]
   },
   {
-    "naslov": "Iztok Kocen: Klik za ljubezen (opereta)",
-    "datum": "2026-09-13",
-    "ura": "19:30",
-    "prizorisce": "Štihova dvorana, Cankarjev dom",
-    "kraj": "Ljubljana",
-    "kategorija": "glasba",
-    "viri": [
-      "https://www.cd-cc.si/en/calendar"
-    ]
-  },
-  {
-    "naslov": "Jesenske serenade - Le deux silence (Sladka tišina)",
-    "datum": "2026-09-14",
-    "ura": "19:30",
-    "prizorisce": "",
-    "kraj": "Ljubljana",
-    "kategorija": "glasba",
-    "viri": [
-      "https://napovednik.com/glasba"
-    ]
-  },
-  {
-    "naslov": "Avdicije za srednješolski pevski zbor Veter",
-    "datum": "2026-09-15",
-    "ura": "19:00",
-    "prizorisce": "",
-    "kraj": "Ljubljana",
-    "kategorija": "glasba",
-    "viri": [
-      "https://napovednik.com/glasba/mesana-vec-zvrsti"
-    ]
-  },
-  {
-    "naslov": "Poletje v Šiški 2026: NUHARA",
-    "datum": "2026-09-16",
+    "naslov": "RAPETEK EKSTRA: La Coka Nostra (USA)",
+    "datum": "2026-09-17",
     "ura": "20:00",
-    "prizorisce": "Kavarna Kino Šiška",
+    "prizorisce": "Gala hala, Metelkova",
     "kraj": "Ljubljana",
     "kategorija": "glasba",
     "viri": [
-      "https://www.kinosiska.si/en/dogodek/summer-in-siska-2026-nuhara/",
-      "https://www.kinosiska.si/dogodek/poletje-v-siski-2026/"
+      "https://www.galahala.com/program/"
     ]
   },
   {
-    "naslov": "Jesenske serenade - Vodne niti",
-    "datum": "2026-09-16",
+    "naslov": "Katarza - odprtje sezone (Slovenska filharmonija, dir. Kahi Solomnishvili, Mahler Symphony No. 10)",
+    "datum": "2026-09-17",
     "ura": "19:30",
-    "prizorisce": "",
-    "kraj": "Medvode",
+    "prizorisce": "Gallusova dvorana, Cankarjev dom",
+    "kraj": "Ljubljana",
     "kategorija": "glasba",
     "viri": [
-      "https://napovednik.com/glasba"
+      "https://filharmonija.si/en/concerts/program/",
+      "https://ljnovice.si/2026/09/07/slovenska-filharmonija-vabi-otvoritev-sezone-2026-27/"
+    ]
+  },
+  {
+    "naslov": "Katarza - odprtje sezone (Slovenska filharmonija, dir. Kahi Solomnishvili, Mahler Symphony No. 10) - 2. večer",
+    "datum": "2026-09-18",
+    "ura": "19:30",
+    "prizorisce": "Gallusova dvorana, Cankarjev dom",
+    "kraj": "Ljubljana",
+    "kategorija": "glasba",
+    "viri": [
+      "https://filharmonija.si/en/concerts/program/",
+      "https://ljnovice.si/2026/09/07/slovenska-filharmonija-vabi-otvoritev-sezone-2026-27/"
+    ]
+  },
+  {
+    "naslov": "Patetico (SI)",
+    "datum": "2026-09-18",
+    "ura": "20:00",
+    "prizorisce": "Gala hala, Metelkova",
+    "kraj": "Ljubljana",
+    "kategorija": "glasba",
+    "viri": [
+      "https://www.galahala.com/program/"
+    ]
+  },
+  {
+    "naslov": "Koncert pod zvezdami - Big Band Grosuplje & Rok Ferengja (Grosuplje v jeseni)",
+    "datum": "2026-09-18",
+    "ura": "19:00",
+    "prizorisce": "center Grosuplje",
+    "kraj": "Grosuplje",
+    "kategorija": "glasba",
+    "viri": [
+      "https://www.grosuplje.si/objava/1339976",
+      "https://radio.zelenival.com/2026/09/08/14-festival-grosuplje-v-jeseni/"
+    ]
+  },
+  {
+    "naslov": "Žan Serčič - koncert",
+    "datum": "2026-09-18",
+    "ura": "neznano",
+    "prizorisce": "Samostan Mekinje",
+    "kraj": "Kamnik",
+    "kategorija": "glasba",
+    "viri": [
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/2026"
     ]
   }
 ]

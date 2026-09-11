@@ -1,121 +1,72 @@
 [
   {
-    "kategorija": "sport",
-    "naslov": "Trail Ljubljana - dolga trasa (165 km)",
+    "naslov": "Trail Ljubljana 2026 (165 km, 95 km, 54 km, 35 km, 27 km, 17 km, 11 km, 6 km)",
     "datum": "2026-09-11",
-    "ura": "16:00",
-    "prizorisce": "Stritarjeva ulica / Robbov vodnjak",
+    "ura": "16:00 start 165 km (11.9.); 00:00 start 95 km (12.9.); 08:00 start 54/35 km (12.9.); 10:00 start 27/17 km (12.9.); 11:00 start 11/6 km (12.9.)",
+    "prizorisce": "Center Ljubljane, Stritarjeva ulica / Mestni trg",
     "kraj": "Ljubljana",
     "viri": [
-      "https://ljubljanica.net/program/",
-      "https://www.24ur.com/novice/slovenija/sportni-vikend-ljubljanica-2026-bo-med-11-in-13-septembrom-v-sredisce-ljubljane-pripeljal-nocni-tek-trail-pohodnistvo-kolesarjenje-in-pestro-druzinsko-sportno-dogajanje.html"
-    ]
+      "https://trail-ljubljana.eu/en/info-2/",
+      "https://ljubljanica.net/trail-ljubljana/"
+    ],
+    "kategorija": "sport"
   },
   {
-    "kategorija": "sport",
-    "naslov": "Trail Ljubljana - srednja trasa (95 km)",
-    "datum": "2026-09-11",
-    "ura": "24:00",
-    "prizorisce": "Stritarjeva ulica / Robbov vodnjak",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://ljubljanica.net/program/"
-    ]
-  },
-  {
-    "kategorija": "sport",
-    "naslov": "Trail Ljubljana - sobotne trase (6-54 km)",
-    "datum": "2026-09-12",
-    "ura": "08:00",
-    "prizorisce": "Stritarjeva ulica / Robbov vodnjak",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://ljubljanica.net/program/"
-    ]
-  },
-  {
-    "kategorija": "sport",
-    "naslov": "Otroski teki Povodnega moza",
-    "datum": "2026-09-12",
-    "ura": "10:00",
-    "prizorisce": "Stritarjeva ulica / Robbov vodnjak",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://ljubljanica.net/program/"
-    ]
-  },
-  {
-    "kategorija": "sport",
-    "naslov": "Nocni tek Ljubljanica (5 in 10 km)",
+    "naslov": "17. Nočni tek Ljubljanica (Namman Muay Night Run Ljubljanica) - 5 km in 10 km",
     "datum": "2026-09-12",
     "ura": "20:00",
-    "prizorisce": "Stritarjeva ulica / Robbov vodnjak",
+    "prizorisce": "Center Ljubljane, Stritarjeva ulica, obrežje Ljubljanice",
     "kraj": "Ljubljana",
     "viri": [
       "https://ljubljanica.net/nocni-tek-ljubljanica/",
-      "https://ljubljanica.net/program/",
-      "https://www.24ur.com/novice/slovenija/sportni-vikend-ljubljanica-2026-bo-med-11-in-13-septembrom-v-sredisce-ljubljane-pripeljal-nocni-tek-trail-pohodnistvo-kolesarjenje-in-pestro-druzinsko-sportno-dogajanje.html"
-    ]
+      "https://www.rekreacija.si/koledar/17-nocni-tek-ljubljanica/"
+    ],
+    "kategorija": "sport"
   },
   {
-    "kategorija": "sport",
-    "naslov": "Bike Festival Ljubljana (35/52/78/120 km)",
+    "naslov": "Otroški teki Povodnega moža (200 m in 400 m)",
+    "datum": "2026-09-12",
+    "ura": "ni znano - v okviru Športnega vikenda Ljubljanica",
+    "prizorisce": "Stritarjeva ulica, Ljubljana",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://ljubljanica.net/trail-ljubljana/"
+    ],
+    "kategorija": "sport"
+  },
+  {
+    "naslov": "NK Bravo - NK Celje (1. SNL, 9. krog)",
+    "datum": "2026-09-12",
+    "ura": "18:00",
+    "prizorisce": "Stadion Stožice",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.thefootballfinder.com/stadium/stadion-stozice-ljubljana-slovenia",
+      "https://www.sofascore.com/football/match/nk-bravo-nk-celje/nYsaLec"
+    ],
+    "kategorija": "sport"
+  },
+  {
+    "naslov": "15. Bike Festival Ljubljana (35, 52, 78, 120 km)",
     "datum": "2026-09-13",
     "ura": "10:00",
-    "prizorisce": "Stritarjeva ulica / Robbov vodnjak",
+    "prizorisce": "Mestni trg, Ljubljana",
     "kraj": "Ljubljana",
     "viri": [
       "https://ljubljanica.net/bike-festival-ljubljana/",
-      "https://ljubljanica.net/program/"
-    ]
+      "https://battistrada.com/en/cycling-calendar/edition/bike-festival-ljubljana-2026/53940/"
+    ],
+    "kategorija": "sport"
   },
   {
-    "kategorija": "sport",
-    "naslov": "NK Brinje Grosuplje - NK Nafta 1903 (Prva liga Telemach, 9. krog)",
-    "datum": "2026-09-11",
-    "ura": "",
-    "prizorisce": "Sportni park Brinje",
-    "kraj": "Grosuplje",
-    "viri": [
-      "https://www.nzs.si/klubi/moski/prva-liga-telemach/tekme",
-      "https://www.flashscore.si/nogomet/slovenija/prva-liga/razpored/"
-    ]
-  },
-  {
-    "kategorija": "sport",
-    "naslov": "NK Bravo - NK Celje (Prva liga Telemach, 9. krog)",
-    "datum": "2026-09-12",
-    "ura": "",
-    "prizorisce": "Sportni park SRC Ljubljana (Siska)",
+    "naslov": "RK Krim OTP Group Mercator - RK Ljubljana (Državno prvenstvo, 2. krog)",
+    "datum": "2026-09-15",
+    "ura": "18:00",
+    "prizorisce": "Center Stožice",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.nzs.si/klubi/moski/prva-liga-telemach/tekme",
-      "https://www.flashscore.si/nogomet/slovenija/prva-liga/razpored/"
-    ]
-  },
-  {
-    "kategorija": "sport",
-    "naslov": "NK Kalcer Radomlje - NK Maribor (Prva liga Telemach, 9. krog)",
-    "datum": "2026-09-13",
-    "ura": "20:15",
-    "prizorisce": "Sportni park Domzale",
-    "kraj": "Domzale",
-    "viri": [
-      "https://www.nzs.si/klubi/moski/prva-liga-telemach/tekme",
-      "https://www.flashscore.si/nogomet/slovenija/prva-liga/razpored/"
-    ]
-  },
-  {
-    "kategorija": "sport",
-    "naslov": "Cedevita Olimpija - KK Cibona (pripravljalna tekma)",
-    "datum": "2026-09-14",
-    "ura": "",
-    "prizorisce": "Arena Stozice",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://cedevita.olimpija.com/tekme-cedevita-olimpije/",
-      "https://www.aba-liga.com/news/55083",
-      "https://cibona.com/en/news/najavljene-utakmice-pripremnog-perioda"
-    ]
+      "https://rkkrim.com/drzavno-prvenstvo/"
+    ],
+    "kategorija": "sport"
   }
 ]

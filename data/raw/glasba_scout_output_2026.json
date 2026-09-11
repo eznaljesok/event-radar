@@ -1,0 +1,245 @@
+[
+  {
+    "naslov": "Koncert Iva Pogorelica",
+    "datum": "2026-09-10",
+    "ura": "19:00",
+    "prizorisce": "Gallusova dvorana, Cankarjev dom",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.cd-cc.si/sl/kultura/glasba", "https://www.eventim.si/city/ljubljana-5738/"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "Gnoomes (promocija albuma Losey)",
+    "datum": "2026-09-10",
+    "ura": "20:00",
+    "prizorisce": "Channel Zero, Metelkova",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/2026", "https://dogodki.kulturnik.si/?where=AKC+Metelkova+mesto"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "Keith St. John in Rowan Robertson - Wired and Fired Tour",
+    "datum": "2026-09-10",
+    "ura": "",
+    "prizorisce": "Orto Bar",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.orto-bar.com/en/shop/"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "New Rockabilly Wave: BunkerBillys & Flying Spaghetti",
+    "datum": "2026-09-10",
+    "ura": "",
+    "prizorisce": "Orto Bar",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.orto-bar.com/en/shop/"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "MediBa Quartet | Kazina Jazz Club",
+    "datum": "2026-09-10",
+    "ura": "20:00",
+    "prizorisce": "Kazina Jazz Club",
+    "kraj": "Ljubljana",
+    "viri": ["https://napovednik.com/glasba"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "Jutranka: ko se dan zacne na plesiscu",
+    "datum": "2026-09-10",
+    "ura": "07:00",
+    "prizorisce": "",
+    "kraj": "Ljubljana",
+    "viri": ["https://napovednik.com/glasba"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "3Sestre 2026 (Ljubljanski festival)",
+    "datum": "2026-09-10",
+    "ura": "",
+    "prizorisce": "Krizanke",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.eventim.si/city/ljubljana-5738/", "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/2026"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "Jesenske serenade - Pot",
+    "datum": "2026-09-11",
+    "ura": "19:30",
+    "prizorisce": "",
+    "kraj": "Ljubljana",
+    "viri": ["https://napovednik.com/glasba"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "Jazz Club Ljubljanski grad: Janez Boncina - Benc: Ta noc je moja",
+    "datum": "2026-09-11",
+    "ura": "20:00",
+    "prizorisce": "Ljubljanski grad",
+    "kraj": "Ljubljana",
+    "viri": ["https://napovednik.com/glasba/jazz-blues", "https://www.ljubljanskigrad.si/sl/dogodki/jazz-club-ljubljanski-grad/"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "Panda",
+    "datum": "2026-09-11",
+    "ura": "",
+    "prizorisce": "Orto Bar",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.orto-bar.com/en/shop/"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "MONKEY BUSINESS - Arctic Monkeys Tribute Band",
+    "datum": "2026-09-11",
+    "ura": "",
+    "prizorisce": "Orto Bar",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.orto-bar.com/en/shop/"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "POPPY (klubski vecer)",
+    "datum": "2026-09-11",
+    "ura": "23:00",
+    "prizorisce": "Cvetlicarna",
+    "kraj": "Ljubljana",
+    "viri": ["https://dogodki.kulturnik.si/?where=Cvetlicarna", "https://www.songkick.com/venues/1121281-cvetlicarna"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "33. obletnica AKC Metelkova mesto: Dropthehammer, Dickless Tracy",
+    "datum": "2026-09-11",
+    "ura": "",
+    "prizorisce": "Gala hala, Metelkova",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.kulturnicenterq.org/33-obletnica-akc-metelkova-mesto/", "https://dogodki.kulturnik.si/?where=AKC+Metelkova+mesto"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "3Sestre",
+    "datum": "2026-09-12",
+    "ura": "",
+    "prizorisce": "Krizanke",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.ljubljanafestival.si/en/for-visitors/venues/venue-krizanke/", "https://www.songkick.com/venues/355016-krizanke"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "The Rumjacks",
+    "datum": "2026-09-12",
+    "ura": "",
+    "prizorisce": "Orto Bar",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.orto-bar.com/en/shop/", "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/2026"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "POPPY (klubski vecer)",
+    "datum": "2026-09-12",
+    "ura": "22:00",
+    "prizorisce": "Cvetlicarna",
+    "kraj": "Ljubljana",
+    "viri": ["https://dogodki.kulturnik.si/?where=Cvetlicarna"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "Global Kryner",
+    "datum": "2026-09-13",
+    "ura": "20:00",
+    "prizorisce": "Gallusova dvorana, Cankarjev dom",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.cd-cc.si/sl/kultura/glasba", "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/2026"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "Jazz Club Ljubljanski grad: Janez Boncina - Benc: Ta noc je moja (gosta Nina Strnad in Zan Hauptman)",
+    "datum": "2026-09-13",
+    "ura": "20:00",
+    "prizorisce": "Grajsko dvorisce, Ljubljanski grad",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.ljubljanskigrad.si/sl/dogodki/jazz-club-ljubljanski-grad/"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "Iztok Kocen: Klik za ljubezen",
+    "datum": "2026-09-13",
+    "ura": "",
+    "prizorisce": "Stihova dvorana, Cankarjev dom",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.cd-cc.si/sl/kultura/glasba"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "Nedeljski promenadni koncerti ljubljanskih pihalnih orkestrov",
+    "datum": "2026-09-13",
+    "ura": "11:00",
+    "prizorisce": "Novi trg / Breg",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve/"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "Iztok Kocen: Klik za ljubezen",
+    "datum": "2026-09-14",
+    "ura": "",
+    "prizorisce": "Stihova dvorana, Cankarjev dom",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.cd-cc.si/sl/kultura/glasba"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "Summer in Siska 2026: NUHARA",
+    "datum": "2026-09-16",
+    "ura": "20:00",
+    "prizorisce": "Kino Siska",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.kinosiska.si/en/dogodek/"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "17. obletnica Kina Siska: Orchestre Tout Puissant Marcel Duchamp + Etceteral",
+    "datum": "2026-09-17",
+    "ura": "20:00",
+    "prizorisce": "Kino Siska",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.kinosiska.si/en/dogodek/", "https://www.songkick.com/venues/470056-kino-siska"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "AGELAST & Dubioza kolektiv: Moje dubioze",
+    "datum": "2026-09-17",
+    "ura": "19:00",
+    "prizorisce": "Kino Siska",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.kinosiska.si/en/dogodek/"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "Descartes A Kant",
+    "datum": "2026-09-17",
+    "ura": "",
+    "prizorisce": "Klub Gromka, Metelkova",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/2026"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "RAPETEK EKSTRA: La Coka Nostra (USA)",
+    "datum": "2026-09-17",
+    "ura": "20:00",
+    "prizorisce": "Gala hala, Metelkova",
+    "kraj": "Ljubljana",
+    "viri": ["https://dogodki.kulturnik.si/?where=AKC+Metelkova+mesto", "https://www.galahala.com/en/"],
+    "kategorija": "glasba"
+  },
+  {
+    "naslov": "Curbrigen, Bad Time",
+    "datum": "2026-09-17",
+    "ura": "",
+    "prizorisce": "Orto Bar",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.orto-bar.com/en/shop/"],
+    "kategorija": "glasba"
+  }
+]
