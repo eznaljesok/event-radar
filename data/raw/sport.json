@@ -1,72 +1,88 @@
 [
   {
-    "naslov": "Trail Ljubljana 2026 (165 km, 95 km, 54 km, 35 km, 27 km, 17 km, 11 km, 6 km)",
-    "datum": "2026-09-11",
-    "ura": "16:00 start 165 km (11.9.); 00:00 start 95 km (12.9.); 08:00 start 54/35 km (12.9.); 10:00 start 27/17 km (12.9.); 11:00 start 11/6 km (12.9.)",
-    "prizorisce": "Center Ljubljane, Stritarjeva ulica / Mestni trg",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://trail-ljubljana.eu/en/info-2/",
-      "https://ljubljanica.net/trail-ljubljana/"
-    ],
-    "kategorija": "sport"
-  },
-  {
-    "naslov": "17. Nočni tek Ljubljanica (Namman Muay Night Run Ljubljanica) - 5 km in 10 km",
+    "kategorija": "sport",
+    "naslov": "NK Bravo : NK Celje (Prva liga Telemach, 9. krog)",
     "datum": "2026-09-12",
-    "ura": "20:00",
-    "prizorisce": "Center Ljubljane, Stritarjeva ulica, obrežje Ljubljanice",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://ljubljanica.net/nocni-tek-ljubljanica/",
-      "https://www.rekreacija.si/koledar/17-nocni-tek-ljubljanica/"
-    ],
-    "kategorija": "sport"
-  },
-  {
-    "naslov": "Otroški teki Povodnega moža (200 m in 400 m)",
-    "datum": "2026-09-12",
-    "ura": "ni znano - v okviru Športnega vikenda Ljubljanica",
-    "prizorisce": "Stritarjeva ulica, Ljubljana",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://ljubljanica.net/trail-ljubljana/"
-    ],
-    "kategorija": "sport"
-  },
-  {
-    "naslov": "NK Bravo - NK Celje (1. SNL, 9. krog)",
-    "datum": "2026-09-12",
-    "ura": "18:00",
+    "ura": "20:15",
     "prizorisce": "Stadion Stožice",
     "kraj": "Ljubljana",
     "viri": [
-      "https://www.thefootballfinder.com/stadium/stadion-stozice-ljubljana-slovenia",
-      "https://www.sofascore.com/football/match/nk-bravo-nk-celje/nYsaLec"
-    ],
-    "kategorija": "sport"
+      "https://planetnogomet.si/novice/ticklio-9-26-27-bravo-celje-stozice/",
+      "https://www.nzs.si/novica/Pred_tekmo_Bravo_-_Celje?id=62690&id_landing=&id_objekta=3",
+      "https://www.sport-ljubljana.si/nk-bravo-nk-celje-prva-slovenska-nogometna-liga/"
+    ]
   },
   {
-    "naslov": "15. Bike Festival Ljubljana (35, 52, 78, 120 km)",
-    "datum": "2026-09-13",
-    "ura": "10:00",
-    "prizorisce": "Mestni trg, Ljubljana",
+    "kategorija": "sport",
+    "naslov": "Trail Ljubljana 2026 (Športni vikend Ljubljanica)",
+    "datum": "2026-09-12",
+    "ura": "od 07:30",
+    "prizorisce": "Stritarjeva ulica / Mestni trg",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://ljubljanica.net/program/",
+      "https://ljubljanica.net/trail-ljubljana/",
+      "https://trail-ljubljana.eu/en/home-2/",
+      "https://www.24ur.com/novice/slovenija/sportni-vikend-ljubljanica-2026-bo-med-11-in-13-septembrom-v-sredisce-ljubljane-pripeljal-nocni-tek-trail-pohodnistvo-kolesarjenje-in-pestro-druzinsko-sportno-dogajanje.html"
+    ]
+  },
+  {
+    "kategorija": "sport",
+    "naslov": "Nočni tek Ljubljanica 2026",
+    "datum": "2026-09-12",
+    "ura": "večer (ni natančnega podatka)",
+    "prizorisce": "Stritarjeva ulica, center Ljubljane",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://ljubljanica.net/nocni-tek-ljubljanica/",
+      "https://ljubljanica.net/program/"
+    ]
+  },
+  {
+    "kategorija": "sport",
+    "naslov": "Bike Festival Ljubljana 2026 (Športni vikend Ljubljanica)",
+    "datum": "2026-09-12",
+    "ura": "ni natančnega podatka",
+    "prizorisce": "Mestni trg / center Ljubljane",
     "kraj": "Ljubljana",
     "viri": [
       "https://ljubljanica.net/bike-festival-ljubljana/",
-      "https://battistrada.com/en/cycling-calendar/edition/bike-festival-ljubljana-2026/53940/"
-    ],
-    "kategorija": "sport"
+      "https://ljubljanica.net/program/"
+    ]
   },
   {
-    "naslov": "RK Krim OTP Group Mercator - RK Ljubljana (Državno prvenstvo, 2. krog)",
-    "datum": "2026-09-15",
-    "ura": "18:00",
-    "prizorisce": "Center Stožice",
+    "kategorija": "sport",
+    "naslov": "Otroški teki Povodnega moža (Športni vikend Ljubljanica)",
+    "datum": "2026-09-13",
+    "ura": "ni natančnega podatka",
+    "prizorisce": "center Ljubljane",
     "kraj": "Ljubljana",
     "viri": [
-      "https://rkkrim.com/drzavno-prvenstvo/"
-    ],
-    "kategorija": "sport"
+      "https://ljubljanica.net/otroski-teki-povodnega-moza/",
+      "https://ljubljanica.net/program/"
+    ]
+  },
+  {
+    "kategorija": "sport",
+    "naslov": "Skupinski tek NLB Ljubljanskega maratona",
+    "datum": "2026-09-13",
+    "ura": "ni natančnega podatka",
+    "prizorisce": "Ljubljana",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.timingljubljana.si/Koledar.aspx",
+      "https://ljubljanskimaraton.si/"
+    ]
+  },
+  {
+    "kategorija": "sport",
+    "naslov": "RK Krim Mercator : Team Esbjerg (EHF Liga prvakinj, 3. krog)",
+    "datum": "2026-09-19",
+    "ura": "18:00",
+    "prizorisce": "Hala Tivoli",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://rkkrim.com/tekme/"
+    ]
   }
 ]

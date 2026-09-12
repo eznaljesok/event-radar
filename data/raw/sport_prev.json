@@ -1,0 +1,72 @@
+[
+  {
+    "naslov": "Trail Ljubljana 2026 (165 km, 95 km, 54 km, 35 km, 27 km, 17 km, 11 km, 6 km)",
+    "datum": "2026-09-11",
+    "ura": "16:00 start 165 km (11.9.); 00:00 start 95 km (12.9.); 08:00 start 54/35 km (12.9.); 10:00 start 27/17 km (12.9.); 11:00 start 11/6 km (12.9.)",
+    "prizorisce": "Center Ljubljane, Stritarjeva ulica / Mestni trg",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://trail-ljubljana.eu/en/info-2/",
+      "https://ljubljanica.net/trail-ljubljana/"
+    ],
+    "kategorija": "sport"
+  },
+  {
+    "naslov": "17. Nočni tek Ljubljanica (Namman Muay Night Run Ljubljanica) - 5 km in 10 km",
+    "datum": "2026-09-12",
+    "ura": "20:00",
+    "prizorisce": "Center Ljubljane, Stritarjeva ulica, obrežje Ljubljanice",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://ljubljanica.net/nocni-tek-ljubljanica/",
+      "https://www.rekreacija.si/koledar/17-nocni-tek-ljubljanica/"
+    ],
+    "kategorija": "sport"
+  },
+  {
+    "naslov": "Otroški teki Povodnega moža (200 m in 400 m)",
+    "datum": "2026-09-12",
+    "ura": "ni znano - v okviru Športnega vikenda Ljubljanica",
+    "prizorisce": "Stritarjeva ulica, Ljubljana",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://ljubljanica.net/trail-ljubljana/"
+    ],
+    "kategorija": "sport"
+  },
+  {
+    "naslov": "NK Bravo - NK Celje (1. SNL, 9. krog)",
+    "datum": "2026-09-12",
+    "ura": "18:00",
+    "prizorisce": "Stadion Stožice",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://www.thefootballfinder.com/stadium/stadion-stozice-ljubljana-slovenia",
+      "https://www.sofascore.com/football/match/nk-bravo-nk-celje/nYsaLec"
+    ],
+    "kategorija": "sport"
+  },
+  {
+    "naslov": "15. Bike Festival Ljubljana (35, 52, 78, 120 km)",
+    "datum": "2026-09-13",
+    "ura": "10:00",
+    "prizorisce": "Mestni trg, Ljubljana",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://ljubljanica.net/bike-festival-ljubljana/",
+      "https://battistrada.com/en/cycling-calendar/edition/bike-festival-ljubljana-2026/53940/"
+    ],
+    "kategorija": "sport"
+  },
+  {
+    "naslov": "RK Krim OTP Group Mercator - RK Ljubljana (Državno prvenstvo, 2. krog)",
+    "datum": "2026-09-15",
+    "ura": "18:00",
+    "prizorisce": "Center Stožice",
+    "kraj": "Ljubljana",
+    "viri": [
+      "https://rkkrim.com/drzavno-prvenstvo/"
+    ],
+    "kategorija": "sport"
+  }
+]

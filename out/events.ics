@@ -5,673 +5,449 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Event Radar — Ljubljana
 BEGIN:VEVENT
-UID:1a743dadb39c482d5069a3e042e2583e38a7d669@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:53. Dnevi narodnih noš in oblačilne dediščine
-LOCATION:Center Kamnika\, Kamnik
-DESCRIPTION:53. izvedba prireditve Dnevi narodnih noš in oblačilne dedi
- ščine v centru Kamnika\, 11. septembra 2026. [tradicionalni festival\,
-  večdnevni dogodek]
-URL:https://narodnenose.si/en/
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:300b781f57a6d6a1acdeacbf875853f4e3da131c@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Ljubljana Castle Jazz Club - otvoritveni večer
-LOCATION:Rock Hall\, Ljubljanski grad\, Ljubljana
-DESCRIPTION:Otvoritveni večer novega jazz kluba v prostoru Rock Hall na 
- Ljubljanskem gradu\, 11. septembra 2026. [novo prizorišče\, znana loka
- cija]
-URL:https://ljubljanskigrad.si/en/castle-events/
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:a141c69d4729c6533c899095c4b8d3703069409e@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Razstava: Narodne noše skozi objektiv Dušana Letnarja
-LOCATION:Galerija Miha Maleš\, Kamnik
-DESCRIPTION:Razstava fotografij Dušana Letnarja o narodnih nošah v Gale
- riji Miha Maleš v Kamniku\, na ogled 11. septembra 2026 od 10.00 do 18.
- 00. [lokalna razstava\, neznano]
-URL:https://www.muzej-kamnik-on.net/dogodki/koledar-dogodkov-september-20
- 26/
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:ecbb3597bca3cf4e928726223be29f18b7275b8b@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Odprta kuhna
-LOCATION:Pogačarjev trg\, Ljubljana
-DESCRIPTION:Vsakotedenska tržnica s ponudbo lokalne hrane in pijače na 
- Pogačarjevem trgu v Ljubljani\, 11. septembra 2026 od 10.00 do 21.00. [
- priljubljena tržnica\, tedenski dogodek]
-URL:https://www.visitljubljana.com/en/visitors/events
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:6bc7a0a3cf4e3c8505c17be56d4ff7adf02c5270@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Trail Ljubljana 2026 (165 km\, 95 km\, 54 km\, 35 km\, 27 km\, 17
-  km\, 11 km\, 6 km)
-LOCATION:Center Ljubljane\, Stritarjeva ulica / Mestni trg\, Ljubljana
-DESCRIPTION:Večdistančna tekaška prireditev (od 6 do 165 km) s startom
-  v centru Ljubljane\, poteka 11. in 12. septembra 2026. [večdistančni 
- tek\, mestni center]
-URL:https://trail-ljubljana.eu/en/info-2/
-CATEGORIES:SPORT
-END:VEVENT
-BEGIN:VEVENT
-UID:45175368b15752958cdd1795da649ac5bb6e07de@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260911T190000
-DTEND:20260911T210000
-SUMMARY:"Iz ozadja" - fotografska razstava
-LOCATION:Barutanski zid\, Kamnik
-DESCRIPTION:Odprtje fotografske razstave "Iz ozadja" na Barutanskem zidu 
- v Kamniku\, 11. septembra 2026 ob 19.00. [lokalni dogodek\, neznano]
-URL:https://www.domkulture.org/sl/koledar-prireditev/
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:a80bd5ab295903657a5b4a0693c467ac57e6ed77@event-radar
-DTSTAMP:20260911T055225Z
+UID:181cf2619bd1e34100626a37b38fe2e28042c2f2@event-radar
+DTSTAMP:20260912T073521Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-SUMMARY:53. Dnevi narodnih noš in oblačilne dediščine
-LOCATION:Center Kamnika\, Kamnik
-DESCRIPTION:53. izvedba prireditve Dnevi narodnih noš in oblačilne dedi
- ščine v centru Kamnika\, 12. septembra 2026. [tradicionalni festival\,
-  večdnevni dogodek]
-URL:https://narodnenose.si/en/
-CATEGORIES:KULTURA
+SUMMARY:The Rumjacks
+LOCATION:Orto Bar\, Ljubljana
+DESCRIPTION:Koncert avstralske keltsko-punk zasedbe The Rumjacks v klubu 
+ Orto Bar v Ljubljani\, 12. septembra 2026 (ura ni znana). [mednarodni iz
+ vajalec\, neznano]
+URL:https://www.songkick.com/venues/2206978-orto-bar
+CATEGORIES:GLASBA
 END:VEVENT
 BEGIN:VEVENT
-UID:49836c453fc87a91b604053a9f0db1f9ed4656bc@event-radar
-DTSTAMP:20260911T055225Z
+UID:c7fa62135ae0dbd0b47a4f57f20a0b97dee6b440@event-radar
+DTSTAMP:20260912T073521Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-SUMMARY:Kette-Cankar 2026
-LOCATION:Cankarjev dom Vrhnika\, Vrhnika
-DESCRIPTION:Literarna prireditev Kette-Cankar 2026 v Cankarjevem domu Vrh
- nika\, 12. septembra 2026. [lokalni literarni dogodek\, neznano]
-URL:https://visitvrhnika.si/dogodki/
+SUMMARY:ARTish – umetniška tržnica
+LOCATION:Gallusovo nabrežje\, Ljubljana
+DESCRIPTION:Umetniška tržnica ARTish na Gallusovem nabrežju v Ljubljan
+ i\, 12. septembra 2026 med 10. in 17. uro. [brezplačno\, na prostem]
+URL:https://www.visitljubljana.com/sl/obiskovalci/prireditve
 CATEGORIES:KULTURA
 END:VEVENT
 BEGIN:VEVENT
-UID:b7e50b751496040b5f8b96cb85f7cff90691bc57@event-radar
-DTSTAMP:20260911T055225Z
+UID:ffed6264d4e7317931e55f31bf09cfc7c9d4e9f5@event-radar
+DTSTAMP:20260912T073521Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-SUMMARY:Vodenje po razstavi fosilov (Inštitut za paleobiologijo)
-LOCATION:Samostan Mekinje\, Kamnik
-DESCRIPTION:Strokovno vodenje po razstavi fosilov Inštituta za paleobiol
- ogijo v Samostanu Mekinje pri Kamniku\, 12. septembra 2026 od 9.00 do 13
- .00. [voden ogled\, lokalno]
-URL:https://www.domkulture.org/sl/koledar-prireditev/
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:72cd98013f1977cdf7f1dfd0b25266b9c825c132@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260912T100000
-DTEND:20260912T120000
-SUMMARY:Otroške delavnice na Starem gradu
-LOCATION:Stari grad nad Kamnikom\, Kamnik
-DESCRIPTION:Otroške ustvarjalne delavnice na Starem gradu nad Kamnikom\,
-  12. septembra 2026 ob 10.00. [lokalna delavnica\, otroci]
-URL:https://www.domkulture.org/sl/koledar-prireditev/
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:6a817f1759adfb07e2658423c583ee13a6f979fe@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260912T100000
-DTEND:20260912T120000
-SUMMARY:Sprehod skozi mozaik zgodovine antične Emone (voden ogled)
-LOCATION:Mestni muzej Ljubljana\, Ljubljana
-DESCRIPTION:Voden ogled po sledeh antične Emone v organizaciji Mestnega 
- muzeja Ljubljana\, 12. septembra 2026 ob 10.00. [voden ogled\, muzej]
-URL:https://mgml.si/sl/dogodki/
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:94d32f34a9a60b4428d1880df832f1501917638f@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260912T110000
-DTEND:20260912T130000
-SUMMARY:Mala čarovnica
+SUMMARY:Mala čarovnica (lutkovna predstava)
 LOCATION:Lutkovno gledališče Ljubljana\, Ljubljana
 DESCRIPTION:Lutkovna predstava Mala čarovnica v Lutkovnem gledališču L
- jubljana\, 12. septembra 2026 ob 11.00. [otroška predstava\, nacionalno
-  gledališče]
+ jubljana\, 12. septembra 2026 ob 11.00 in 17.00. [za otroke]
 URL:https://www.lgl.si/si/predstave/vse-predstave
 CATEGORIES:KULTURA
 END:VEVENT
 BEGIN:VEVENT
-UID:a9a7c802245d5a4fd85f2394aaae0091f1844100@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260912T130000
-DTEND:20260912T150000
-SUMMARY:Razstava: Narodne noše skozi objektiv Dušana Letnarja - voden o
- gled
-LOCATION:Galerija Miha Maleš\, Kamnik
-DESCRIPTION:Voden ogled razstave fotografij Dušana Letnarja o narodnih n
- ošah v Galeriji Miha Maleš v Kamniku\, 12. septembra 2026 ob 13.00. [v
- oden ogled\, lokalno]
-URL:https://www.muzej-kamnik-on.net/dogodki/koledar-dogodkov-september-20
- 26/
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:4f2e3e8f5727be17474bda834e240d8a1c5c2816@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260912T160000
-DTEND:20260912T180000
-SUMMARY:Vodstvo za družine po Plečnikovi hiši
-LOCATION:Plečnikova hiša\, Ljubljana
-DESCRIPTION:Vodeni ogled Plečnikove hiše v Ljubljani\, prilagojen druž
- inam z otroki\, 12. septembra 2026 ob 16.00. [Plečnikova dediščina\, 
- družinsko vodstvo]
-URL:https://mgml.si/sl/dogodki/
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:fe886a848b871fbf7f26a21a7d269b1476a2da05@event-radar
-DTSTAMP:20260911T055225Z
+UID:8ddb3b6f5d071e5af8b1f0a172e9bdae742f3522@event-radar
+DTSTAMP:20260912T073521Z
 DTSTART:20260912T180000
 DTEND:20260912T200000
-SUMMARY:Gorenjski slavček (Anton Foerster) - opera
+SUMMARY:Gorenjski slavček (opera\, A. Foerster)
 LOCATION:SNG Opera in balet Ljubljana\, Ljubljana
 DESCRIPTION:Uprizoritev opere Gorenjski slavček Antona Foersterja v SNG 
- Opera in balet Ljubljana\, 12. septembra 2026 ob 18.00. [nacionalna oper
- na hiša]
-URL:https://www.opera.si/en
-CATEGORIES:GLASBA
-END:VEVENT
-BEGIN:VEVENT
-UID:b003c07789af81d16c9b0710a657573ff4924c7f@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260912T180000
-DTEND:20260912T200000
-SUMMARY:NK Bravo - NK Celje (1. SNL\, 9. krog)
-LOCATION:Stadion Stožice\, Ljubljana
-DESCRIPTION:Tekma 9. kroga 1. SNL med NK Bravo in NK Celje na stadionu St
- ožice v Ljubljani\, 12. septembra 2026 ob 18.00. [1. SNL\, nogometna te
- kma]
-URL:https://www.thefootballfinder.com/stadium/stadion-stozice-ljubljana-s
- lovenia
-CATEGORIES:SPORT
-END:VEVENT
-BEGIN:VEVENT
-UID:9288976b2f2b703b4053dc1a31bf0d84556fb7cd@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:Zvočno-vokalna kopel
-LOCATION:Samostan Mekinje\, Kamnik
-DESCRIPTION:Sproščanje ob zvočno-vokalni kopeli v Samostanu Mekinje pr
- i Kamniku\, 12. septembra 2026 od 18.30 do 20.00. [wellness dogodek\, lo
- kalno]
-URL:https://www.domkulture.org/sl/koledar-prireditev/
+ Opera in balet Ljubljana\, 12. septembra 2026 ob 18.00. [opera]
+URL:https://opera.mojekarte.si/en/all.html
 CATEGORIES:KULTURA
 END:VEVENT
 BEGIN:VEVENT
-UID:181cf2619bd1e34100626a37b38fe2e28042c2f2@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260912T193000
-DTEND:20260912T213000
-SUMMARY:The Rumjacks
-LOCATION:Orto Bar\, Ljubljana
-DESCRIPTION:Koncert avstralske folk-punk zasedbe The Rumjacks v Orto Baru
-  v Ljubljani\, 12. septembra 2026 ob 19.30. [mednarodni izvajalec\, turn
- ejski postanek]
-URL:https://www.orto-bar.com/en/dogodki/koncerti/the-rumjacks/
+UID:e92199ed36707b3e85ab55be4df9eca4042f0562@event-radar
+DTSTAMP:20260912T073521Z
+DTSTART:20260912T190000
+DTEND:20260912T210000
+SUMMARY:Iztok Kocen: Klik za ljubezen
+LOCATION:Cankarjev dom\, Štihova dvorana\, Ljubljana
+DESCRIPTION:Uprizoritev operne komedije Iztok Kocen: Klik za ljubezen v 
+ Štihovi dvorani Cankarjevega doma v Ljubljani\, 12. septembra 2026 ob 1
+ 9.00.
+URL:https://www.cd-cc.si/en/monthly-events-calendar
+CATEGORIES:KULTURA
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae76655b8bb3647e11e1234185625bf88e7239c@event-radar
+DTSTAMP:20260912T073521Z
+DTSTART:20260912T200000
+DTEND:20260912T220000
+SUMMARY:Hamo & Tribute 2 Love - 20 years
+LOCATION:Kino Šiška\, Ljubljana
+DESCRIPTION:Koncert zasedbe Hamo & Tribute 2 Love ob 20. obletnici delova
+ nja v Kino Šiški v Ljubljani\, 12. septembra 2026 ob 20.00. [jubilejni
+  koncert]
+URL:https://www.kinosiska.si/en/dogodek/
 CATEGORIES:GLASBA
 END:VEVENT
 BEGIN:VEVENT
 UID:c6491d46b0d4be9a5f119eab94208917a2a6b930@event-radar
-DTSTAMP:20260911T055225Z
+DTSTAMP:20260912T073521Z
 DTSTART:20260912T200000
 DTEND:20260912T220000
 SUMMARY:Rekviem v belem - umirajoči ledeniki
 LOCATION:Kosovelova dvorana\, Cankarjev dom\, Ljubljana
-DESCRIPTION:Predstava Rekviem v belem - umirajoči ledeniki v Kosovelovi 
- dvorani Cankarjevega doma v Ljubljani\, 12. septembra 2026 ob 20.00. [te
- matska predstava\, Cankarjev dom]
+DESCRIPTION:Tematski koncert o taljenju ledenikov z naslovom Rekviem v be
+ lem v Kosovelovi dvorani Cankarjevega doma v Ljubljani\, 12. septembra 2
+ 026 ob 20.00. [tematski koncert]
 URL:https://vstopnice.cd-cc.si/en/all.html
-CATEGORIES:KULTURA
+CATEGORIES:GLASBA
 END:VEVENT
 BEGIN:VEVENT
-UID:c9feb55c423740f6d5aacf94a13cbc80698e5696@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260912T200000
-DTEND:20260912T220000
-SUMMARY:17. Nočni tek Ljubljanica (Namman Muay Night Run Ljubljanica) - 
- 5 km in 10 km
-LOCATION:Center Ljubljane\, Stritarjeva ulica\, obrežje Ljubljanice\, Lj
- ubljana
-DESCRIPTION:17. izvedba nočnega teka Ljubljanica (5 in 10 km) ob obrežj
- u Ljubljanice v centru Ljubljane\, 12. septembra 2026 ob 20.00. [tradici
- onalni tek\, nočni dogodek]
-URL:https://ljubljanica.net/nocni-tek-ljubljanica/
+UID:eaf199db23ebf6dbd98d4387940556e5d61fb9d0@event-radar
+DTSTAMP:20260912T073521Z
+DTSTART:20260912T201500
+DTEND:20260912T221500
+SUMMARY:NK Bravo : NK Celje (Prva liga Telemach\, 9. krog)
+LOCATION:Stadion Stožice\, Ljubljana
+DESCRIPTION:Nogometna tekma 9. kroga Prve lige Telemach med NK Bravo in N
+ K Celje na Stadionu Stožice v Ljubljani\, 12. septembra 2026 ob 20.15. 
+ [prva liga]
+URL:https://planetnogomet.si/novice/ticklio-9-26-27-bravo-celje-stozice/
 CATEGORIES:SPORT
 END:VEVENT
 BEGIN:VEVENT
-UID:3591de723694a4928f0b564e3b1b385106511687@event-radar
-DTSTAMP:20260911T055225Z
+UID:a0622131ed5171a379d7dced9c5bacba67c512e0@event-radar
+DTSTAMP:20260912T073521Z
 DTSTART:20260912T220000
 DTEND:20260913T000000
-SUMMARY:POPPY by Cvetličarna
+SUMMARY:POPPY BY CVETLIČARNA
 LOCATION:Cvetličarna\, Ljubljana
-DESCRIPTION:Klubski glasbeni večer v ljubljanski Cvetličarni\, 12. sept
- embra 2026 ob 22.00. [klubski dogodek\, neznano]
+DESCRIPTION:Klubski glasbeni večer POPPY v klubu Cvetličarna v Ljubljan
+ i\, 12. septembra 2026 ob 22.00.
 URL:https://www.entrio.si/en/venue/ljubljana/cvetlicarna
 CATEGORIES:GLASBA
 END:VEVENT
 BEGIN:VEVENT
-UID:b973b0c919dbecee9de6c0d88412be0954491332@event-radar
-DTSTAMP:20260911T055225Z
+UID:bb602567d02e4c5c9d66e7b7aab8bb9044f5f034@event-radar
+DTSTAMP:20260912T073521Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-SUMMARY:Otroški teki Povodnega moža (200 m in 400 m)
-LOCATION:Stritarjeva ulica\, Ljubljana\, Ljubljana
-DESCRIPTION:Otroški teki na 200 in 400 m v okviru Športnega vikenda Lju
- bljanica na Stritarjevi ulici v Ljubljani\, 12. septembra 2026 (ura ni z
- nana). [otroški tek\, neznano]
-URL:https://ljubljanica.net/trail-ljubljana/
+SUMMARY:Nočni tek Ljubljanica 2026
+LOCATION:Stritarjeva ulica\, center Ljubljane\, Ljubljana
+DESCRIPTION:Nočni tek v okviru Športnega vikenda Ljubljanica po centru 
+ Ljubljane\, 12. septembra 2026 zvečer (natančna ura ni znana). [neznan
+ o]
+URL:https://ljubljanica.net/program/
 CATEGORIES:SPORT
 END:VEVENT
 BEGIN:VEVENT
-UID:845879c41b19b2bf19669a556f8316cdecfb4af3@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-SUMMARY:53. Dnevi narodnih noš in oblačilne dediščine
-LOCATION:Center Kamnika\, Kamnik
-DESCRIPTION:53. izvedba prireditve Dnevi narodnih noš in oblačilne dedi
- ščine v centru Kamnika\, 13. septembra 2026. [tradicionalni festival\,
-  večdnevni dogodek]
-URL:https://narodnenose.si/en/
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:c66221e0cf16f6a4efb4d579075e66fd9d2648c0@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260913T100000
-DTEND:20260913T120000
-SUMMARY:15. Bike Festival Ljubljana (35\, 52\, 78\, 120 km)
-LOCATION:Mestni trg\, Ljubljana\, Ljubljana
-DESCRIPTION:15. izvedba kolesarske prireditve Bike Festival Ljubljana (ra
- zdalje 35-120 km) s startom na Mestnem trgu\, 13. septembra 2026 ob 10.0
- 0. [kolesarski festival\, jubilejna izvedba]
-URL:https://ljubljanica.net/bike-festival-ljubljana/
-CATEGORIES:SPORT
-END:VEVENT
-BEGIN:VEVENT
-UID:6d7b321b43ce6192e0f5b7457f864c8384402e28@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260913T133000
-DTEND:20260913T153000
-SUMMARY:Razstava: Narodne noše skozi objektiv Dušana Letnarja - voden o
- gled
-LOCATION:Galerija Miha Maleš\, Kamnik
-DESCRIPTION:Voden ogled razstave fotografij Dušana Letnarja o narodnih n
- ošah v Galeriji Miha Maleš v Kamniku\, 13. septembra 2026 ob 13.30. [v
- oden ogled\, lokalno]
-URL:https://www.muzej-kamnik-on.net/dogodki/koledar-dogodkov-september-20
- 26/
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:6b8a6d37e2fc49f4f6745a69c4e39e5b00489e3d@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260913T163000
-DTEND:20260913T183000
-SUMMARY:Javno vodstvo med portreti Običajnih ljudi Roba Hornstre
-LOCATION:Galerija Jakopič\, Ljubljana
-DESCRIPTION:Javno vodstvo po razstavi portretov nizozemskega fotografa Ro
- ba Hornstre v Galeriji Jakopič v Ljubljani\, 13. septembra 2026 ob 16.3
- 0. [mednarodni umetnik\, voden ogled]
-URL:https://mgml.si/sl/dogodki/
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:83cd4e8da0808390edc76496fea5fbb06b0d4f9a@event-radar
-DTSTAMP:20260911T055225Z
+UID:df381a9e1b2643553c8d53acb51ddd05053ef426@event-radar
+DTSTAMP:20260912T073521Z
 DTSTART:20260913T193000
 DTEND:20260913T213000
-SUMMARY:Iztok Kocen: Klik za Ljubezen (operna komedija)
+SUMMARY:Iztok Kocen: Klik za Ljubezen - operna komedija
 LOCATION:Štihova dvorana\, Cankarjev dom\, Ljubljana
-DESCRIPTION:Uprizoritev operne komedije Klik za Ljubezen Iztoka Kocena v 
- Štihovi dvorani Cankarjevega doma\, 13. septembra 2026 ob 19.30. [gleda
- liška predstava\, Cankarjev dom]
+DESCRIPTION:Ponovitev operne komedije Iztok Kocen: Klik za ljubezen v Št
+ ihovi dvorani Cankarjevega doma v Ljubljani\, 13. septembra 2026 ob 19.3
+ 0.
 URL:https://vstopnice.cd-cc.si/en/all.html
-CATEGORIES:KULTURA
+CATEGORIES:GLASBA
 END:VEVENT
 BEGIN:VEVENT
-UID:70e58776316677c0c9de58b091b58ec0ee3ebdce@event-radar
-DTSTAMP:20260911T055225Z
+UID:381ac1e3427e0b1d3e9fc34b5100fddadeca06a0@event-radar
+DTSTAMP:20260912T073521Z
 DTSTART:20260913T200000
 DTEND:20260913T220000
 SUMMARY:Global Kryner
-LOCATION:Gallusova dvorana\, Cankarjev dom\, Ljubljana
-DESCRIPTION:Koncert avstrijske world-music zasedbe Global Kryner v Gallus
- ovi dvorani Cankarjevega doma\, 13. septembra 2026 ob 20.00. [mednarodni
-  izvajalec\, Cankarjev dom]
-URL:https://www.eventim.si/en/artist/global-kryner/
+LOCATION:Linhartova dvorana\, Cankarjev dom\, Ljubljana
+DESCRIPTION:Koncert avstrijsko-švicarske zasedbe Global Kryner v Linhart
+ ovi dvorani Cankarjevega doma v Ljubljani\, 13. septembra 2026 ob 20.00.
+  [mednarodni izvajalec]
+URL:https://vstopnice.cd-cc.si/en/all.html
 CATEGORIES:GLASBA
 END:VEVENT
 BEGIN:VEVENT
-UID:12011ad7d5813dc32d3f1197006ed15b0ba4117b@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260914T193000
-DTEND:20260914T213000
-SUMMARY:Iztok Kocen: Klik za Ljubezen (operna komedija)
-LOCATION:Štihova dvorana\, Cankarjev dom\, Ljubljana
-DESCRIPTION:Uprizoritev operne komedije Klik za Ljubezen Iztoka Kocena v 
- Štihovi dvorani Cankarjevega doma\, 14. septembra 2026 ob 19.30. [gleda
- liška predstava\, Cankarjev dom]
-URL:https://vstopnice.cd-cc.si/en/all.html
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:10b047e0e342a55581df67d1e629a3de57690b1c@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260915T180000
-DTEND:20260915T200000
-SUMMARY:Neustrašna raziskovalka
-LOCATION:Štihova dvorana\, Cankarjev dom\, Ljubljana
-DESCRIPTION:Predstava Neustrašna raziskovalka v Štihovi dvorani Cankarj
- evega doma\, 15. septembra 2026 ob 18.00. [predstava\, Cankarjev dom]
-URL:https://vstopnice.cd-cc.si/en/all.html
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:162e150626887c75f99984f7217e8402554edfb2@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260915T180000
-DTEND:20260915T200000
-SUMMARY:RK Krim OTP Group Mercator - RK Ljubljana (Državno prvenstvo\, 2
- . krog)
-LOCATION:Center Stožice\, Ljubljana
-DESCRIPTION:Rokometna tekma 2. kroga državnega prvenstva med RK Krim in 
- RK Ljubljana v Centru Stožice\, 15. septembra 2026 ob 18.00. [državno 
- prvenstvo\, znan klub]
-URL:https://rkkrim.com/drzavno-prvenstvo/
+UID:ba58f2c721e36e47bc07958bd3fa569a9e663b5f@event-radar
+DTSTAMP:20260912T073521Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Otroški teki Povodnega moža (Športni vikend Ljubljanica)
+LOCATION:center Ljubljane\, Ljubljana
+DESCRIPTION:Otroški teki Povodnega moža v okviru Športnega vikenda Lju
+ bljanica v centru Ljubljane\, 13. septembra 2026 (ura ni znana). [za otr
+ oke\, neznano]
+URL:https://ljubljanica.net/otroski-teki-povodnega-moza/
 CATEGORIES:SPORT
 END:VEVENT
 BEGIN:VEVENT
-UID:2c0a1cb1a5fbcd9cc8a96580cb1881b47af5195e@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260915T193000
-DTEND:20260915T213000
-SUMMARY:Kdo neki tam piše
-LOCATION:Dvorana Alme Karlin\, Cankarjev dom\, Ljubljana
-DESCRIPTION:Gledališka predstava Kdo neki tam piše v Dvorani Alme Karli
- n Cankarjevega doma\, 15. septembra 2026 ob 19.30. [predstava\, Cankarje
- v dom]
+UID:e8a043e47f78694b7aaf8ebabca62c3fba1f2d8b@event-radar
+DTSTAMP:20260912T073521Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Skupinski tek NLB Ljubljanskega maratona
+LOCATION:Ljubljana\, Ljubljana
+DESCRIPTION:Skupinski trening tek v organizaciji NLB Ljubljanskega marato
+ na po Ljubljani\, 13. septembra 2026 (ura ni znana). [neznano]
+URL:https://www.timingljubljana.si/Koledar.aspx
+CATEGORIES:SPORT
+END:VEVENT
+BEGIN:VEVENT
+UID:63610465eeda36927d15ccd0c5914d096c1fbd2b@event-radar
+DTSTAMP:20260912T073521Z
+DTSTART:20260914T193000
+DTEND:20260914T213000
+SUMMARY:Iztok Kocen: Klik za Ljubezen - operna komedija
+LOCATION:Štihova dvorana\, Cankarjev dom\, Ljubljana
+DESCRIPTION:Ponovitev operne komedije Iztok Kocen: Klik za ljubezen v Št
+ ihovi dvorani Cankarjevega doma v Ljubljani\, 14. septembra 2026 ob 19.3
+ 0.
 URL:https://vstopnice.cd-cc.si/en/all.html
+CATEGORIES:GLASBA
+END:VEVENT
+BEGIN:VEVENT
+UID:a2564b941e247aaa98be22c802f037c67a363533@event-radar
+DTSTAMP:20260912T073521Z
+DTSTART:20260915T170000
+DTEND:20260915T190000
+SUMMARY:Mala čarovnica (lutkovna predstava)
+LOCATION:Lutkovno gledališče Ljubljana\, Ljubljana
+DESCRIPTION:Lutkovna predstava Mala čarovnica v Lutkovnem gledališču L
+ jubljana\, 15. septembra 2026 ob 17.00. [za otroke]
+URL:https://www.lgl.si/si/predstave/vse-predstave
 CATEGORIES:KULTURA
 END:VEVENT
 BEGIN:VEVENT
-UID:10b95c5da2bedae7193c85d0766a8174a76dbe7f@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260915T193000
-DTEND:20260915T213000
-SUMMARY:Professor Brian Cox - Emergence
-LOCATION:Gallusova dvorana\, Cankarjev dom\, Ljubljana
-DESCRIPTION:Znanstveno-scenski nastop britanskega fizika in televizijskeg
- a voditelja Briana Coxa (Emergence) v Gallusovi dvorani Cankarjevega dom
- a\, 15. septembra 2026 ob 19.30. [mednarodni gost\, znanstvena zvezda\, 
- velika dvorana]
-URL:https://vstopnice.cd-cc.si/en/all.html
+UID:7fa046d46304e89a0037af8b91b28189cd2fe0bc@event-radar
+DTSTAMP:20260912T073521Z
+DTSTART:20260915T180000
+DTEND:20260915T200000
+SUMMARY:Neustrašna raziskovalka
+LOCATION:Cankarjev dom\, Štihova dvorana\, Ljubljana
+DESCRIPTION:Kulturni dogodek Neustrašna raziskovalka v Štihovi dvorani 
+ Cankarjevega doma v Ljubljani\, 15. septembra 2026 ob 18.00 (vsebina iz 
+ vira ni podrobneje opredeljena). [neznano]
+URL:https://www.cd-cc.si/en/monthly-events-calendar
 CATEGORIES:KULTURA
 END:VEVENT
 BEGIN:VEVENT
-UID:9a8ce6307f209579122ac4fdf1cc6e0d80d71c9a@event-radar
-DTSTAMP:20260911T055225Z
+UID:a2b127f0370545dcff2419e6a7c5f724ebbd2083@event-radar
+DTSTAMP:20260912T073521Z
+DTSTART:20260915T190000
+DTEND:20260915T210000
+SUMMARY:Moški so z Marsa\, ženske so z Venere 2
+LOCATION:Cankarjev dom Vrhnika\, Vrhnika
+DESCRIPTION:Uprizoritev komedije Moški so z Marsa\, ženske so z Venere 
+ 2 v Cankarjevem domu Vrhnika\, 15. septembra 2026 ob 19.00.
+URL:https://www.napovednikdogodkov.si/venue/cankarjev-dom-vrhnika/
+CATEGORIES:KULTURA
+END:VEVENT
+BEGIN:VEVENT
+UID:a52988632fcd93882dca54569ff7768712534b90@event-radar
+DTSTAMP:20260912T073521Z
+DTSTART:20260916T170000
+DTEND:20260916T190000
+SUMMARY:Mala čarovnica (lutkovna predstava)
+LOCATION:Lutkovno gledališče Ljubljana\, Ljubljana
+DESCRIPTION:Lutkovna predstava Mala čarovnica v Lutkovnem gledališču L
+ jubljana\, 16. septembra 2026 ob 17.00. [za otroke]
+URL:https://www.lgl.si/si/predstave/vse-predstave
+CATEGORIES:KULTURA
+END:VEVENT
+BEGIN:VEVENT
+UID:45b238dc89d46281005659645545f005424c71d7@event-radar
+DTSTAMP:20260912T073521Z
 DTSTART:20260916T190000
 DTEND:20260916T210000
-SUMMARY:Goncourtova nagrada (pogovor)
-LOCATION:Klub CD\, Cankarjev dom\, Ljubljana
-DESCRIPTION:Pogovor o francoski literarni Goncourtovi nagradi v Klubu CD 
- Cankarjevega doma\, 16. septembra 2026 ob 19.00. [literarni pogovor\, Ca
- nkarjev dom]
-URL:https://vstopnice.cd-cc.si/en/all.html
+SUMMARY:Prof. Brian Cox: Emergence
+LOCATION:Cankarjev dom\, Gallusova dvorana\, Ljubljana
+DESCRIPTION:Znanstveno-popularizacijski nastop britanskega fizika prof. B
+ riana Coxa z naslovom Emergence v Gallusovi dvorani Cankarjevega doma v 
+ Ljubljani\, 16. septembra 2026 ob 19.00. [mednarodni izvajalec\, znanost
+ ]
+URL:https://www.cd-cc.si/en/monthly-events-calendar
 CATEGORIES:KULTURA
 END:VEVENT
 BEGIN:VEVENT
-UID:4d7c148ea7ae6b44d87dbc484ecdb52aff77e2c9@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260916T190000
-DTEND:20260916T210000
-SUMMARY:Kozmos Kosovel
-LOCATION:Galerija CD\, Cankarjev dom\, Ljubljana
-DESCRIPTION:Kulturni dogodek Kozmos Kosovel v Galeriji CD Cankarjevega do
- ma\, 16. septembra 2026 ob 19.00. [kulturni dogodek\, Cankarjev dom]
-URL:https://vstopnice.cd-cc.si/en/all.html
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:1b395f3e03507b0d85a79d80be54f4ff313d2c51@event-radar
-DTSTAMP:20260911T055225Z
+UID:d0c88f6504085534ec4e0e7d92e5096d7be4591f@event-radar
+DTSTAMP:20260912T073521Z
 DTSTART:20260916T200000
 DTEND:20260916T220000
-SUMMARY:Stvari\, ki jih ne morem povedati o stvareh
-LOCATION:Dvorana Alme Karlin\, Cankarjev dom\, Ljubljana
-DESCRIPTION:Gledališka predstava Stvari\, ki jih ne morem povedati o stv
- areh v Dvorani Alme Karlin Cankarjevega doma\, 16. septembra 2026 ob 20.
- 00. [predstava\, Cankarjev dom]
-URL:https://vstopnice.cd-cc.si/en/all.html
-CATEGORIES:KULTURA
+SUMMARY:Summer in Šiška 2026: NUHARA
+LOCATION:Kino Šiška\, Ljubljana
+DESCRIPTION:Koncert izvajalca NUHARA v okviru cikla Summer in Šiška v K
+ ino Šiški v Ljubljani\, 16. septembra 2026 ob 20.00.
+URL:https://www.kinosiska.si/en/dogodek/
+CATEGORIES:GLASBA
 END:VEVENT
 BEGIN:VEVENT
-UID:4bb5a44a02f9838c3ef98cfadc72c4f21576b438@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260917T163000
-DTEND:20260917T183000
-SUMMARY:Resnice in miti o Emoncih: saj ni res - pa je!
-LOCATION:Mestni muzej Ljubljana\, Ljubljana
-DESCRIPTION:Voden ogled Resnice in miti o Emoncih v Mestnem muzeju Ljublj
- ana\, 17. septembra 2026 ob 16.30. [voden ogled\, muzej]
-URL:https://mgml.si/sl/dogodki/
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:be919f642881e8b28322826dcd6be40ac7db5b82@event-radar
-DTSTAMP:20260911T055225Z
+UID:5659f9a2a9111ad83b6a645f8082ed72a9a7c740@event-radar
+DTSTAMP:20260912T073521Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-SUMMARY:Zeliščarski pripravki - delavnica
-LOCATION:Samostan Mekinje\, Kamnik
-DESCRIPTION:Delavnica priprave zeliščnih pripravkov v Samostanu Mekinje
-  pri Kamniku\, 17. septembra 2026 od 17.00 do 20.00. [delavnica\, lokaln
- o]
-URL:https://www.domkulture.org/sl/koledar-prireditev/
-CATEGORIES:KULTURA
+SUMMARY:Curbrigen\, Bad Time
+LOCATION:Orto Bar\, Ljubljana
+DESCRIPTION:Koncert zasedb Curbrigen in Bad Time v klubu Orto Bar v Ljubl
+ jani\, 17. septembra 2026 (ura ni znana). [neznano]
+URL:https://www.orto-bar.com/en/dogodki/koncerti/
+CATEGORIES:GLASBA
 END:VEVENT
 BEGIN:VEVENT
-UID:1be21d7aff6b36bcd3ae454971fea48e547b7d02@event-radar
-DTSTAMP:20260911T055225Z
+UID:68e24ad207da03595961cb407bb30975b7b59cb7@event-radar
+DTSTAMP:20260912T073521Z
 DTSTART:20260917T180000
 DTEND:20260917T200000
 SUMMARY:Na Luno!
-LOCATION:Štihova dvorana\, Cankarjev dom\, Ljubljana
-DESCRIPTION:Predstava Na Luno! v Štihovi dvorani Cankarjevega doma\, 17.
-  septembra 2026 ob 18.00. [predstava\, Cankarjev dom]
-URL:https://vstopnice.cd-cc.si/en/all.html
+LOCATION:Cankarjev dom\, Štihova dvorana\, Ljubljana
+DESCRIPTION:Kulturni dogodek Na Luno! v Štihovi dvorani Cankarjevega dom
+ a v Ljubljani\, 17. septembra 2026 ob 18.00 (vsebina iz vira ni podrobne
+ je opredeljena). [neznano]
+URL:https://www.cd-cc.si/en/monthly-events-calendar
 CATEGORIES:KULTURA
 END:VEVENT
 BEGIN:VEVENT
-UID:77304898fc8fa704d27b55c74bb8e959a1109463@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260917T180000
-DTEND:20260917T200000
-SUMMARY:Podelitev Rožančeve nagrade
-LOCATION:Klub CD\, Cankarjev dom\, Ljubljana
-DESCRIPTION:Slovesna podelitev Rožančeve nagrade za esejistiko v Klubu 
- CD Cankarjevega doma\, 17. septembra 2026 ob 18.00. [nacionalna nagrada\
- , podelitev]
-URL:https://vstopnice.cd-cc.si/en/all.html
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:c2d732eac599d44c9529d8711c432fb7f67c5cec@event-radar
-DTSTAMP:20260911T055225Z
+UID:96c965c8fd44e82fa52e2d4971d1563b14f955d4@event-radar
+DTSTAMP:20260912T073521Z
 DTSTART:20260917T190000
 DTEND:20260917T210000
-SUMMARY:Odprtje razstave: Borut Krajnc - Preobrat
-LOCATION:Mestna galerija Ljubljana\, Ljubljana
-DESCRIPTION:Odprtje razstave fotografa Boruta Krajnca z naslovom Preobrat
-  v Mestni galeriji Ljubljana\, 17. septembra 2026 ob 19.00. [znan sloven
- ski fotograf\, odprtje razstave]
-URL:https://mgml.si/sl/dogodki/
-CATEGORIES:KULTURA
+SUMMARY:AGELAST & DUBIOZA KOLEKTIV: MOJE DUBIOZE
+LOCATION:Kino Šiška\, Ljubljana
+DESCRIPTION:Koncert projekta Agelast & Dubioza kolektiv: Moje dubioze v K
+ ino Šiški v Ljubljani\, 17. septembra 2026 ob 19.00. [mednarodni izvaj
+ alec]
+URL:https://www.kinosiska.si/en/dogodek/
+CATEGORIES:GLASBA
 END:VEVENT
 BEGIN:VEVENT
-UID:193c648aad5ad42ffc16825174c974d2e7892e04@event-radar
-DTSTAMP:20260911T055225Z
+UID:802713dc4ea3ad75c14e74a3d733e124afb12475@event-radar
+DTSTAMP:20260912T073521Z
 DTSTART:20260917T193000
 DTEND:20260917T213000
-SUMMARY:Katarza - odprtje sezone (Slovenska filharmonija\, dir. Kahi Solo
- mnishvili\, Mahler Symphony No. 10)
+SUMMARY:SMS 1: Katarza (Slovenska filharmonija)
 LOCATION:Gallusova dvorana\, Cankarjev dom\, Ljubljana
-DESCRIPTION:Otvoritveni koncert nove sezone Slovenske filharmonije z diri
- gentom Kahijem Solomnishvilijem in Mahlerjevo 10. simfonijo\, Gallusova 
- dvorana Cankarjevega doma\, 17. septembra 2026 ob 19.30. [odprtje sezone
- \, Slovenska filharmonija\, gostujoči dirigent]
-URL:https://filharmonija.si/en/concerts/program/
+DESCRIPTION:Abonmajski koncert Slovenske filharmonije SMS 1: Katarza v Ga
+ llusovi dvorani Cankarjevega doma v Ljubljani\, 17. septembra 2026 ob 19
+ .30. [klasična glasba]
+URL:https://vstopnice.cd-cc.si/en/all.html
 CATEGORIES:GLASBA
 END:VEVENT
 BEGIN:VEVENT
-UID:190adf6e81ceea5c516a4d150ef2d924333a5917@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260917T193000
-DTEND:20260917T213000
-SUMMARY:SMS 1: Katarza
-LOCATION:Gallusova dvorana\, Cankarjev dom\, Ljubljana
-DESCRIPTION:Abonmajski koncert Slovenske filharmonije (SMS 1: Katarza) v 
- Gallusovi dvorani Cankarjevega doma\, 17. septembra 2026 ob 19.30. [abon
- majski koncert\, Slovenska filharmonija]
-URL:https://vstopnice.cd-cc.si/en/all.html
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:6569ef9bcd80e9f10f614d4932593ccff93dd751@event-radar
-DTSTAMP:20260911T055225Z
+UID:46f4579d384eb124c1b4a78d065ce0560c118796@event-radar
+DTSTAMP:20260912T073521Z
 DTSTART:20260917T200000
 DTEND:20260917T220000
-SUMMARY:RAPETEK EKSTRA: La Coka Nostra (USA)
-LOCATION:Gala hala\, Metelkova\, Ljubljana
-DESCRIPTION:Koncert ameriške hip-hop zasedbe La Coka Nostra v Gala hali 
- na Metelkovi v Ljubljani\, 17. septembra 2026 ob 20.00. [mednarodni izva
- jalec\, ZDA]
-URL:https://www.galahala.com/program/
+SUMMARY:Batista Cadillac
+LOCATION:Križanke\, Ljubljana
+DESCRIPTION:Koncert skupine Batista Cadillac v Križankah v Ljubljani\, 1
+ 7. septembra 2026 ob 20.00.
+URL:https://www.koncertnik.si/
 CATEGORIES:GLASBA
 END:VEVENT
 BEGIN:VEVENT
-UID:c20d6127460d25ecb5c4d607432364647be48669@event-radar
-DTSTAMP:20260911T055225Z
+UID:0e429a5255881592bdf9ac2f29d7ea8901fb49f9@event-radar
+DTSTAMP:20260912T073521Z
 DTSTART:20260917T200000
 DTEND:20260917T220000
-SUMMARY:Stvari\, ki jih ne morem povedati o stvareh
-LOCATION:Dvorana Alme Karlin\, Cankarjev dom\, Ljubljana
-DESCRIPTION:Gledališka predstava Stvari\, ki jih ne morem povedati o stv
- areh v Dvorani Alme Karlin Cankarjevega doma\, 17. septembra 2026 ob 20.
- 00. [predstava\, Cankarjev dom]
-URL:https://vstopnice.cd-cc.si/en/all.html
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:c4c1ac4e72c604cc6e80a43b0b301de4d458528f@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260918T190000
-DTEND:20260918T210000
-SUMMARY:Koncert pod zvezdami - Big Band Grosuplje & Rok Ferengja (Grosupl
- je v jeseni)
-LOCATION:center Grosuplje\, Grosuplje
-DESCRIPTION:Koncert Big Banda Grosuplje in glasbenika Roka Ferengje v cen
- tru Grosupljega v okviru festivala Grosuplje v jeseni\, 18. septembra 20
- 26 ob 19.00. [lokalni festival\, znan glasbenik]
-URL:https://www.grosuplje.si/objava/1339976
+SUMMARY:Kino Šiška 17. rojstni dan: Orchestre Tout Puissant Marcel Duch
+ amp + Etceteral
+LOCATION:Kino Šiška\, Ljubljana
+DESCRIPTION:Praznovanje 17. rojstnega dne Kino Šiške s koncertom skupin
+  Orchestre Tout Puissant Marcel Duchamp in Etceteral\, 17. septembra 202
+ 6 ob 20.00. [mednarodni izvajalec\, obletnica]
+URL:https://www.kinosiska.si/en/dogodek/
 CATEGORIES:GLASBA
 END:VEVENT
 BEGIN:VEVENT
-UID:43fcc84558d3c971ff2e6e9615085d873ab33c0c@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260918T190000
-DTEND:20260918T210000
-SUMMARY:Javno vodstvo po razstavah: Dušan Letnar in umetnost na razgledn
- ici
-LOCATION:Galerija Miha Maleš\, Kamnik
-DESCRIPTION:Javno vodstvo po razstavah o Dušanu Letnarju in umetnosti na
-  razglednici v Galeriji Miha Maleš v Kamniku\, 18. septembra 2026 ob 19
- .00. [voden ogled\, lokalno]
-URL:https://www.muzej-kamnik-on.net/dogodki/koledar-dogodkov-september-20
- 26/
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:b2b9f26342048f8f99b56f9b1ff775fa7610bdcb@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260918T193000
-DTEND:20260918T213000
-SUMMARY:Katarza - odprtje sezone (Slovenska filharmonija\, dir. Kahi Solo
- mnishvili\, Mahler Symphony No. 10) - 2. večer
-LOCATION:Gallusova dvorana\, Cankarjev dom\, Ljubljana
-DESCRIPTION:Drugi večer otvoritvenega koncerta nove sezone Slovenske fil
- harmonije v Gallusovi dvorani Cankarjevega doma\, 18. septembra 2026 ob 
- 19.30. [Slovenska filharmonija\, drugi večer]
-URL:https://filharmonija.si/en/concerts/program/
-CATEGORIES:GLASBA
-END:VEVENT
-BEGIN:VEVENT
-UID:e923b116e7136492d5c9e5240f2032ff36da3adb@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260918T193000
-DTEND:20260918T213000
-SUMMARY:SMS 1: Katarza
-LOCATION:Gallusova dvorana\, Cankarjev dom\, Ljubljana
-DESCRIPTION:Abonmajski koncert Slovenske filharmonije (SMS 1: Katarza) v 
- Gallusovi dvorani Cankarjevega doma\, 18. septembra 2026 ob 19.30. [abon
- majski koncert\, Slovenska filharmonija]
-URL:https://vstopnice.cd-cc.si/en/all.html
-CATEGORIES:KULTURA
-END:VEVENT
-BEGIN:VEVENT
-UID:08c858d30774259bcbba76604f5ee6e0ca0d36f8@event-radar
-DTSTAMP:20260911T055225Z
-DTSTART:20260918T200000
-DTEND:20260918T220000
-SUMMARY:Patetico (SI)
-LOCATION:Gala hala\, Metelkova\, Ljubljana
-DESCRIPTION:Koncert slovenske zasedbe Patetico v Gala hali na Metelkovi v
-  Ljubljani\, 18. septembra 2026 ob 20.00. [klubski koncert\, neznano]
-URL:https://www.galahala.com/program/
-CATEGORIES:GLASBA
-END:VEVENT
-BEGIN:VEVENT
-UID:0cd5037305a6b504cccf613aaeabb117fdee4764@event-radar
-DTSTAMP:20260911T055225Z
+UID:27bd537462c66f5b60d22c56b9a5fdf3935a73db@event-radar
+DTSTAMP:20260912T073521Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-SUMMARY:Žan Serčič - koncert
-LOCATION:Samostan Mekinje\, Kamnik
-DESCRIPTION:Napovedan koncert izvajalca Žana Serčiča v Samostanu Mekin
- je pri Kamniku\, 18. septembra 2026\; ura in podrobnosti dogodka niso za
- nesljivo potrjene. [neznano\, negotov vir]
-URL:https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/2026
+SUMMARY:KonsX - Linija 6\, Emona\, Erida
+LOCATION:Orto Bar\, Ljubljana
+DESCRIPTION:Koncertni večer KonsX z izvajalci Linija 6\, Emona in Erida 
+ v klubu Orto Bar v Ljubljani\, 18. septembra 2026 (ura ni znana). [nezna
+ no]
+URL:https://www.orto-bar.com/en/dogodki/koncerti/
+CATEGORIES:GLASBA
+END:VEVENT
+BEGIN:VEVENT
+UID:0eaf6f269c9cb6d5af5160e9e90171602963e505@event-radar
+DTSTAMP:20260912T073521Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:REMINISCENCE – Evanescence Tribute Band
+LOCATION:Orto Bar\, Ljubljana
+DESCRIPTION:Nastop tribute benda Reminiscence\, posvečenega skupini Evan
+ escence\, v klubu Orto Bar v Ljubljani\, 18. septembra 2026 (ura ni znan
+ a). [tribute band\, neznano]
+URL:https://www.orto-bar.com/en/dogodki/koncerti/
+CATEGORIES:GLASBA
+END:VEVENT
+BEGIN:VEVENT
+UID:95ae40eae5938124a433fad1421dc75d47677f2d@event-radar
+DTSTAMP:20260912T073521Z
+DTSTART:20260918T193000
+DTEND:20260918T213000
+SUMMARY:SMS 1: Katarza (Slovenska filharmonija)
+LOCATION:Gallusova dvorana\, Cankarjev dom\, Ljubljana
+DESCRIPTION:Ponovitev abonmajskega koncerta Slovenske filharmonije SMS 1:
+  Katarza v Gallusovi dvorani Cankarjevega doma v Ljubljani\, 18. septemb
+ ra 2026 ob 19.30. [klasična glasba]
+URL:https://vstopnice.cd-cc.si/en/all.html
+CATEGORIES:GLASBA
+END:VEVENT
+BEGIN:VEVENT
+UID:2dcb708bd94341a56e066ba7913365a458285361@event-radar
+DTSTAMP:20260912T073521Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Tenside\, Aurorawave\, Sugar Spine
+LOCATION:Orto Bar\, Ljubljana
+DESCRIPTION:Koncertni večer zasedb Tenside\, Aurorawave in Sugar Spine v
+  klubu Orto Bar v Ljubljani\, 19. septembra 2026 (ura ni znana). [neznan
+ o]
+URL:https://www.orto-bar.com/en/dogodki/koncerti/
+CATEGORIES:GLASBA
+END:VEVENT
+BEGIN:VEVENT
+UID:2835fdae39416fb28cbd3fb4b6bf947c7d467330@event-radar
+DTSTAMP:20260912T073521Z
+DTSTART:20260919T110000
+DTEND:20260919T130000
+SUMMARY:Lutkovna predstava (Grajsko gledališče)
+LOCATION:Ljubljanski grad\, Grajsko gledališče\, Ljubljana
+DESCRIPTION:Lutkovna predstava v Grajskem gledališču na Ljubljanskem gr
+ adu\, 19. septembra 2026 ob 11.00 (naslov predstave iz vira ni natančno
+  naveden). [za otroke\, neznano]
+URL:https://shop.ljubljanskigrad.si/si/skupina/3103/predstave.html
+CATEGORIES:KULTURA
+END:VEVENT
+BEGIN:VEVENT
+UID:418f12184ba4f857c07586b1c4a8605a2ac5a2e1@event-radar
+DTSTAMP:20260912T073521Z
+DTSTART:20260919T180000
+DTEND:20260919T200000
+SUMMARY:RK Krim Mercator : Team Esbjerg (EHF Liga prvakinj\, 3. krog)
+LOCATION:Hala Tivoli\, Ljubljana
+DESCRIPTION:Rokometna tekma 3. kroga EHF Lige prvakinj med RK Krim Mercat
+ or in danskim klubom Team Esbjerg v Hali Tivoli v Ljubljani\, 19. septem
+ bra 2026 ob 18.00. [mednarodno tekmovanje]
+URL:https://rkkrim.com/tekme/
+CATEGORIES:SPORT
+END:VEVENT
+BEGIN:VEVENT
+UID:4cdfe852c708735f1ff74e52f0f00e5b07dc1004@event-radar
+DTSTAMP:20260912T073521Z
+DTSTART:20260919T200000
+DTEND:20260919T220000
+SUMMARY:FLIRRT\, na štiri oči
+LOCATION:Gallusova dvorana\, Cankarjev dom\, Ljubljana
+DESCRIPTION:Glasbeni dogodek FLIRRT: na štiri oči v Gallusovi dvorani C
+ ankarjevega doma v Ljubljani\, 19. septembra 2026 ob 20.00 (izvajalec iz
+  vira ni podrobneje opredeljen). [neznano]
+URL:https://vstopnice.cd-cc.si/en/all.html
+CATEGORIES:GLASBA
+END:VEVENT
+BEGIN:VEVENT
+UID:81d4d10d91da4a8449af15b49db5f93a68687c44@event-radar
+DTSTAMP:20260912T073521Z
+DTSTART:20260919T200000
+DTEND:20260919T220000
+SUMMARY:Šiška Open x Summer in Šiška 2026: ĐOKO & Linija 6
+LOCATION:Kino Šiška\, Ljubljana
+DESCRIPTION:Koncert izvajalcev Đoko in Linija 6 v okviru cikla Šiška O
+ pen x Summer in Šiška v Kino Šiški v Ljubljani\, 19. septembra 2026 
+ ob 20.00.
+URL:https://www.kinosiska.si/en/dogodek/
 CATEGORIES:GLASBA
 END:VEVENT
 END:VCALENDAR

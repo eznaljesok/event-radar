@@ -1,437 +1,200 @@
 [
   {
-    "naslov": "53. Dnevi narodnih noš in oblačilne dediščine",
-    "datum": "2026-09-11",
-    "ura": null,
-    "kraj": "Kamnik",
-    "viri": [
-      "https://narodnenose.si/en/",
-      "https://www.kamnik.info/koledar_prireditev/"
-    ],
-    "prizorisce": "Center Kamnika",
-    "kategorija": "kultura"
-  },
-  {
-    "naslov": "53. Dnevi narodnih noš in oblačilne dediščine",
+    "kategorija": "kultura",
+    "naslov": "ARTish – umetniška tržnica",
     "datum": "2026-09-12",
-    "ura": null,
-    "kraj": "Kamnik",
-    "viri": [
-      "https://narodnenose.si/en/",
-      "https://www.kamnik.info/koledar_prireditev/"
-    ],
-    "prizorisce": "Center Kamnika",
-    "kategorija": "kultura"
-  },
-  {
-    "naslov": "53. Dnevi narodnih noš in oblačilne dediščine",
-    "datum": "2026-09-13",
-    "ura": null,
-    "kraj": "Kamnik",
-    "viri": [
-      "https://narodnenose.si/en/",
-      "https://www.kamnik.info/koledar_prireditev/"
-    ],
-    "prizorisce": "Center Kamnika",
-    "kategorija": "kultura"
-  },
-  {
-    "naslov": "Razstava: Narodne noše skozi objektiv Dušana Letnarja",
-    "datum": "2026-09-11",
-    "ura": "10:00-18:00",
-    "kraj": "Kamnik",
-    "viri": [
-      "https://www.muzej-kamnik-on.net/dogodki/koledar-dogodkov-september-2026/"
-    ],
-    "prizorisce": "Galerija Miha Maleš",
-    "kategorija": "kultura"
-  },
-  {
-    "naslov": "Razstava: Narodne noše skozi objektiv Dušana Letnarja - voden ogled",
-    "datum": "2026-09-12",
-    "ura": "13:00",
-    "kraj": "Kamnik",
-    "viri": [
-      "https://www.muzej-kamnik-on.net/dogodki/koledar-dogodkov-september-2026/"
-    ],
-    "prizorisce": "Galerija Miha Maleš",
-    "kategorija": "kultura"
-  },
-  {
-    "naslov": "Razstava: Narodne noše skozi objektiv Dušana Letnarja - voden ogled",
-    "datum": "2026-09-13",
-    "ura": "13:30",
-    "kraj": "Kamnik",
-    "viri": [
-      "https://www.muzej-kamnik-on.net/dogodki/koledar-dogodkov-september-2026/"
-    ],
-    "prizorisce": "Galerija Miha Maleš",
-    "kategorija": "kultura"
-  },
-  {
-    "naslov": "\"Iz ozadja\" - fotografska razstava",
-    "datum": "2026-09-11",
-    "ura": "19:00",
-    "kraj": "Kamnik",
-    "viri": [
-      "https://www.domkulture.org/sl/koledar-prireditev/"
-    ],
-    "prizorisce": "Barutanski zid",
-    "kategorija": "kultura"
-  },
-  {
-    "naslov": "Vodenje po razstavi fosilov (Inštitut za paleobiologijo)",
-    "datum": "2026-09-12",
-    "ura": "09:00-13:00",
-    "kraj": "Kamnik",
-    "viri": [
-      "https://www.domkulture.org/sl/koledar-prireditev/"
-    ],
-    "prizorisce": "Samostan Mekinje",
-    "kategorija": "kultura"
-  },
-  {
-    "naslov": "Otroške delavnice na Starem gradu",
-    "datum": "2026-09-12",
-    "ura": "10:00",
-    "kraj": "Kamnik",
-    "viri": [
-      "https://www.domkulture.org/sl/koledar-prireditev/"
-    ],
-    "prizorisce": "Stari grad nad Kamnikom",
-    "kategorija": "kultura"
-  },
-  {
-    "naslov": "Zvočno-vokalna kopel",
-    "datum": "2026-09-12",
-    "ura": "18:30-20:00",
-    "kraj": "Kamnik",
-    "viri": [
-      "https://www.domkulture.org/sl/koledar-prireditev/"
-    ],
-    "prizorisce": "Samostan Mekinje",
-    "kategorija": "kultura"
-  },
-  {
-    "naslov": "Zeliščarski pripravki - delavnica",
-    "datum": "2026-09-17",
-    "ura": "17:00-20:00",
-    "kraj": "Kamnik",
-    "viri": [
-      "https://www.domkulture.org/sl/koledar-prireditev/"
-    ],
-    "prizorisce": "Samostan Mekinje",
-    "kategorija": "kultura"
-  },
-  {
-    "naslov": "Javno vodstvo po razstavah: Dušan Letnar in umetnost na razglednici",
-    "datum": "2026-09-18",
-    "ura": "19:00",
-    "kraj": "Kamnik",
-    "viri": [
-      "https://www.muzej-kamnik-on.net/dogodki/koledar-dogodkov-september-2026/",
-      "https://www.domkulture.org/sl/koledar-prireditev/"
-    ],
-    "prizorisce": "Galerija Miha Maleš",
-    "kategorija": "kultura"
-  },
-  {
-    "naslov": "Kette-Cankar 2026",
-    "datum": "2026-09-12",
-    "ura": null,
-    "kraj": "Vrhnika",
-    "viri": [
-      "https://visitvrhnika.si/dogodki/"
-    ],
-    "prizorisce": "Cankarjev dom Vrhnika",
-    "kategorija": "kultura"
-  },
-  {
-    "naslov": "Rekviem v belem - umirajoči ledeniki",
-    "datum": "2026-09-12",
-    "ura": "20:00",
+    "ura": "10:00-17:00",
+    "prizorisce": "Gallusovo nabrežje",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://vstopnice.cd-cc.si/en/all.html"
-    ],
-    "prizorisce": "Kosovelova dvorana, Cankarjev dom",
-    "kategorija": "kultura"
+    "viri": ["https://www.visitljubljana.com/sl/obiskovalci/prireditve"]
   },
   {
-    "naslov": "Sprehod skozi mozaik zgodovine antične Emone (voden ogled)",
-    "datum": "2026-09-12",
-    "ura": "10:00",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://mgml.si/sl/dogodki/"
-    ],
-    "prizorisce": "Mestni muzej Ljubljana",
-    "kategorija": "kultura"
-  },
-  {
-    "naslov": "Vodstvo za družine po Plečnikovi hiši",
-    "datum": "2026-09-12",
-    "ura": "16:00",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://mgml.si/sl/dogodki/"
-    ],
-    "prizorisce": "Plečnikova hiša",
-    "kategorija": "kultura"
-  },
-  {
-    "naslov": "Mala čarovnica",
-    "datum": "2026-09-12",
-    "ura": "11:00",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://www.lgl.si/si/predstave/vse-predstave"
-    ],
-    "prizorisce": "Lutkovno gledališče Ljubljana",
-    "kategorija": "kultura"
-  },
-  {
-    "naslov": "Mala čarovnica",
-    "datum": "2026-09-12",
-    "ura": "17:00",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://www.lgl.si/si/predstave/vse-predstave"
-    ],
-    "prizorisce": "Lutkovno gledališče Ljubljana",
-    "kategorija": "kultura"
-  },
-  {
-    "naslov": "Gorenjski slavček (opera, Anton Foerster)",
+    "kategorija": "kultura",
+    "naslov": "Gorenjski slavček (opera, A. Foerster)",
     "datum": "2026-09-12",
     "ura": "18:00",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://opera.mojekarte.si/en/all.html",
-      "https://www.opera.si/en"
-    ],
     "prizorisce": "SNG Opera in balet Ljubljana",
-    "kategorija": "kultura"
-  },
-  {
-    "naslov": "Javno vodstvo med portreti Običajnih ljudi Roba Hornstre",
-    "datum": "2026-09-13",
-    "ura": "16:30",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://mgml.si/sl/dogodki/"
-    ],
-    "prizorisce": "Galerija Jakopič",
-    "kategorija": "kultura"
+    "viri": ["https://opera.mojekarte.si/en/all.html"]
   },
   {
-    "naslov": "Iztok Kocen: Klik za Ljubezen (operna komedija)",
-    "datum": "2026-09-13",
-    "ura": "19:30",
+    "kategorija": "kultura",
+    "naslov": "Iztok Kocen: Klik za ljubezen",
+    "datum": "2026-09-12",
+    "ura": "19:00",
+    "prizorisce": "Cankarjev dom, Štihova dvorana",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://vstopnice.cd-cc.si/en/all.html"
-    ],
-    "prizorisce": "Štihova dvorana, Cankarjev dom",
-    "kategorija": "kultura"
+    "viri": ["https://www.cd-cc.si/en/monthly-events-calendar"]
   },
   {
+    "kategorija": "kultura",
+    "naslov": "Mala čarovnica (lutkovna predstava)",
+    "datum": "2026-09-12",
+    "ura": "11:00 in 17:00",
+    "prizorisce": "Lutkovno gledališče Ljubljana",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.lgl.si/si/predstave/vse-predstave"]
+  },
+  {
+    "kategorija": "kultura",
+    "naslov": "Hamo & Tribute 2 Love – 20 let",
+    "datum": "2026-09-12",
+    "ura": "20:00",
+    "prizorisce": "Kino Šiška",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.kinosiska.si/en/dogodek/"]
+  },
+  {
+    "kategorija": "kultura",
     "naslov": "Global Kryner",
     "datum": "2026-09-13",
-    "ura": "20:00",
+    "ura": "19:30",
+    "prizorisce": "Cankarjev dom, Gallusova dvorana",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://vstopnice.cd-cc.si/en/all.html"
-    ],
-    "prizorisce": "Linhartova dvorana, Cankarjev dom",
-    "kategorija": "kultura"
+    "viri": ["https://www.cd-cc.si/en/monthly-events-calendar"]
   },
   {
-    "naslov": "Iztok Kocen: Klik za Ljubezen (operna komedija)",
+    "kategorija": "kultura",
+    "naslov": "Iztok Kocen: Klik za ljubezen",
+    "datum": "2026-09-13",
+    "ura": "20:00",
+    "prizorisce": "Cankarjev dom, Štihova dvorana",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.cd-cc.si/en/monthly-events-calendar"]
+  },
+  {
+    "kategorija": "kultura",
+    "naslov": "Iztok Kocen: Klik za ljubezen",
     "datum": "2026-09-14",
     "ura": "19:30",
+    "prizorisce": "Cankarjev dom, Štihova dvorana",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://vstopnice.cd-cc.si/en/all.html"
-    ],
-    "prizorisce": "Štihova dvorana, Cankarjev dom",
-    "kategorija": "kultura"
+    "viri": ["https://www.cd-cc.si/en/monthly-events-calendar"]
   },
   {
+    "kategorija": "kultura",
     "naslov": "Neustrašna raziskovalka",
     "datum": "2026-09-15",
     "ura": "18:00",
+    "prizorisce": "Cankarjev dom, Štihova dvorana",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://vstopnice.cd-cc.si/en/all.html"
-    ],
-    "prizorisce": "Štihova dvorana, Cankarjev dom",
-    "kategorija": "kultura"
+    "viri": ["https://www.cd-cc.si/en/monthly-events-calendar"]
   },
   {
-    "naslov": "Kdo neki tam piše",
+    "kategorija": "kultura",
+    "naslov": "Mala čarovnica (lutkovna predstava)",
     "datum": "2026-09-15",
-    "ura": "19:30",
+    "ura": "17:00",
+    "prizorisce": "Lutkovno gledališče Ljubljana",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://vstopnice.cd-cc.si/en/all.html"
-    ],
-    "prizorisce": "Dvorana Alme Karlin, Cankarjev dom",
-    "kategorija": "kultura"
+    "viri": ["https://www.lgl.si/si/predstave/vse-predstave"]
   },
   {
-    "naslov": "Professor Brian Cox - Emergence",
+    "kategorija": "kultura",
+    "naslov": "Moški so z Marsa, ženske so z Venere 2",
     "datum": "2026-09-15",
-    "ura": "19:30",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://vstopnice.cd-cc.si/en/all.html"
-    ],
-    "prizorisce": "Gallusova dvorana, Cankarjev dom",
-    "kategorija": "kultura"
+    "ura": "19:00",
+    "prizorisce": "Cankarjev dom Vrhnika",
+    "kraj": "Vrhnika",
+    "viri": ["https://www.napovednikdogodkov.si/venue/cankarjev-dom-vrhnika/"]
   },
   {
-    "naslov": "Goncourtova nagrada (pogovor)",
+    "kategorija": "kultura",
+    "naslov": "Prof. Brian Cox: Emergence",
     "datum": "2026-09-16",
     "ura": "19:00",
+    "prizorisce": "Cankarjev dom, Gallusova dvorana",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://vstopnice.cd-cc.si/en/all.html"
-    ],
-    "prizorisce": "Klub CD, Cankarjev dom",
-    "kategorija": "kultura"
+    "viri": ["https://www.cd-cc.si/en/monthly-events-calendar"]
   },
   {
-    "naslov": "Kozmos Kosovel",
+    "kategorija": "kultura",
+    "naslov": "Mala čarovnica (lutkovna predstava)",
     "datum": "2026-09-16",
-    "ura": "19:00",
+    "ura": "17:00",
+    "prizorisce": "Lutkovno gledališče Ljubljana",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://vstopnice.cd-cc.si/en/all.html"
-    ],
-    "prizorisce": "Galerija CD, Cankarjev dom",
-    "kategorija": "kultura"
+    "viri": ["https://www.lgl.si/si/predstave/vse-predstave"]
   },
   {
-    "naslov": "Stvari, ki jih ne morem povedati o stvareh",
+    "kategorija": "kultura",
+    "naslov": "Summer in Šiška 2026: NUHARA",
     "datum": "2026-09-16",
     "ura": "20:00",
+    "prizorisce": "Kino Šiška",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://vstopnice.cd-cc.si/en/all.html"
-    ],
-    "prizorisce": "Dvorana Alme Karlin, Cankarjev dom",
-    "kategorija": "kultura"
+    "viri": ["https://www.kinosiska.si/en/dogodek/"]
   },
   {
-    "naslov": "Resnice in miti o Emoncih: saj ni res - pa je!",
-    "datum": "2026-09-17",
-    "ura": "16:30",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://mgml.si/sl/dogodki/"
-    ],
-    "prizorisce": "Mestni muzej Ljubljana",
-    "kategorija": "kultura"
-  },
-  {
-    "naslov": "Odprtje razstave: Borut Krajnc - Preobrat",
-    "datum": "2026-09-17",
-    "ura": "19:00",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://mgml.si/sl/dogodki/"
-    ],
-    "prizorisce": "Mestna galerija Ljubljana",
-    "kategorija": "kultura"
-  },
-  {
+    "kategorija": "kultura",
     "naslov": "Na Luno!",
     "datum": "2026-09-17",
     "ura": "18:00",
+    "prizorisce": "Cankarjev dom, Štihova dvorana",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://vstopnice.cd-cc.si/en/all.html"
-    ],
-    "prizorisce": "Štihova dvorana, Cankarjev dom",
-    "kategorija": "kultura"
+    "viri": ["https://www.cd-cc.si/en/monthly-events-calendar"]
   },
   {
-    "naslov": "Podelitev Rožančeve nagrade",
+    "kategorija": "kultura",
+    "naslov": "Agelast & Dubioza kolektiv: Moje dubioze",
     "datum": "2026-09-17",
-    "ura": "18:00",
+    "ura": "19:00",
+    "prizorisce": "Kino Šiška",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://vstopnice.cd-cc.si/en/all.html"
-    ],
-    "prizorisce": "Klub CD, Cankarjev dom",
-    "kategorija": "kultura"
+    "viri": ["https://www.kinosiska.si/en/dogodek/"]
   },
   {
-    "naslov": "SMS 1: Katarza",
-    "datum": "2026-09-17",
-    "ura": "19:30",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://vstopnice.cd-cc.si/en/all.html"
-    ],
-    "prizorisce": "Gallusova dvorana, Cankarjev dom",
-    "kategorija": "kultura"
-  },
-  {
-    "naslov": "Stvari, ki jih ne morem povedati o stvareh",
+    "kategorija": "kultura",
+    "naslov": "Kino Šiška 17. rojstni dan: Orchestre Tout Puissant Marcel Duchamp + Etceteral",
     "datum": "2026-09-17",
     "ura": "20:00",
+    "prizorisce": "Kino Šiška",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://vstopnice.cd-cc.si/en/all.html"
-    ],
-    "prizorisce": "Dvorana Alme Karlin, Cankarjev dom",
-    "kategorija": "kultura"
+    "viri": ["https://www.kinosiska.si/en/dogodek/"]
   },
   {
-    "naslov": "SMS 1: Katarza",
+    "kategorija": "kultura",
+    "naslov": "Žan Serčič – koncert (Na ulicah srca, turneja 2026)",
     "datum": "2026-09-18",
-    "ura": "19:30",
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://vstopnice.cd-cc.si/en/all.html"
-    ],
-    "prizorisce": "Gallusova dvorana, Cankarjev dom",
-    "kategorija": "kultura"
+    "ura": "20:00",
+    "prizorisce": "Poletno gledališče Studenec",
+    "kraj": "Domžale",
+    "viri": ["https://dogodki.kulturnik.si/?where=Dom%C5%BEale"]
   },
   {
-    "naslov": "Grosuplje v jeseni - Koncert pod zvezdami (Big Band Grosuplje in Rok Ferengja)",
-    "datum": "2026-09-18",
-    "ura": "19:00",
-    "kraj": "Grosuplje",
-    "viri": [
-      "https://www.grosuplje.si/objava/1339976",
-      "https://radio.zelenival.com/2026/09/08/14-festival-grosuplje-v-jeseni/"
-    ],
-    "prizorisce": "Grosuplje (center)",
-    "kategorija": "kultura"
+    "kategorija": "kultura",
+    "naslov": "Lutkovna predstava (Grajsko gledališče)",
+    "datum": "2026-09-19",
+    "ura": "11:00",
+    "prizorisce": "Ljubljanski grad, Grajsko gledališče",
+    "kraj": "Ljubljana",
+    "viri": ["https://shop.ljubljanskigrad.si/si/skupina/3103/predstave.html", "https://dogodki.kulturnik.si/?where=Ljubljanski+grad"]
   },
   {
-    "naslov": "Ljubljana Castle Jazz Club - otvoritveni večer",
-    "datum": "2026-09-11",
-    "ura": null,
-    "kraj": "Ljubljana",
-    "viri": [
-      "https://ljubljanskigrad.si/en/castle-events/"
-    ],
-    "prizorisce": "Rock Hall, Ljubljanski grad",
-    "kategorija": "kultura"
+    "kategorija": "kultura",
+    "naslov": "Mi2 – koncert",
+    "datum": "2026-09-19",
+    "ura": "20:30",
+    "prizorisce": "Poletno gledališče Studenec",
+    "kraj": "Domžale",
+    "viri": ["https://dogodki.kulturnik.si/?where=Dom%C5%BEale"]
   },
   {
-    "naslov": "Odprta kuhna",
-    "datum": "2026-09-11",
-    "ura": "10:00-21:00",
+    "kategorija": "kultura",
+    "naslov": "Šiška Open 2026",
+    "datum": "2026-09-19",
+    "ura": "10:00",
+    "prizorisce": "Kino Šiška",
     "kraj": "Ljubljana",
-    "viri": [
-      "https://www.visitljubljana.com/en/visitors/events"
-    ],
-    "prizorisce": "Pogačarjev trg",
-    "kategorija": "kultura"
+    "viri": ["https://www.kinosiska.si/en/dogodek/"]
+  },
+  {
+    "kategorija": "kultura",
+    "naslov": "Šiška Open x Summer in Šiška: Đoko & Linija 6",
+    "datum": "2026-09-19",
+    "ura": "20:00",
+    "prizorisce": "Kino Šiška",
+    "kraj": "Ljubljana",
+    "viri": ["https://www.kinosiska.si/en/dogodek/"]
   }
 ]

@@ -1,0 +1,118 @@
+[
+  {
+    "naslov": "The Rumjacks",
+    "datum": "2026-09-12",
+    "ura": "19:30",
+    "prizorisce": "Orto Bar",
+    "kraj": "Ljubljana",
+    "kategorija": "glasba",
+    "viri": [
+      "https://www.orto-bar.com/en/dogodki/koncerti/the-rumjacks/",
+      "https://www.songkick.com/concerts/43198911-rumjacks-at-orto-bar"
+    ]
+  },
+  {
+    "naslov": "POPPY by Cvetličarna",
+    "datum": "2026-09-12",
+    "ura": "22:00",
+    "prizorisce": "Cvetličarna",
+    "kraj": "Ljubljana",
+    "kategorija": "glasba",
+    "viri": [
+      "https://www.entrio.si/en/venue/ljubljana/cvetlicarna"
+    ]
+  },
+  {
+    "naslov": "Gorenjski slavček (Anton Foerster) - opera",
+    "datum": "2026-09-12",
+    "ura": "18:00",
+    "prizorisce": "SNG Opera in balet Ljubljana",
+    "kraj": "Ljubljana",
+    "kategorija": "glasba",
+    "viri": [
+      "https://www.opera.si/en",
+      "https://opera.mojekarte.si/en/tickets.html"
+    ]
+  },
+  {
+    "naslov": "Global Kryner",
+    "datum": "2026-09-13",
+    "ura": "20:00",
+    "prizorisce": "Gallusova dvorana, Cankarjev dom",
+    "kraj": "Ljubljana",
+    "kategorija": "glasba",
+    "viri": [
+      "https://www.eventim.si/en/artist/global-kryner/",
+      "https://www.cd-cc.si/en/culture/music"
+    ]
+  },
+  {
+    "naslov": "RAPETEK EKSTRA: La Coka Nostra (USA)",
+    "datum": "2026-09-17",
+    "ura": "20:00",
+    "prizorisce": "Gala hala, Metelkova",
+    "kraj": "Ljubljana",
+    "kategorija": "glasba",
+    "viri": [
+      "https://www.galahala.com/program/"
+    ]
+  },
+  {
+    "naslov": "Katarza - odprtje sezone (Slovenska filharmonija, dir. Kahi Solomnishvili, Mahler Symphony No. 10)",
+    "datum": "2026-09-17",
+    "ura": "19:30",
+    "prizorisce": "Gallusova dvorana, Cankarjev dom",
+    "kraj": "Ljubljana",
+    "kategorija": "glasba",
+    "viri": [
+      "https://filharmonija.si/en/concerts/program/",
+      "https://ljnovice.si/2026/09/07/slovenska-filharmonija-vabi-otvoritev-sezone-2026-27/"
+    ]
+  },
+  {
+    "naslov": "Katarza - odprtje sezone (Slovenska filharmonija, dir. Kahi Solomnishvili, Mahler Symphony No. 10) - 2. večer",
+    "datum": "2026-09-18",
+    "ura": "19:30",
+    "prizorisce": "Gallusova dvorana, Cankarjev dom",
+    "kraj": "Ljubljana",
+    "kategorija": "glasba",
+    "viri": [
+      "https://filharmonija.si/en/concerts/program/",
+      "https://ljnovice.si/2026/09/07/slovenska-filharmonija-vabi-otvoritev-sezone-2026-27/"
+    ]
+  },
+  {
+    "naslov": "Patetico (SI)",
+    "datum": "2026-09-18",
+    "ura": "20:00",
+    "prizorisce": "Gala hala, Metelkova",
+    "kraj": "Ljubljana",
+    "kategorija": "glasba",
+    "viri": [
+      "https://www.galahala.com/program/"
+    ]
+  },
+  {
+    "naslov": "Koncert pod zvezdami - Big Band Grosuplje & Rok Ferengja (Grosuplje v jeseni)",
+    "datum": "2026-09-18",
+    "ura": "19:00",
+    "prizorisce": "center Grosuplje",
+    "kraj": "Grosuplje",
+    "kategorija": "glasba",
+    "viri": [
+      "https://www.grosuplje.si/objava/1339976",
+      "https://radio.zelenival.com/2026/09/08/14-festival-grosuplje-v-jeseni/"
+    ]
+  },
+  {
+    "naslov": "Žan Serčič - koncert",
+    "datum": "2026-09-18",
+    "ura": "neznano",
+    "prizorisce": "Samostan Mekinje",
+    "kraj": "Kamnik",
+    "kategorija": "glasba",
+    "viri": [
+      "https://www.songkick.com/metro-areas/32259-slovenia-ljubljana/2026"
+    ]
+  }
+]
